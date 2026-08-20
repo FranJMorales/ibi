@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 516" width="900" height="516" role="img" aria-labelledby="t-tipos d-tipos" font-family="Georgia, 'Source Serif 4', serif">
+<title id="t-tipos">Tipo de gravamen del IBI urbano en los municipios de Asturias para 2026</title>
+<desc id="d-tipos">Gráfico de barras horizontales. Los tipos van del 0,45% al 0,854%. Cada barra corresponde a un municipio de Asturias recogido en la guía.</desc>
+<rect width="900" height="516" fill="#f5f0e8"/>
+<text x="24" y="38" font-size="21" font-weight="700" fill="#1a1a2e">Tipo de IBI urbano 2026 · Asturias</text>
+<text x="24" y="62" font-size="13" fill="#6b6b7b">Porcentaje aplicado sobre el valor catastral. Horquilla legal para urbana: 0,40% – 1,10%.</text>
+<line x1="176" y1="82" x2="832" y2="82" stroke="#d8d0c0"/>
+<text x="166" y="109" font-size="13" fill="#1a1a2e" text-anchor="end">Mieres</text>
+<rect x="176" y="96" width="637" height="18" rx="2" fill="#c8522a"/>
+<text x="821" y="109" font-size="12.5" font-weight="700" fill="#1a1a2e">0,854%</text>
+<text x="166" y="137" font-size="13" fill="#1a1a2e" text-anchor="end">Grado</text>
+<rect x="176" y="124" width="627" height="18" rx="2" fill="#2a7c6f"/>
+<text x="811" y="137" font-size="12.5" font-weight="700" fill="#1a1a2e">0,84%</text>
+<text x="166" y="165" font-size="13" fill="#1a1a2e" text-anchor="end">Cangas de Onís</text>
+<rect x="176" y="152" width="619" height="18" rx="2" fill="#2a7c6f"/>
+<text x="803" y="165" font-size="12.5" font-weight="700" fill="#1a1a2e">0,83%</text>
+<text x="166" y="193" font-size="13" fill="#1a1a2e" text-anchor="end">Llanes</text>
+<rect x="176" y="180" width="559" height="18" rx="2" fill="#2a7c6f"/>
+<text x="743" y="193" font-size="12.5" font-weight="700" fill="#1a1a2e">0,75%</text>
+<text x="166" y="221" font-size="13" fill="#1a1a2e" text-anchor="end">Lena</text>
+<rect x="176" y="208" width="548" height="18" rx="2" fill="#2a7c6f"/>
+<text x="732" y="221" font-size="12.5" font-weight="700" fill="#1a1a2e">0,735%</text>
+<text x="166" y="249" font-size="13" fill="#1a1a2e" text-anchor="end">Langreo</text>
+<rect x="176" y="236" width="533" height="18" rx="2" fill="#2a7c6f"/>
+<text x="717" y="249" font-size="12.5" font-weight="700" fill="#1a1a2e">0,7143%</text>
+<text x="166" y="277" font-size="13" fill="#1a1a2e" text-anchor="end">Avilés</text>
+<rect x="176" y="264" width="507" height="18" rx="2" fill="#2a7c6f"/>
+<text x="691" y="277" font-size="12.5" font-weight="700" fill="#1a1a2e">0,68%</text>
+<text x="166" y="305" font-size="13" fill="#1a1a2e" text-anchor="end">Villaviciosa</text>
+<rect x="176" y="292" width="436" height="18" rx="2" fill="#2a7c6f"/>
+<text x="620" y="305" font-size="12.5" font-weight="700" fill="#1a1a2e">0,585%</text>
+<text x="166" y="333" font-size="13" fill="#1a1a2e" text-anchor="end">Navia</text>
+<rect x="176" y="320" width="433" height="18" rx="2" fill="#2a7c6f"/>
+<text x="617" y="333" font-size="12.5" font-weight="700" fill="#1a1a2e">0,58%</text>
+<text x="166" y="361" font-size="13" fill="#1a1a2e" text-anchor="end">Oviedo</text>
+<rect x="176" y="348" width="433" height="18" rx="2" fill="#2a7c6f"/>
+<text x="617" y="361" font-size="12.5" font-weight="700" fill="#1a1a2e">0,58%</text>
+<text x="166" y="389" font-size="13" fill="#1a1a2e" text-anchor="end">Siero</text>
+<rect x="176" y="376" width="433" height="18" rx="2" fill="#2a7c6f"/>
+<text x="617" y="389" font-size="12.5" font-weight="700" fill="#1a1a2e">0,58%</text>
+<text x="166" y="417" font-size="13" fill="#1a1a2e" text-anchor="end">Castrillón</text>
+<rect x="176" y="404" width="421" height="18" rx="2" fill="#2a7c6f"/>
+<text x="605" y="417" font-size="12.5" font-weight="700" fill="#1a1a2e">0,5645%</text>
+<text x="166" y="445" font-size="13" fill="#1a1a2e" text-anchor="end">Gijón</text>
+<rect x="176" y="432" width="336" height="18" rx="2" fill="#c8522a"/>
+<text x="520" y="445" font-size="12.5" font-weight="700" fill="#1a1a2e">0,45%</text>
+<text x="24" y="494" font-size="11.5" fill="#6b6b7b">Elaboración propia de TasasMunicipales.info con los tipos que publica el Ministerio de Hacienda.</text>
+</svg>

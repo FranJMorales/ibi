@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <link rel="icon" type="image/x-icon" href="../favicon.ico">
+  <link rel="icon" type="image/svg+xml" href="../favicon.svg">
+  <link rel="icon" type="image/png" sizes="32x32" href="../favicon-32x32.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="../apple-touch-icon.png">
+  <title>Metodología: de dónde salen nuestros datos y cómo se verifican</title>
+  <meta name="description" content="Qué fuente oficial respalda cada dato del sitio, qué hemos podido contrastar y qué no publicamos por no tener fuente, cómo se comprueba y cómo pedir una corrección. Con el registro de errores ya corregidos.">
+  <link rel="canonical" href="https://tasasmunicipales.info/metodologia/">
+  <meta name="google-adsense-account" content="ca-pub-4975903304841229">
+  <!-- Google Consent Mode v2: estado por defecto denegado hasta que el usuario acepte (RGPD) -->
+  <script id="tm-consent-default">
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    (function () {
+      var m = document.cookie.match('(^|;)\\s*tm_cookie_consent\\s*=\\s*([^;]+)');
+      var state = (m ? m.pop() : '') === 'accepted' ? 'granted' : 'denied';
+      gtag('consent', 'default', {
+        ad_storage: state,
+        ad_user_data: state,
+        ad_personalization: state,
+        analytics_storage: state,
+        wait_for_update: 500
+      });
+    })();
+  </script>
+  <!-- Google AdSense -->
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4975903304841229" crossorigin="anonymous"></script>
+  <meta name="robots" content="index, follow, max-image-preview:large">
+  <meta property="og:title" content="Metodología: de dónde salen nuestros datos y cómo se verifican">
+  <meta property="og:description" content="Qué fuente oficial respalda cada dato del sitio, qué hemos podido contrastar y qué no publicamos por no tener fuente, cómo se comprueba y cómo pedir una corrección. Con el registro de errores ya corregidos.">
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="https://tasasmunicipales.info/metodologia/">
+  <meta property="og:site_name" content="TasasMunicipales.info">
+  <meta property="og:locale" content="es_ES">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Source+Serif+4:wght@300;400;600&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+<header>
+  <div class="hi">
+    <a href="../" class="logo">TasasMunicipales<span>Guía de Impuestos Locales · España 2026</span></a>
+    <nav class="mainnav" aria-label="Navegación principal">
+      <details class="nav-group">
+        <summary>Mi municipio</summary>
+        <div class="nav-menu">
+          <a href="../municipios/">Buscar entre los 134 municipios</a>
+          <a href="../comunidades/">Por comunidad autónoma</a>
+        </div>
+      </details>
+      <details class="nav-group">
+        <summary>Impuestos</summary>
+        <div class="nav-menu">
+          <a href="../ibi-2026/">IBI</a>
+          <a href="../tasa-basuras/">Tasa de basuras</a>
+          <a href="../plusvalia/">Plusvalía municipal</a>
+          <a href="../bonificaciones/">Bonificaciones del IBI</a>
+          <a href="../impuesto-circulacion/">Impuesto de circulación</a>
+          <a href="../valor-catastral/">Valor catastral</a>
+        </div>
+      </details>
+      <a href="../analisis/">Comparativas</a>
+      <a href="../metodologia/" class="on" aria-current="page">Metodología</a>
+      <a href="../contacto/">Contacto</a>
+      <a href="../calculadora-ibi/" class="nav-cta">Calcular mi IBI</a>
+    </nav>
+  </div>
+</header>
+<div class="bc"><a href="../">Inicio</a><span>›</span><strong>Metodología</strong></div>
+<div class="wrap">
+  <h1>Metodología: de dónde salen los datos y cómo los verificamos</h1>
+  <p class="lead">Publicamos información fiscal municipal, y en ese terreno una cifra sin fuente no vale nada. Esta página explica <strong>qué respalda cada dato</strong>, qué hemos podido contrastar y qué no, y cómo corregimos cuando nos equivocamos.</p>
+
+  <section class="sec">
+    <h2 id="fuentes-por-dato">Qué fuente respalda cada dato</h2>
+    <table class="dt">
+      <thead><tr><th>Dato</th><th>Fuente</th><th>Cobertura</th></tr></thead>
+      <tbody>
+        <tr><td>Tipo de gravamen del IBI urbano y rústico</td><td>Ministerio de Hacienda, consulta de información impositiva municipal</td><td><strong>134 de 134</strong> municipios, con enlace y fecha de consulta</td></tr>
+        <tr><td>Año de entrada en vigor de los valores catastrales</td><td>La misma consulta del Ministerio</td><td><strong>134 de 134</strong></td></tr>
+        <tr><td>Población</td><td>INE, cifras oficiales del padrón municipal</td><td><strong>134 de 134</strong></td></tr>
+        <tr><td>Coeficientes máximos de la plusvalía</td><td>Texto consolidado del TRLRHL en el BOE, art. 107.4</td><td>21 tramos, <a href="../plusvalia/#coeficientes">publicados aquí</a></td></tr>
+        <tr><td>Coeficientes y tipos <em>reales</em> de la plusvalía</td><td>Ministerio de Hacienda, consulta de información impositiva municipal</td><td><strong>127 de 134</strong>: los 21 tramos aprobados por cada ayuntamiento. En 5 no se publica el dato y en 2 lo que se publica no encaja con el sistema vigente desde el RDL 26/2021, así que remitimos al máximo legal</td></tr>
+        <tr><td>Tipo del ICIO y coeficientes de situación del IAE</td><td>La misma consulta del Ministerio</td><td><strong>134 de 134</strong></td></tr>
+        <tr><td>Tarifa del impuesto de circulación (IVTM)</td><td>La misma consulta del Ministerio</td><td><strong>134 de 134</strong>: las 24 tarifas por tipo de vehículo</td></tr>
+        <tr><td>Serie de población (últimas 6 revisiones del padrón)</td><td>INE, API de la operación DPOP</td><td><strong>134 de 134</strong></td></tr>
+        <tr><td>Recargos por pago fuera de plazo</td><td>Ley General Tributaria, art. 28</td><td><a href="../ibi-2026/#recargos">explicados aquí</a></td></tr>
+        <tr><td>Web oficial de cada ayuntamiento</td><td>Localizada una a una y comprobada por HTTP</td><td><strong>30 de 35</strong> respondían correctamente en la última comprobación</td></tr>
+        <tr><td>Organismo que publica el calendario de cobro</td><td>Diputaciones y organismos provinciales de recaudación</td><td><strong>22 de 26</strong> comprobados</td></tr>
+        <tr><td>Plazo de pago del IBI</td><td>Ley General Tributaria, art. 62.3</td><td>Publicamos el <strong>plazo por defecto</strong> (1 de septiembre a 20 de noviembre) y enlazamos al organismo que publica el calendario del año. <a href="#no-publicamos">Por qué no damos fechas por municipio</a></td></tr>
+        <tr><td>Obligación de cobrar la tasa de residuos</td><td>Ley 7/2022, arts. 11.3 a 11.5</td><td>Publicamos la obligación, el plazo que venció el 10 de abril de 2025 y las reducciones que permite la ley. <strong>No publicamos el importe</strong> de ningún municipio: <a href="#no-publicamos">aquí explicamos por qué</a></td></tr>
+        <tr><td><strong>Bonificaciones</strong></td><td>TRLRHL, arts. 73 y 74</td><td>Publicamos el <strong>límite legal</strong>, no el porcentaje municipal: ese lo fija cada ordenanza</td></tr>
+      </tbody>
+    </table>
+    <p>En la ficha de cada municipio repetimos este resumen aplicado a sus datos, para que sepas qué puedes dar por bueno sin comprobarlo y qué no.</p>
+  </section>
+
+  <section class="sec">
+    <h2 id="como-verificamos">Cómo lo verificamos</h2>
+    <p>La verificación no es manual ni ocasional, es un proceso que se ejecuta y deja registro:</p>
+    <ul>
+      <li>Los datos viven en <strong>un único fichero</strong> del que se generan todas las páginas. Antes el mismo dato estaba escrito en cinco sitios distintos y no coincidían entre sí.</li>
+      <li>Cada enlace oficial que publicamos se comprueba con una <strong>petición HTTP</strong> y se guarda el código de respuesta y la fecha. Si un enlace deja de responder, aparece en el informe.</li>
+      <li>Antes de publicar se pasa una <strong>auditoría automática</strong> del sitio completo: estructura HTML, todos los enlaces internos y sus anclas, imágenes, datos estructurados, sitemap y metadatos duplicados. Si algo apunta a una página o a un ancla que no existe, la publicación se detiene.</li>
+      <li>Se ejecutan además <strong>pruebas funcionales en un navegador</strong>: que la calculadora calcule bien, que las tablas ordenen, que los datos de cada página coincidan con la fuente y que las redirecciones lleven a donde deben.</li>
+    </ul>
+  </section>
+
+  <section class="sec">
+    <h2 id="errores-corregidos">Errores que hemos corregido</h2>
+    <p>Publicar el registro de errores es incómodo, pero es la única forma de que la palabra «verificado» signifique algo. Esto es lo que hemos encontrado y arreglado en nuestros propios datos:</p>
+    <table class="dt">
+      <thead><tr><th>Problema</th><th>Alcance</th><th>Estado</th></tr></thead>
+      <tbody>
+        <tr><td>Tipos de IBI que no coincidían con la fuente oficial</td><td>133 de 134 municipios</td><td>Corregidos con el dato del Ministerio</td></tr>
+        <tr><td>Cifras de población sin fuente y sin coincidir con el padrón</td><td>133 de 134</td><td>Corregidas con el dato del INE</td></tr>
+        <tr><td>El mismo dato publicado con valores distintos en varias páginas</td><td>920 contradicciones detectadas</td><td>Eliminadas al unificar la fuente de datos</td></tr>
+        <tr><td>Enlaces a «sedes electrónicas» que no pertenecían a esos ayuntamientos</td><td>Todas las fichas</td><td>Sustituidos por webs oficiales comprobadas</td></tr>
+        <tr><td>Citas de boletines oficiales que no se podían comprobar</td><td>Todas las fichas</td><td>Retiradas y sustituidas por fuentes enlazables</td></tr>
+        <tr><td>URLs antiguas que devolvían error 404</td><td>25 direcciones</td><td>Redirigidas a la ficha correspondiente</td></tr>
+        <tr><td>Municipios archivados en la provincia equivocada</td><td>Villarrobledo y Lalín</td><td>Movidos a su provincia real</td></tr>
+        <tr><td>Importe de la tasa de basuras publicado sin ninguna fuente</td><td>134 de 134 fichas</td><td>Retirado en julio de 2026 (<a href="#no-publicamos">motivo</a>)</td></tr>
+        <tr><td>Fechas de cobro presentadas como propias de cada municipio cuando 117 de 134 repetían el mismo intervalo</td><td>134 de 134 fichas</td><td>Retiradas y sustituidas por el plazo legal del art. 62.3 LGT</td></tr>
+        <tr><td>Gráfico que sumaba la cuota de IBI y una tasa de basuras sin fuente</td><td>9 pilares autonómicos</td><td>Sustituido por un gráfico del año de los valores catastrales</td></tr>
+        <tr><td>Enlace al calendario de la Agencia Tributaria de Murcia en municipios de otras ocho comunidades</td><td>Secciones municipales de los pilares</td><td>Cada municipio enlaza ahora a su organismo recaudador</td></tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section class="sec">
+    <h2 id="no-publicamos">Qué no publicamos y por qué</h2>
+    <p>Hay dos datos que un sitio como este «debería» tener y que aquí no vas a encontrar: <strong>el importe de la tasa de basuras de cada municipio</strong> y <strong>las fechas exactas de cobro</strong>. Hasta julio de 2026 los publicábamos marcados como orientativos. Los hemos retirado, y merece la pena explicar el proceso porque es la parte menos visible de trabajar con datos públicos.</p>
+    <h3>La tasa de residuos no está en ninguna fuente agregada</h3>
+    <p>El artículo 11.3 de la <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2022-5809" target="_blank" rel="nofollow noopener">Ley 7/2022</a> obliga a todas las entidades locales a aprobar una tasa de residuos «específica, diferenciada y no deficitaria», y el 11.5 solo les exige comunicarla —con sus cálculos— <strong>a su comunidad autónoma</strong>. No hay registro estatal. La consulta de información impositiva del Ministerio de Hacienda, que es nuestra fuente para el resto de tributos, cubre impuestos locales: IBI, IAE, IVTM, ICIO y plusvalía. Las tasas quedan fuera.</p>
+    <p>Eso deja una única vía: leer la ordenanza fiscal de cada ayuntamiento. Lo intentamos y estos fueron los obstáculos concretos:</p>
+    <ul>
+      <li>Las ordenanzas se publican casi siempre como <strong>PDF escaneado o maquetado</strong> colgado de la web municipal o del boletín provincial, no como texto.</li>
+      <li>Varias <strong>sedes electrónicas no respondían</strong> en el momento de la consulta, con errores de servidor en la propia página de la tasa.</li>
+      <li>Algunos <strong>boletines oficiales autonómicos</strong> presentaban problemas en su certificado de seguridad, lo que impide una descarga automática fiable.</li>
+      <li>Las búsquedas devuelven <strong>noticias de prensa</strong>, no la ordenanza. Una cifra de un periódico no es una fuente primaria: no dice a qué epígrafe corresponde, ni si incluye impuestos, ni si sigue vigente.</li>
+    </ul>
+    <p>Con ese material se puede escribir un número, pero no se puede sostener. Y hay una razón de fondo para no hacerlo: desde 2025 las tarifas están cambiando en masa precisamente por esta ley, así que un importe heredado tiene todas las papeletas de estar mal. En cada ficha explicamos qué obliga la norma y dónde buscar la tarifa concreta; en la <a href="../tasa-basuras/">guía de la tasa de residuos</a>, cómo se construye y cómo reclamarla.</p>
+    <h3>Las fechas de cobro se aprueban cada año</h3>
+    <p>El calendario de pago no lo fija la ley, lo aprueba cada ayuntamiento u organismo provincial de recaudación para cada ejercicio y lo publica en su propio anuncio. Lo que sí es verificable es el marco: cuando la ordenanza no señala otro plazo, el pago en período voluntario de los tributos de notificación colectiva y periódica —el IBI lo es— va del <strong>1 de septiembre al 20 de noviembre</strong>, y quien lo modifique no puede dejarlo en menos de dos meses (art. 62.3 de la <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2003-23186" target="_blank" rel="nofollow noopener">Ley General Tributaria</a>). Eso es lo que publicamos, junto al enlace al organismo que publica las fechas del año.</p>
+    <p>Si tienes delante la ordenanza de tu municipio y quieres que publiquemos su tarifa con la fuente citada, <a href="../contacto/">mándanosla</a>: es la vía por la que este hueco se puede ir cerrando municipio a municipio.</p>
+  </section>
+
+  <section class="sec">
+    <h2 id="que-no-hacemos">Qué no hacemos</h2>
+    <p>No prestamos asesoramiento fiscal, jurídico ni financiero, y no estamos habilitados para ello. No emitimos recibos, no tramitamos bonificaciones y no representamos a ningún ayuntamiento. La información de este sitio es <strong>informativa y comparativa</strong>.</p>
+    <p>Ante cualquier discrepancia entre lo que leas aquí y lo que diga tu ayuntamiento, <strong>manda el ayuntamiento</strong>: la ordenanza fiscal publicada en el boletín oficial es la única fuente con valor jurídico. Y para decisiones que impliquen dinero (recurrir, autoliquidar una plusvalía, solicitar una bonificación) consulta con un profesional habilitado o directamente con el organismo que gestiona el tributo.</p>
+  </section>
+
+  <section class="sec">
+    <h2 id="correcciones">Política de correcciones</h2>
+    <p>Si detectas un dato incorrecto o desactualizado, escríbenos desde la <a href="../contacto/">página de contacto</a> indicando el municipio, el dato y, si lo tienes, el enlace a la ordenanza o a la fuente. Nuestro compromiso:</p>
+    <ul>
+      <li><strong>Respondemos en un máximo de 48 horas laborables.</strong></li>
+      <li>Si el dato es incorrecto, <strong>lo corregimos y actualizamos la fecha de revisión</strong> de la ficha afectada.</li>
+      <li>Si el error afectaba a varias páginas, se corrige en la fuente de datos, de modo que se arregla en todas a la vez.</li>
+      <li>Si no podemos contrastar un dato, <strong>no lo publicamos</strong>: dejamos el hueco y explicamos qué falta y dónde buscarlo. Un número con un aviso de «orientativo» sigue siendo un número que alguien va a copiar.</li>
+    </ul>
+  </section>
+
+  <section class="sec">
+    <h2 id="actualizacion">Cada cuánto se actualiza</h2>
+    <p>Los tipos de gravamen se revisan cuando el Ministerio publica un nuevo ejercicio, normalmente a lo largo del año siguiente al de aprobación de las ordenanzas. Las cifras de población, cuando el INE publica la revisión anual del padrón. La normativa citada se comprueba contra el texto consolidado del BOE, que incorpora las reformas vigentes.</p>
+    <p>Cada página muestra su <strong>fecha de última revisión</strong>. Si ves una fecha antigua en un dato que crees que ha cambiado, avísanos y lo miramos.</p>
+    <h3>Normativa que citamos</h3>
+    <ul>
+      <li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2004-4214" target="_blank" rel="nofollow noopener">Real Decreto Legislativo 2/2004 (texto refundido de la Ley Reguladora de las Haciendas Locales)</a></li>
+      <li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2004-4163" target="_blank" rel="nofollow noopener">Real Decreto Legislativo 1/2004 (texto refundido de la Ley del Catastro Inmobiliario)</a></li>
+      <li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2022-5809" target="_blank" rel="nofollow noopener">Ley 7/2022, de 8 de abril, de residuos y suelos contaminados para una economía circular</a></li>
+      <li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2021-18276" target="_blank" rel="nofollow noopener">Real Decreto-ley 26/2021, de 8 de noviembre (adaptación del IIVTNU a la jurisprudencia constitucional)</a></li>
+      <li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2021-19511" target="_blank" rel="nofollow noopener">Sentencia del Tribunal Constitucional 182/2021, de 26 de octubre</a></li>
+      <li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2003-23186" target="_blank" rel="nofollow noopener">Ley 58/2003, de 17 de diciembre, General Tributaria</a></li>
+      <li><a href="https://www.sedecatastro.gob.es" target="_blank" rel="nofollow noopener">Sede Electrónica del Catastro</a></li>
+    </ul>
+    <p style="font-size:.85rem;color:var(--mid)">Última revisión de esta página: 25 de julio de 2026.</p>
+  </section>
+</div>
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "WebPage",
+ "name": "Metodología: de dónde salen nuestros datos y cómo se verifican",
+ "description": "Qué fuente oficial respalda cada dato del sitio, qué hemos podido contrastar y qué no publicamos por no tener fuente, cómo se comprueba y cómo pedir una corrección. Con el registro de errores ya corregidos.",
+ "url": "https://tasasmunicipales.info/metodologia/",
+ "dateModified": "2026-07-25",
+ "publisher": {
+  "@type": "Organization",
+  "name": "TasasMunicipales.info",
+  "url": "https://tasasmunicipales.info/"
+ }
+}
+</script>
+<footer>
+  <div class="ft-grid" style="max-width:1100px;margin:0 auto;display:grid;grid-template-columns:2fr 1fr 1fr 1fr;gap:32px;padding:40px 24px 24px;">
+    <div>
+      <div style="font-family:'Playfair Display',serif;font-size:1.1rem;font-weight:900;color:#fff;margin-bottom:6px;">TasasMunicipales</div>
+      <div style="font-size:.65rem;letter-spacing:.08em;text-transform:uppercase;color:rgba(255,255,255,.5);margin-bottom:10px;">Guía de Impuestos Locales · España 2026</div>
+      <p style="font-size:.78rem;line-height:1.7;color:rgba(255,255,255,.45);margin:0;">Guía de IBI, tasa de basuras, plusvalía y bonificaciones municipio a municipio, con enlace a la sede electrónica de cada ayuntamiento.</p>
+    </div>
+    <div>
+      <div style="font-size:.7rem;text-transform:uppercase;letter-spacing:.12em;color:rgba(255,255,255,.9);margin-bottom:14px;">Navegación</div>
+      <ul style="list-style:none;padding:0;margin:0;">
+        <li style="margin-bottom:8px;"><a href="../" style="color:rgba(255,255,255,.5);font-size:.8rem;text-decoration:none;">Inicio</a></li>
+        <li style="margin-bottom:8px;"><a href="../comunidades/" style="color:rgba(255,255,255,.5);font-size:.8rem;text-decoration:none;">Comunidades</a></li>
+        <li style="margin-bottom:8px;"><a href="../municipios/" style="color:rgba(255,255,255,.5);font-size:.8rem;text-decoration:none;">Municipios</a></li>
+        <li style="margin-bottom:8px;"><a href="../calculadora-ibi/" style="color:rgba(255,255,255,.5);font-size:.8rem;text-decoration:none;">Calculadora IBI</a></li>
+      </ul>
+    </div>
+    <div>
+      <div style="font-size:.7rem;text-transform:uppercase;letter-spacing:.12em;color:rgba(255,255,255,.9);margin-bottom:14px;">Impuestos</div>
+      <ul style="list-style:none;padding:0;margin:0;">
+        <li style="margin-bottom:8px;"><a href="../ibi-2026/" style="color:rgba(255,255,255,.5);font-size:.8rem;text-decoration:none;">IBI 2026</a></li>
+        <li style="margin-bottom:8px;"><a href="../tasa-basuras/" style="color:rgba(255,255,255,.5);font-size:.8rem;text-decoration:none;">Tasa de Basuras</a></li>
+        <li style="margin-bottom:8px;"><a href="../plusvalia/" style="color:rgba(255,255,255,.5);font-size:.8rem;text-decoration:none;">Plusvalía Municipal</a></li>
+        <li style="margin-bottom:8px;"><a href="../bonificaciones/" style="color:rgba(255,255,255,.5);font-size:.8rem;text-decoration:none;">Bonificaciones</a></li>
+        <li style="margin-bottom:8px;"><a href="../impuesto-circulacion/" style="color:rgba(255,255,255,.5);font-size:.8rem;text-decoration:none;">Impuesto de Circulación</a></li>
+        <li style="margin-bottom:8px;"><a href="../valor-catastral/" style="color:rgba(255,255,255,.5);font-size:.8rem;text-decoration:none;">Valor Catastral</a></li>
+      </ul>
+    </div>
+    <div>
+      <div style="font-size:.7rem;text-transform:uppercase;letter-spacing:.12em;color:rgba(255,255,255,.9);margin-bottom:14px;">Legal</div>
+      <ul style="list-style:none;padding:0;margin:0;">
+        <li style="margin-bottom:8px;"><a href="../aviso-legal/" rel="nofollow" style="color:rgba(255,255,255,.5);font-size:.8rem;text-decoration:none;">Aviso Legal</a></li>
+        <li style="margin-bottom:8px;"><a href="../privacidad/" rel="nofollow" style="color:rgba(255,255,255,.5);font-size:.8rem;text-decoration:none;">Privacidad</a></li>
+        <li style="margin-bottom:8px;"><a href="../cookies/" rel="nofollow" style="color:rgba(255,255,255,.5);font-size:.8rem;text-decoration:none;">Cookies</a></li>
+        <li style="margin-bottom:8px;"><a href="../contacto/" style="color:rgba(255,255,255,.5);font-size:.8rem;text-decoration:none;">Contacto</a></li>
+        <li style="margin-bottom:8px;"><a href="../sobre-nosotros/" style="color:rgba(255,255,255,.5);font-size:.8rem;text-decoration:none;">Sobre nosotros</a></li>
+      </ul>
+    </div>
+  </div>
+  <div style="max-width:1100px;margin:0 auto;padding:16px 24px 28px;border-top:1px solid rgba(255,255,255,.1);display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px;font-size:.72rem;color:rgba(255,255,255,.4);">
+    <span>© 2026 TasasMunicipales.info · La información no constituye asesoramiento fiscal.</span>
+    <span>Datos del Ministerio de Hacienda, el INE y el BOE. La ordenanza de tu ayuntamiento es la que manda.</span>
+  </div>
+</footer>
+<script src="../cookie-consent.js" defer></script>
+</body>
+</html>

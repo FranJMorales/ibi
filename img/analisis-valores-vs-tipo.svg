@@ -1,0 +1,160 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 470" width="900" height="470" role="img" aria-labelledby="t-disp d-disp" font-family="Georgia, 'Source Serif 4', serif">
+<title id="t-disp">Relación entre el año de los valores catastrales y el tipo de IBI urbano de cada municipio</title>
+<desc id="d-disp">Gráfico de dispersión con 134 municipios. El eje horizontal es el año de la última valoración catastral vigente (1986 a 2025) y el vertical el tipo de IBI urbano. Los puntos se reparten por todo el gráfico: no hay una relación clara entre tener valores antiguos y aplicar un tipo más alto.</desc>
+<rect width="900" height="470" fill="#f5f0e8"/>
+<text x="24" y="38" font-size="21" font-weight="700" fill="#1a1a2e">Valores catastrales antiguos y tipos altos no van de la mano</text>
+<text x="24" y="61" font-size="13" fill="#6b6b7b">Cada punto es un municipio. Naranja: valoraciones anteriores a 2010.</text>
+<line x1="74" y1="360" x2="856" y2="360" stroke="#d8d0c0" stroke-dasharray="3 4"/>
+<text x="66" y="364" font-size="11.5" fill="#6b6b7b" text-anchor="end">0,4%</text>
+<line x1="74" y1="288" x2="856" y2="288" stroke="#d8d0c0" stroke-dasharray="3 4"/>
+<text x="66" y="292" font-size="11.5" fill="#6b6b7b" text-anchor="end">0,6%</text>
+<line x1="74" y1="216" x2="856" y2="216" stroke="#d8d0c0" stroke-dasharray="3 4"/>
+<text x="66" y="220" font-size="11.5" fill="#6b6b7b" text-anchor="end">0,8%</text>
+<line x1="74" y1="144" x2="856" y2="144" stroke="#d8d0c0" stroke-dasharray="3 4"/>
+<text x="66" y="148" font-size="11.5" fill="#6b6b7b" text-anchor="end">1%</text>
+<text x="169" y="398" font-size="11.5" fill="#6b6b7b" text-anchor="middle">1990</text>
+<text x="265" y="398" font-size="11.5" fill="#6b6b7b" text-anchor="middle">1995</text>
+<text x="360" y="398" font-size="11.5" fill="#6b6b7b" text-anchor="middle">2000</text>
+<text x="455" y="398" font-size="11.5" fill="#6b6b7b" text-anchor="middle">2005</text>
+<text x="551" y="398" font-size="11.5" fill="#6b6b7b" text-anchor="middle">2010</text>
+<text x="646" y="398" font-size="11.5" fill="#6b6b7b" text-anchor="middle">2015</text>
+<text x="742" y="398" font-size="11.5" fill="#6b6b7b" text-anchor="middle">2020</text>
+<text x="837" y="398" font-size="11.5" fill="#6b6b7b" text-anchor="middle">2025</text>
+<circle cx="93.1" cy="313.2" r="4.5" fill="#c8522a" opacity="0.72"><title>Sarria: 0,53%, valores de 1986</title></circle>
+<circle cx="112.1" cy="360.0" r="4.5" fill="#c8522a" opacity="0.72"><title>O Porriño: 0,4%, valores de 1987</title></circle>
+<circle cx="131.2" cy="306.0" r="4.5" fill="#c8522a" opacity="0.72"><title>Cangas: 0,55%, valores de 1988</title></circle>
+<circle cx="131.2" cy="295.2" r="4.5" fill="#c8522a" opacity="0.72"><title>Marín: 0,58%, valores de 1988</title></circle>
+<circle cx="169.4" cy="241.2" r="4.5" fill="#c8522a" opacity="0.72"><title>Tarazona: 0,73%, valores de 1990</title></circle>
+<circle cx="169.4" cy="309.6" r="4.5" fill="#c8522a" opacity="0.72"><title>O Carballiño: 0,54%, valores de 1990</title></circle>
+<circle cx="169.4" cy="306.0" r="4.5" fill="#c8522a" opacity="0.72"><title>Verín: 0,55%, valores de 1990</title></circle>
+<circle cx="169.4" cy="149.8" r="4.5" fill="#c8522a" opacity="0.72"><title>Vigo: 0,984%, valores de 1990</title></circle>
+<circle cx="245.7" cy="259.2" r="4.5" fill="#c8522a" opacity="0.72"><title>Alcañiz: 0,68%, valores de 1994</title></circle>
+<circle cx="245.7" cy="295.2" r="4.5" fill="#c8522a" opacity="0.72"><title>Navia: 0,58%, valores de 1994</title></circle>
+<circle cx="245.7" cy="295.2" r="4.5" fill="#c8522a" opacity="0.72"><title>Almendralejo: 0,58%, valores de 1994</title></circle>
+<circle cx="264.7" cy="293.9" r="4.5" fill="#c8522a" opacity="0.72"><title>Valladolid: 0,5837%, valores de 1995</title></circle>
+<circle cx="264.7" cy="284.4" r="4.5" fill="#c8522a" opacity="0.72"><title>Montijo: 0,61%, valores de 1995</title></circle>
+<circle cx="264.7" cy="244.8" r="4.5" fill="#c8522a" opacity="0.72"><title>Cáceres: 0,72%, valores de 1995</title></circle>
+<circle cx="264.7" cy="241.2" r="4.5" fill="#c8522a" opacity="0.72"><title>Coria: 0,73%, valores de 1995</title></circle>
+<circle cx="264.7" cy="288.0" r="4.5" fill="#c8522a" opacity="0.72"><title>Plasencia: 0,6%, valores de 1995</title></circle>
+<circle cx="283.8" cy="344.2" r="4.5" fill="#c8522a" opacity="0.72"><title>Teruel: 0,444%, valores de 1996</title></circle>
+<circle cx="283.8" cy="324.8" r="4.5" fill="#c8522a" opacity="0.72"><title>Calatayud: 0,4977%, valores de 1996</title></circle>
+<circle cx="283.8" cy="295.2" r="4.5" fill="#c8522a" opacity="0.72"><title>Siero: 0,58%, valores de 1996</title></circle>
+<circle cx="283.8" cy="162.0" r="4.5" fill="#c8522a" opacity="0.72"><title>Almansa: 0,95%, valores de 1996</title></circle>
+<circle cx="283.8" cy="228.2" r="4.5" fill="#c8522a" opacity="0.72"><title>León: 0,766%, valores de 1996</title></circle>
+<circle cx="283.8" cy="265.3" r="4.5" fill="#c8522a" opacity="0.72"><title>Béjar: 0,663%, valores de 1996</title></circle>
+<circle cx="283.8" cy="247.5" r="4.5" fill="#c8522a" opacity="0.72"><title>Salamanca: 0,7125%, valores de 1996</title></circle>
+<circle cx="283.8" cy="244.8" r="4.5" fill="#c8522a" opacity="0.72"><title>Badajoz: 0,72%, valores de 1996</title></circle>
+<circle cx="283.8" cy="226.8" r="4.5" fill="#c8522a" opacity="0.72"><title>Don Benito: 0,77%, valores de 1996</title></circle>
+<circle cx="283.8" cy="286.2" r="4.5" fill="#c8522a" opacity="0.72"><title>Monforte de Lemos: 0,605%, valores de 1996</title></circle>
+<circle cx="283.8" cy="244.8" r="4.5" fill="#c8522a" opacity="0.72"><title>Viveiro: 0,72%, valores de 1996</title></circle>
+<circle cx="283.8" cy="338.4" r="4.5" fill="#c8522a" opacity="0.72"><title>Tui: 0,46%, valores de 1996</title></circle>
+<circle cx="283.8" cy="295.2" r="4.5" fill="#c8522a" opacity="0.72"><title>Santo Domingo de la Calzada: 0,58%, valores de 1996</title></circle>
+<circle cx="302.9" cy="271.4" r="4.5" fill="#c8522a" opacity="0.72"><title>Puertollano: 0,646%, valores de 1997</title></circle>
+<circle cx="302.9" cy="252.0" r="4.5" fill="#c8522a" opacity="0.72"><title>Villanueva de la Serena: 0,7%, valores de 1997</title></circle>
+<circle cx="302.9" cy="237.6" r="4.5" fill="#c8522a" opacity="0.72"><title>Zafra: 0,74%, valores de 1997</title></circle>
+<circle cx="302.9" cy="281.5" r="4.5" fill="#c8522a" opacity="0.72"><title>A Coruña: 0,618%, valores de 1997</title></circle>
+<circle cx="302.9" cy="297.0" r="4.5" fill="#c8522a" opacity="0.72"><title>Logroño: 0,575%, valores de 1997</title></circle>
+<circle cx="302.9" cy="288.9" r="4.5" fill="#c8522a" opacity="0.72"><title>Cartagena: 0,5976%, valores de 1997</title></circle>
+<circle cx="322.0" cy="187.2" r="4.5" fill="#c8522a" opacity="0.72"><title>Monzón: 0,88%, valores de 1998</title></circle>
+<circle cx="322.0" cy="262.8" r="4.5" fill="#c8522a" opacity="0.72"><title>Jerez de los Caballeros: 0,67%, valores de 1998</title></circle>
+<circle cx="322.0" cy="237.6" r="4.5" fill="#c8522a" opacity="0.72"><title>Lugo: 0,74%, valores de 1998</title></circle>
+<circle cx="322.0" cy="295.2" r="4.5" fill="#c8522a" opacity="0.72"><title>Lardero: 0,58%, valores de 1998</title></circle>
+<circle cx="341.0" cy="205.2" r="4.5" fill="#c8522a" opacity="0.72"><title>Cangas de Onís: 0,83%, valores de 1999</title></circle>
+<circle cx="341.0" cy="226.8" r="4.5" fill="#c8522a" opacity="0.72"><title>Villarrobledo: 0,77%, valores de 1999</title></circle>
+<circle cx="341.0" cy="223.2" r="4.5" fill="#c8522a" opacity="0.72"><title>Ponferrada: 0,78%, valores de 1999</title></circle>
+<circle cx="360.1" cy="316.8" r="4.5" fill="#c8522a" opacity="0.72"><title>Camargo: 0,52%, valores de 2000</title></circle>
+<circle cx="360.1" cy="294.5" r="4.5" fill="#c8522a" opacity="0.72"><title>El Astillero: 0,582%, valores de 2000</title></circle>
+<circle cx="360.1" cy="286.8" r="4.5" fill="#c8522a" opacity="0.72"><title>Laredo: 0,6033%, valores de 2000</title></circle>
+<circle cx="360.1" cy="219.6" r="4.5" fill="#c8522a" opacity="0.72"><title>Daimiel: 0,79%, valores de 2000</title></circle>
+<circle cx="360.1" cy="244.4" r="4.5" fill="#c8522a" opacity="0.72"><title>Tarancón: 0,721%, valores de 2000</title></circle>
+<circle cx="360.1" cy="230.4" r="4.5" fill="#c8522a" opacity="0.72"><title>Olivenza: 0,76%, valores de 2000</title></circle>
+<circle cx="360.1" cy="277.2" r="4.5" fill="#c8522a" opacity="0.72"><title>Haro: 0,63%, valores de 2000</title></circle>
+<circle cx="379.2" cy="234.0" r="4.5" fill="#c8522a" opacity="0.72"><title>Huesca: 0,75%, valores de 2001</title></circle>
+<circle cx="379.2" cy="360.0" r="4.5" fill="#c8522a" opacity="0.72"><title>Utebo: 0,4%, valores de 2001</title></circle>
+<circle cx="379.2" cy="252.0" r="4.5" fill="#c8522a" opacity="0.72"><title>Santoña: 0,7%, valores de 2001</title></circle>
+<circle cx="379.2" cy="287.6" r="4.5" fill="#c8522a" opacity="0.72"><title>Manzanares: 0,601%, valores de 2001</title></circle>
+<circle cx="379.2" cy="252.0" r="4.5" fill="#c8522a" opacity="0.72"><title>Tomelloso: 0,7%, valores de 2001</title></circle>
+<circle cx="379.2" cy="241.2" r="4.5" fill="#c8522a" opacity="0.72"><title>Miajadas: 0,73%, valores de 2001</title></circle>
+<circle cx="379.2" cy="273.6" r="4.5" fill="#c8522a" opacity="0.72"><title>Pontevedra: 0,64%, valores de 2001</title></circle>
+<circle cx="379.2" cy="273.6" r="4.5" fill="#c8522a" opacity="0.72"><title>Nájera: 0,64%, valores de 2001</title></circle>
+<circle cx="379.2" cy="259.2" r="4.5" fill="#c8522a" opacity="0.72"><title>Totana: 0,68%, valores de 2001</title></circle>
+<circle cx="398.2" cy="224.6" r="4.5" fill="#c8522a" opacity="0.72"><title>Barbastro: 0,776%, valores de 2002</title></circle>
+<circle cx="398.2" cy="309.6" r="4.5" fill="#c8522a" opacity="0.72"><title>Illescas: 0,54%, valores de 2002</title></circle>
+<circle cx="398.2" cy="216.0" r="4.5" fill="#c8522a" opacity="0.72"><title>Alfaro: 0,8%, valores de 2002</title></circle>
+<circle cx="436.4" cy="234.0" r="4.5" fill="#c8522a" opacity="0.72"><title>Llanes: 0,75%, valores de 2004</title></circle>
+<circle cx="436.4" cy="255.6" r="4.5" fill="#c8522a" opacity="0.72"><title>Ferrol: 0,69%, valores de 2004</title></circle>
+<circle cx="436.4" cy="324.0" r="4.5" fill="#c8522a" opacity="0.72"><title>Lalín: 0,5%, valores de 2004</title></circle>
+<circle cx="436.4" cy="277.2" r="4.5" fill="#c8522a" opacity="0.72"><title>Torre Pacheco: 0,63%, valores de 2004</title></circle>
+<circle cx="455.5" cy="281.2" r="4.5" fill="#c8522a" opacity="0.72"><title>Ejea de los Caballeros: 0,619%, valores de 2005</title></circle>
+<circle cx="455.5" cy="239.4" r="4.5" fill="#c8522a" opacity="0.72"><title>Lena: 0,735%, valores de 2005</title></circle>
+<circle cx="455.5" cy="223.2" r="4.5" fill="#c8522a" opacity="0.72"><title>Valdepeñas: 0,78%, valores de 2005</title></circle>
+<circle cx="455.5" cy="262.8" r="4.5" fill="#c8522a" opacity="0.72"><title>Trujillo: 0,67%, valores de 2005</title></circle>
+<circle cx="455.5" cy="324.0" r="4.5" fill="#c8522a" opacity="0.72"><title>Ames: 0,5%, valores de 2005</title></circle>
+<circle cx="455.5" cy="236.5" r="4.5" fill="#c8522a" opacity="0.72"><title>Lorca: 0,743%, valores de 2005</title></circle>
+<circle cx="455.5" cy="259.2" r="4.5" fill="#c8522a" opacity="0.72"><title>Yecla: 0,68%, valores de 2005</title></circle>
+<circle cx="474.5" cy="293.4" r="4.5" fill="#c8522a" opacity="0.72"><title>Villaviciosa: 0,585%, valores de 2006</title></circle>
+<circle cx="474.5" cy="343.4" r="4.5" fill="#c8522a" opacity="0.72"><title>Albacete: 0,446%, valores de 2006</title></circle>
+<circle cx="474.5" cy="342.0" r="4.5" fill="#c8522a" opacity="0.72"><title>Ourense: 0,45%, valores de 2006</title></circle>
+<circle cx="474.5" cy="360.0" r="4.5" fill="#c8522a" opacity="0.72"><title>Redondela: 0,4%, valores de 2006</title></circle>
+<circle cx="474.5" cy="291.6" r="4.5" fill="#c8522a" opacity="0.72"><title>Calahorra: 0,59%, valores de 2006</title></circle>
+<circle cx="474.5" cy="309.6" r="4.5" fill="#c8522a" opacity="0.72"><title>Cieza: 0,54%, valores de 2006</title></circle>
+<circle cx="474.5" cy="300.4" r="4.5" fill="#c8522a" opacity="0.72"><title>Jumilla: 0,5655%, valores de 2006</title></circle>
+<circle cx="474.5" cy="306.0" r="4.5" fill="#c8522a" opacity="0.72"><title>San Javier: 0,55%, valores de 2006</title></circle>
+<circle cx="493.6" cy="314.6" r="4.5" fill="#c8522a" opacity="0.72"><title>Castro-Urdiales: 0,526%, valores de 2007</title></circle>
+<circle cx="493.6" cy="360.0" r="4.5" fill="#c8522a" opacity="0.72"><title>Ribeira: 0,4%, valores de 2007</title></circle>
+<circle cx="493.6" cy="255.6" r="4.5" fill="#c8522a" opacity="0.72"><title>Caravaca de la Cruz: 0,69%, valores de 2007</title></circle>
+<circle cx="512.7" cy="266.4" r="4.5" fill="#c8522a" opacity="0.72"><title>Alcázar de San Juan: 0,66%, valores de 2008</title></circle>
+<circle cx="512.7" cy="344.2" r="4.5" fill="#c8522a" opacity="0.72"><title>Toledo: 0,444%, valores de 2008</title></circle>
+<circle cx="512.7" cy="360.0" r="4.5" fill="#c8522a" opacity="0.72"><title>Arteixo: 0,4%, valores de 2008</title></circle>
+<circle cx="512.7" cy="309.6" r="4.5" fill="#c8522a" opacity="0.72"><title>Mazarrón: 0,54%, valores de 2008</title></circle>
+<circle cx="531.8" cy="270.5" r="4.5" fill="#c8522a" opacity="0.72"><title>Jaca: 0,6485%, valores de 2009</title></circle>
+<circle cx="531.8" cy="342.0" r="4.5" fill="#c8522a" opacity="0.72"><title>Gijón: 0,45%, valores de 2009</title></circle>
+<circle cx="531.8" cy="324.0" r="4.5" fill="#c8522a" opacity="0.72"><title>Santa Cruz de Bezana: 0,5%, valores de 2009</title></circle>
+<circle cx="531.8" cy="334.8" r="4.5" fill="#c8522a" opacity="0.72"><title>Seseña: 0,47%, valores de 2009</title></circle>
+<circle cx="531.8" cy="285.1" r="4.5" fill="#c8522a" opacity="0.72"><title>Soria: 0,608%, valores de 2009</title></circle>
+<circle cx="531.8" cy="306.0" r="4.5" fill="#c8522a" opacity="0.72"><title>Navalmoral de la Mata: 0,55%, valores de 2009</title></circle>
+<circle cx="531.8" cy="345.6" r="4.5" fill="#c8522a" opacity="0.72"><title>Carballo: 0,44%, valores de 2009</title></circle>
+<circle cx="531.8" cy="280.8" r="4.5" fill="#c8522a" opacity="0.72"><title>Narón: 0,62%, valores de 2009</title></circle>
+<circle cx="531.8" cy="291.6" r="4.5" fill="#c8522a" opacity="0.72"><title>Alhama de Murcia: 0,59%, valores de 2009</title></circle>
+<circle cx="550.8" cy="201.6" r="4.5" fill="#2a7c6f" opacity="0.72"><title>Sabiñánigo: 0,84%, valores de 2010</title></circle>
+<circle cx="550.8" cy="360.0" r="4.5" fill="#2a7c6f" opacity="0.72"><title>Santander: 0,4%, valores de 2010</title></circle>
+<circle cx="550.8" cy="294.8" r="4.5" fill="#2a7c6f" opacity="0.72"><title>Ávila: 0,581%, valores de 2010</title></circle>
+<circle cx="550.8" cy="339.6" r="4.5" fill="#2a7c6f" opacity="0.72"><title>Burgos: 0,4568%, valores de 2010</title></circle>
+<circle cx="550.8" cy="320.4" r="4.5" fill="#2a7c6f" opacity="0.72"><title>Santiago de Compostela: 0,51%, valores de 2010</title></circle>
+<circle cx="550.8" cy="216.0" r="4.5" fill="#2a7c6f" opacity="0.72"><title>Arnedo: 0,8%, valores de 2010</title></circle>
+<circle cx="550.8" cy="216.0" r="4.5" fill="#2a7c6f" opacity="0.72"><title>Alcantarilla: 0,8%, valores de 2010</title></circle>
+<circle cx="569.9" cy="313.9" r="4.5" fill="#2a7c6f" opacity="0.72"><title>Zamora: 0,528%, valores de 2011</title></circle>
+<circle cx="589.0" cy="201.6" r="4.5" fill="#2a7c6f" opacity="0.72"><title>Grado: 0,84%, valores de 2012</title></circle>
+<circle cx="589.0" cy="313.2" r="4.5" fill="#2a7c6f" opacity="0.72"><title>Los Corrales de Buelna: 0,53%, valores de 2012</title></circle>
+<circle cx="589.0" cy="230.4" r="4.5" fill="#2a7c6f" opacity="0.72"><title>Ciudad Real: 0,76%, valores de 2012</title></circle>
+<circle cx="589.0" cy="293.4" r="4.5" fill="#2a7c6f" opacity="0.72"><title>Azuqueca de Henares: 0,585%, valores de 2012</title></circle>
+<circle cx="589.0" cy="306.0" r="4.5" fill="#2a7c6f" opacity="0.72"><title>Miranda de Ebro: 0,55%, valores de 2012</title></circle>
+<circle cx="589.0" cy="230.4" r="4.5" fill="#2a7c6f" opacity="0.72"><title>Medina del Campo: 0,76%, valores de 2012</title></circle>
+<circle cx="589.0" cy="311.0" r="4.5" fill="#2a7c6f" opacity="0.72"><title>Águilas: 0,536%, valores de 2012</title></circle>
+<circle cx="608.0" cy="228.6" r="4.5" fill="#2a7c6f" opacity="0.72"><title>Binéfar: 0,765%, valores de 2013</title></circle>
+<circle cx="608.0" cy="293.2" r="4.5" fill="#2a7c6f" opacity="0.72"><title>Fraga: 0,5855%, valores de 2013</title></circle>
+<circle cx="608.0" cy="360.0" r="4.5" fill="#2a7c6f" opacity="0.72"><title>Zaragoza: 0,4%, valores de 2013</title></circle>
+<circle cx="608.0" cy="259.2" r="4.5" fill="#2a7c6f" opacity="0.72"><title>Avilés: 0,68%, valores de 2013</title></circle>
+<circle cx="608.0" cy="295.2" r="4.5" fill="#2a7c6f" opacity="0.72"><title>Oviedo: 0,58%, valores de 2013</title></circle>
+<circle cx="608.0" cy="225.0" r="4.5" fill="#2a7c6f" opacity="0.72"><title>Hellín: 0,775%, valores de 2013</title></circle>
+<circle cx="608.0" cy="309.6" r="4.5" fill="#2a7c6f" opacity="0.72"><title>Guadalajara: 0,54%, valores de 2013</title></circle>
+<circle cx="608.0" cy="318.8" r="4.5" fill="#2a7c6f" opacity="0.72"><title>Talavera de la Reina: 0,5144%, valores de 2013</title></circle>
+<circle cx="627.1" cy="246.8" r="4.5" fill="#2a7c6f" opacity="0.72"><title>Langreo: 0,7143%, valores de 2014</title></circle>
+<circle cx="627.1" cy="196.6" r="4.5" fill="#2a7c6f" opacity="0.72"><title>Mieres: 0,854%, valores de 2014</title></circle>
+<circle cx="627.1" cy="324.0" r="4.5" fill="#2a7c6f" opacity="0.72"><title>Piélagos: 0,5%, valores de 2014</title></circle>
+<circle cx="627.1" cy="262.8" r="4.5" fill="#2a7c6f" opacity="0.72"><title>Torrelavega: 0,67%, valores de 2014</title></circle>
+<circle cx="627.1" cy="349.2" r="4.5" fill="#2a7c6f" opacity="0.72"><title>Cabanillas del Campo: 0,43%, valores de 2014</title></circle>
+<circle cx="627.1" cy="320.4" r="4.5" fill="#2a7c6f" opacity="0.72"><title>Vilagarcía de Arousa: 0,51%, valores de 2014</title></circle>
+<circle cx="627.1" cy="313.2" r="4.5" fill="#2a7c6f" opacity="0.72"><title>San Pedro del Pinatar: 0,53%, valores de 2014</title></circle>
+<circle cx="665.3" cy="270.7" r="4.5" fill="#2a7c6f" opacity="0.72"><title>Aranda de Duero: 0,648%, valores de 2016</title></circle>
+<circle cx="665.3" cy="252.0" r="4.5" fill="#2a7c6f" opacity="0.72"><title>Mérida: 0,7%, valores de 2016</title></circle>
+<circle cx="684.3" cy="288.0" r="4.5" fill="#2a7c6f" opacity="0.72"><title>Cuenca: 0,6%, valores de 2017</title></circle>
+<circle cx="722.5" cy="247.9" r="4.5" fill="#2a7c6f" opacity="0.72"><title>Murcia: 0,7115%, valores de 2019</title></circle>
+<circle cx="741.6" cy="300.8" r="4.5" fill="#2a7c6f" opacity="0.72"><title>Castrillón: 0,5645%, valores de 2020</title></circle>
+<circle cx="836.9" cy="293.5" r="4.5" fill="#2a7c6f" opacity="0.72"><title>Palencia: 0,5847%, valores de 2025</title></circle>
+<circle cx="836.9" cy="268.2" r="4.5" fill="#2a7c6f" opacity="0.72"><title>Segovia: 0,655%, valores de 2025</title></circle>
+<circle cx="836.9" cy="213.3" r="4.5" fill="#2a7c6f" opacity="0.72"><title>Molina de Segura: 0,8075%, valores de 2025</title></circle>
+<line x1="74" y1="378" x2="856" y2="378" stroke="#1a1a2e"/>
+<text x="465" y="418" font-size="12" fill="#6b6b7b" text-anchor="middle">Año de entrada en vigor de los valores catastrales</text>
+<text x="24" y="454" font-size="11.5" fill="#6b6b7b">Elaboración propia de TasasMunicipales.info con el tipo de IBI urbano y el año de los valores catastrales que publica el Ministerio de Hacienda.</text>
+</svg>

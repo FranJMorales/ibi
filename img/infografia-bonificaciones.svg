@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" font-family="'Source Serif 4',Georgia,serif">
+  <rect width="800" height="420" fill="#f5f0e8"/>
+  <text x="400" y="38" text-anchor="middle" font-size="22" font-weight="900" fill="#1a1a2e" font-family="'Playfair Display',serif">Bonificaciones del IBI: ahorra en tu recibo</text>
+  <line x1="50" y1="52" x2="750" y2="52" stroke="#d8d0c0" stroke-width="2"/>
+  <!-- Card 1: Familia Numerosa -->
+  <rect x="30" y="72" width="175" height="160" rx="8" fill="#fffdf8" stroke="#d8d0c0"/>
+  <text x="118" y="108" text-anchor="middle" font-size="36">👨‍👩‍👧‍👦</text>
+  <text x="118" y="138" text-anchor="middle" font-size="14" font-weight="700" fill="#1a1a2e">Familia Numerosa</text>
+  <text x="118" y="170" text-anchor="middle" font-size="28" font-weight="900" fill="#c8522a">Hasta 90%</text>
+  <text x="118" y="195" text-anchor="middle" font-size="11" fill="#6b6b7b">Título vigente</text>
+  <text x="118" y="212" text-anchor="middle" font-size="11" fill="#6b6b7b">+ empadronamiento</text>
+  <!-- Card 2: Energía Solar -->
+  <rect x="220" y="72" width="175" height="160" rx="8" fill="#fffdf8" stroke="#d8d0c0"/>
+  <text x="308" y="108" text-anchor="middle" font-size="36">☀️</text>
+  <text x="308" y="138" text-anchor="middle" font-size="14" font-weight="700" fill="#1a1a2e">Energía Solar</text>
+  <text x="308" y="170" text-anchor="middle" font-size="28" font-weight="900" fill="#2a7c6f">25 – 50%</text>
+  <text x="308" y="195" text-anchor="middle" font-size="11" fill="#6b6b7b">Certificado instalador</text>
+  <text x="308" y="212" text-anchor="middle" font-size="11" fill="#6b6b7b">+ 3-5 años duración</text>
+  <!-- Card 3: VPO -->
+  <rect x="410" y="72" width="175" height="160" rx="8" fill="#fffdf8" stroke="#d8d0c0"/>
+  <text x="498" y="108" text-anchor="middle" font-size="36">🏠</text>
+  <text x="498" y="138" text-anchor="middle" font-size="14" font-weight="700" fill="#1a1a2e">Vivienda VPO</text>
+  <text x="498" y="170" text-anchor="middle" font-size="28" font-weight="900" fill="#d4a843">Hasta 50%</text>
+  <text x="498" y="195" text-anchor="middle" font-size="11" fill="#6b6b7b">Primeros 3 años</text>
+  <text x="498" y="212" text-anchor="middle" font-size="11" fill="#6b6b7b">desde calificación</text>
+  <!-- Card 4: Domiciliación -->
+  <rect x="600" y="72" width="175" height="160" rx="8" fill="#fffdf8" stroke="#d8d0c0"/>
+  <text x="688" y="108" text-anchor="middle" font-size="36">🏦</text>
+  <text x="688" y="138" text-anchor="middle" font-size="14" font-weight="700" fill="#1a1a2e">Domiciliación</text>
+  <text x="688" y="170" text-anchor="middle" font-size="28" font-weight="900" fill="#1a1a2e">1 – 5%</text>
+  <text x="688" y="195" text-anchor="middle" font-size="11" fill="#6b6b7b">Comunicar IBAN</text>
+  <text x="688" y="212" text-anchor="middle" font-size="11" fill="#6b6b7b">antes del período</text>
+  <!-- Warning banner -->
+  <rect x="30" y="260" width="745" height="60" rx="6" fill="#c8522a" opacity="0.08"/>
+  <rect x="30" y="260" width="4" height="60" rx="2" fill="#c8522a"/>
+  <text x="55" y="288" font-size="15" font-weight="700" fill="#c8522a">⚠️ Las bonificaciones NO se aplican automáticamente</text>
+  <text x="55" y="308" font-size="13" fill="#6b6b7b">Debes solicitarlas activamente en tu Ayuntamiento antes del 31 de marzo del ejercicio fiscal.</text>
+  <!-- How to apply -->
+  <text x="400" y="352" text-anchor="middle" font-size="16" font-weight="700" fill="#1a1a2e">¿Cómo solicitar?</text>
+  <text x="130" y="382" text-anchor="middle" font-size="12" fill="#2a7c6f" font-weight="600">1. Sede electrónica</text>
+  <text x="320" y="382" text-anchor="middle" font-size="12" fill="#2a7c6f" font-weight="600">2. Oficina presencial</text>
+  <text x="520" y="382" text-anchor="middle" font-size="12" fill="#2a7c6f" font-weight="600">3. Registro general</text>
+  <text x="690" y="382" text-anchor="middle" font-size="12" fill="#2a7c6f" font-weight="600">4. Correo certificado</text>
+  <text x="400" y="410" text-anchor="middle" font-size="10" fill="#6b6b7b">© 2026 TasasMunicipales.info · Datos orientativos. Consulta tu ordenanza fiscal municipal.</text>
+</svg>

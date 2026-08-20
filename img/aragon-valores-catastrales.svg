@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 552" width="900" height="552" role="img" aria-labelledby="t-val d-val" font-family="Georgia, 'Source Serif 4', serif">
+<title id="t-val">Año de los valores catastrales vigentes en los municipios de Aragón</title>
+<desc id="d-val">Gráfico de barras horizontales ordenado de la valoración más antigua a la más reciente. Va de 1990 a 2013. Cuanto más antigua es la valoración, más desfasada está la base sobre la que se aplica el tipo del IBI.</desc>
+<rect width="900" height="552" fill="#f5f0e8"/>
+<text x="24" y="38" font-size="21" font-weight="700" fill="#1a1a2e">Antigüedad de los valores catastrales · Aragón</text>
+<text x="24" y="62" font-size="13" fill="#6b6b7b">Año de la última valoración vigente. El tipo de IBI se aplica sobre esa base, no sobre el precio de mercado.</text>
+<text x="24" y="82" font-size="12" fill="#6b6b7b">Naranja: valoraciones anteriores a 2010. Verde: de 2010 en adelante.</text>
+<line x1="176" y1="90" x2="810" y2="90" stroke="#d8d0c0"/>
+<text x="166" y="117" font-size="13" fill="#1a1a2e" text-anchor="end">Tarazona</text>
+<rect x="176" y="104" width="49" height="18" rx="2" fill="#c8522a"/>
+<text x="233" y="117" font-size="12.5" font-weight="700" fill="#1a1a2e">1990</text>
+<text x="275" y="117" font-size="11.5" fill="#6b6b7b">36 años</text>
+<text x="166" y="145" font-size="13" fill="#1a1a2e" text-anchor="end">Alcañiz</text>
+<rect x="176" y="132" width="148" height="18" rx="2" fill="#c8522a"/>
+<text x="332" y="145" font-size="12.5" font-weight="700" fill="#1a1a2e">1994</text>
+<text x="374" y="145" font-size="11.5" fill="#6b6b7b">32 años</text>
+<text x="166" y="173" font-size="13" fill="#1a1a2e" text-anchor="end">Teruel</text>
+<rect x="176" y="160" width="197" height="18" rx="2" fill="#c8522a"/>
+<text x="381" y="173" font-size="12.5" font-weight="700" fill="#1a1a2e">1996</text>
+<text x="423" y="173" font-size="11.5" fill="#6b6b7b">30 años</text>
+<text x="166" y="201" font-size="13" fill="#1a1a2e" text-anchor="end">Calatayud</text>
+<rect x="176" y="188" width="197" height="18" rx="2" fill="#c8522a"/>
+<text x="381" y="201" font-size="12.5" font-weight="700" fill="#1a1a2e">1996</text>
+<text x="423" y="201" font-size="11.5" fill="#6b6b7b">30 años</text>
+<text x="166" y="229" font-size="13" fill="#1a1a2e" text-anchor="end">Monzón</text>
+<rect x="176" y="216" width="246" height="18" rx="2" fill="#c8522a"/>
+<text x="430" y="229" font-size="12.5" font-weight="700" fill="#1a1a2e">1998</text>
+<text x="472" y="229" font-size="11.5" fill="#6b6b7b">28 años</text>
+<text x="166" y="257" font-size="13" fill="#1a1a2e" text-anchor="end">Huesca</text>
+<rect x="176" y="244" width="320" height="18" rx="2" fill="#c8522a"/>
+<text x="504" y="257" font-size="12.5" font-weight="700" fill="#1a1a2e">2001</text>
+<text x="546" y="257" font-size="11.5" fill="#6b6b7b">25 años</text>
+<text x="166" y="285" font-size="13" fill="#1a1a2e" text-anchor="end">Utebo</text>
+<rect x="176" y="272" width="320" height="18" rx="2" fill="#c8522a"/>
+<text x="504" y="285" font-size="12.5" font-weight="700" fill="#1a1a2e">2001</text>
+<text x="546" y="285" font-size="11.5" fill="#6b6b7b">25 años</text>
+<text x="166" y="313" font-size="13" fill="#1a1a2e" text-anchor="end">Barbastro</text>
+<rect x="176" y="300" width="345" height="18" rx="2" fill="#c8522a"/>
+<text x="529" y="313" font-size="12.5" font-weight="700" fill="#1a1a2e">2002</text>
+<text x="571" y="313" font-size="11.5" fill="#6b6b7b">24 años</text>
+<text x="166" y="341" font-size="13" fill="#1a1a2e" text-anchor="end">Ejea de los Caballeros</text>
+<rect x="176" y="328" width="418" height="18" rx="2" fill="#c8522a"/>
+<text x="602" y="341" font-size="12.5" font-weight="700" fill="#1a1a2e">2005</text>
+<text x="644" y="341" font-size="11.5" fill="#6b6b7b">21 años</text>
+<text x="166" y="369" font-size="13" fill="#1a1a2e" text-anchor="end">Jaca</text>
+<rect x="176" y="356" width="517" height="18" rx="2" fill="#c8522a"/>
+<text x="701" y="369" font-size="12.5" font-weight="700" fill="#1a1a2e">2009</text>
+<text x="743" y="369" font-size="11.5" fill="#6b6b7b">17 años</text>
+<text x="166" y="397" font-size="13" fill="#1a1a2e" text-anchor="end">Sabiñánigo</text>
+<rect x="176" y="384" width="542" height="18" rx="2" fill="#2a7c6f"/>
+<text x="726" y="397" font-size="12.5" font-weight="700" fill="#1a1a2e">2010</text>
+<text x="768" y="397" font-size="11.5" fill="#6b6b7b">16 años</text>
+<text x="166" y="425" font-size="13" fill="#1a1a2e" text-anchor="end">Binéfar</text>
+<rect x="176" y="412" width="615" height="18" rx="2" fill="#2a7c6f"/>
+<text x="799" y="425" font-size="12.5" font-weight="700" fill="#1a1a2e">2013</text>
+<text x="841" y="425" font-size="11.5" fill="#6b6b7b">13 años</text>
+<text x="166" y="453" font-size="13" fill="#1a1a2e" text-anchor="end">Fraga</text>
+<rect x="176" y="440" width="615" height="18" rx="2" fill="#2a7c6f"/>
+<text x="799" y="453" font-size="12.5" font-weight="700" fill="#1a1a2e">2013</text>
+<text x="841" y="453" font-size="11.5" fill="#6b6b7b">13 años</text>
+<text x="166" y="481" font-size="13" fill="#1a1a2e" text-anchor="end">Zaragoza</text>
+<rect x="176" y="468" width="615" height="18" rx="2" fill="#2a7c6f"/>
+<text x="799" y="481" font-size="12.5" font-weight="700" fill="#1a1a2e">2013</text>
+<text x="841" y="481" font-size="11.5" fill="#6b6b7b">13 años</text>
+<text x="24" y="530" font-size="11.5" fill="#6b6b7b">Elaboración propia de TasasMunicipales.info con el año de los valores catastrales que publica el Ministerio de Hacienda en su consulta de información impositiva municipal.</text>
+</svg>

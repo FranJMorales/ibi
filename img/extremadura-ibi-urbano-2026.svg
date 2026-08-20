@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 572" width="900" height="572" role="img" aria-labelledby="t-tipos d-tipos" font-family="Georgia, 'Source Serif 4', serif">
+<title id="t-tipos">Tipo de gravamen del IBI urbano en los municipios de Extremadura para 2026</title>
+<desc id="d-tipos">Gráfico de barras horizontales. Los tipos van del 0,55% al 0,77%. Cada barra corresponde a un municipio de Extremadura recogido en la guía.</desc>
+<rect width="900" height="572" fill="#f5f0e8"/>
+<text x="24" y="38" font-size="21" font-weight="700" fill="#1a1a2e">Tipo de IBI urbano 2026 · Extremadura</text>
+<text x="24" y="62" font-size="13" fill="#6b6b7b">Porcentaje aplicado sobre el valor catastral. Horquilla legal para urbana: 0,40% – 1,10%.</text>
+<line x1="176" y1="82" x2="832" y2="82" stroke="#d8d0c0"/>
+<text x="166" y="109" font-size="13" fill="#1a1a2e" text-anchor="end">Don Benito</text>
+<rect x="176" y="96" width="637" height="18" rx="2" fill="#c8522a"/>
+<text x="821" y="109" font-size="12.5" font-weight="700" fill="#1a1a2e">0,77%</text>
+<text x="166" y="137" font-size="13" fill="#1a1a2e" text-anchor="end">Olivenza</text>
+<rect x="176" y="124" width="629" height="18" rx="2" fill="#2a7c6f"/>
+<text x="813" y="137" font-size="12.5" font-weight="700" fill="#1a1a2e">0,76%</text>
+<text x="166" y="165" font-size="13" fill="#1a1a2e" text-anchor="end">Zafra</text>
+<rect x="176" y="152" width="612" height="18" rx="2" fill="#2a7c6f"/>
+<text x="796" y="165" font-size="12.5" font-weight="700" fill="#1a1a2e">0,74%</text>
+<text x="166" y="193" font-size="13" fill="#1a1a2e" text-anchor="end">Coria</text>
+<rect x="176" y="180" width="604" height="18" rx="2" fill="#2a7c6f"/>
+<text x="788" y="193" font-size="12.5" font-weight="700" fill="#1a1a2e">0,73%</text>
+<text x="166" y="221" font-size="13" fill="#1a1a2e" text-anchor="end">Miajadas</text>
+<rect x="176" y="208" width="604" height="18" rx="2" fill="#2a7c6f"/>
+<text x="788" y="221" font-size="12.5" font-weight="700" fill="#1a1a2e">0,73%</text>
+<text x="166" y="249" font-size="13" fill="#1a1a2e" text-anchor="end">Badajoz</text>
+<rect x="176" y="236" width="596" height="18" rx="2" fill="#2a7c6f"/>
+<text x="780" y="249" font-size="12.5" font-weight="700" fill="#1a1a2e">0,72%</text>
+<text x="166" y="277" font-size="13" fill="#1a1a2e" text-anchor="end">Cáceres</text>
+<rect x="176" y="264" width="596" height="18" rx="2" fill="#2a7c6f"/>
+<text x="780" y="277" font-size="12.5" font-weight="700" fill="#1a1a2e">0,72%</text>
+<text x="166" y="305" font-size="13" fill="#1a1a2e" text-anchor="end">Mérida</text>
+<rect x="176" y="292" width="579" height="18" rx="2" fill="#2a7c6f"/>
+<text x="763" y="305" font-size="12.5" font-weight="700" fill="#1a1a2e">0,7%</text>
+<text x="166" y="333" font-size="13" fill="#1a1a2e" text-anchor="end">Villanueva de la Serena</text>
+<rect x="176" y="320" width="579" height="18" rx="2" fill="#2a7c6f"/>
+<text x="763" y="333" font-size="12.5" font-weight="700" fill="#1a1a2e">0,7%</text>
+<text x="166" y="361" font-size="13" fill="#1a1a2e" text-anchor="end">Jerez de los Caballeros</text>
+<rect x="176" y="348" width="554" height="18" rx="2" fill="#2a7c6f"/>
+<text x="738" y="361" font-size="12.5" font-weight="700" fill="#1a1a2e">0,67%</text>
+<text x="166" y="389" font-size="13" fill="#1a1a2e" text-anchor="end">Trujillo</text>
+<rect x="176" y="376" width="554" height="18" rx="2" fill="#2a7c6f"/>
+<text x="738" y="389" font-size="12.5" font-weight="700" fill="#1a1a2e">0,67%</text>
+<text x="166" y="417" font-size="13" fill="#1a1a2e" text-anchor="end">Montijo</text>
+<rect x="176" y="404" width="505" height="18" rx="2" fill="#2a7c6f"/>
+<text x="689" y="417" font-size="12.5" font-weight="700" fill="#1a1a2e">0,61%</text>
+<text x="166" y="445" font-size="13" fill="#1a1a2e" text-anchor="end">Plasencia</text>
+<rect x="176" y="432" width="496" height="18" rx="2" fill="#2a7c6f"/>
+<text x="680" y="445" font-size="12.5" font-weight="700" fill="#1a1a2e">0,6%</text>
+<text x="166" y="473" font-size="13" fill="#1a1a2e" text-anchor="end">Almendralejo</text>
+<rect x="176" y="460" width="480" height="18" rx="2" fill="#2a7c6f"/>
+<text x="664" y="473" font-size="12.5" font-weight="700" fill="#1a1a2e">0,58%</text>
+<text x="166" y="501" font-size="13" fill="#1a1a2e" text-anchor="end">Navalmoral de la Mata</text>
+<rect x="176" y="488" width="455" height="18" rx="2" fill="#c8522a"/>
+<text x="639" y="501" font-size="12.5" font-weight="700" fill="#1a1a2e">0,55%</text>
+<text x="24" y="550" font-size="11.5" fill="#6b6b7b">Elaboración propia de TasasMunicipales.info con los tipos que publica el Ministerio de Hacienda.</text>
+</svg>

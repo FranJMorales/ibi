@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 712" width="900" height="712" role="img" aria-labelledby="t-tipos d-tipos" font-family="Georgia, 'Source Serif 4', serif">
+<title id="t-tipos">Tipo de gravamen del IBI urbano en los municipios de Castilla-La Mancha para 2026</title>
+<desc id="d-tipos">Gráfico de barras horizontales. Los tipos van del 0,43% al 0,95%. Cada barra corresponde a un municipio de Castilla-La Mancha recogido en la guía.</desc>
+<rect width="900" height="712" fill="#f5f0e8"/>
+<text x="24" y="38" font-size="21" font-weight="700" fill="#1a1a2e">Tipo de IBI urbano 2026 · Castilla-La Mancha</text>
+<text x="24" y="62" font-size="13" fill="#6b6b7b">Porcentaje aplicado sobre el valor catastral. Horquilla legal para urbana: 0,40% – 1,10%.</text>
+<line x1="176" y1="82" x2="832" y2="82" stroke="#d8d0c0"/>
+<text x="166" y="109" font-size="13" fill="#1a1a2e" text-anchor="end">Almansa</text>
+<rect x="176" y="96" width="637" height="18" rx="2" fill="#c8522a"/>
+<text x="821" y="109" font-size="12.5" font-weight="700" fill="#1a1a2e">0,95%</text>
+<text x="166" y="137" font-size="13" fill="#1a1a2e" text-anchor="end">Daimiel</text>
+<rect x="176" y="124" width="530" height="18" rx="2" fill="#2a7c6f"/>
+<text x="714" y="137" font-size="12.5" font-weight="700" fill="#1a1a2e">0,79%</text>
+<text x="166" y="165" font-size="13" fill="#1a1a2e" text-anchor="end">Valdepeñas</text>
+<rect x="176" y="152" width="523" height="18" rx="2" fill="#2a7c6f"/>
+<text x="707" y="165" font-size="12.5" font-weight="700" fill="#1a1a2e">0,78%</text>
+<text x="166" y="193" font-size="13" fill="#1a1a2e" text-anchor="end">Hellín</text>
+<rect x="176" y="180" width="520" height="18" rx="2" fill="#2a7c6f"/>
+<text x="704" y="193" font-size="12.5" font-weight="700" fill="#1a1a2e">0,775%</text>
+<text x="166" y="221" font-size="13" fill="#1a1a2e" text-anchor="end">Villarrobledo</text>
+<rect x="176" y="208" width="516" height="18" rx="2" fill="#2a7c6f"/>
+<text x="700" y="221" font-size="12.5" font-weight="700" fill="#1a1a2e">0,77%</text>
+<text x="166" y="249" font-size="13" fill="#1a1a2e" text-anchor="end">Ciudad Real</text>
+<rect x="176" y="236" width="510" height="18" rx="2" fill="#2a7c6f"/>
+<text x="694" y="249" font-size="12.5" font-weight="700" fill="#1a1a2e">0,76%</text>
+<text x="166" y="277" font-size="13" fill="#1a1a2e" text-anchor="end">Tarancón</text>
+<rect x="176" y="264" width="483" height="18" rx="2" fill="#2a7c6f"/>
+<text x="667" y="277" font-size="12.5" font-weight="700" fill="#1a1a2e">0,721%</text>
+<text x="166" y="305" font-size="13" fill="#1a1a2e" text-anchor="end">Tomelloso</text>
+<rect x="176" y="292" width="469" height="18" rx="2" fill="#2a7c6f"/>
+<text x="653" y="305" font-size="12.5" font-weight="700" fill="#1a1a2e">0,7%</text>
+<text x="166" y="333" font-size="13" fill="#1a1a2e" text-anchor="end">Alcázar de San Juan</text>
+<rect x="176" y="320" width="443" height="18" rx="2" fill="#2a7c6f"/>
+<text x="627" y="333" font-size="12.5" font-weight="700" fill="#1a1a2e">0,66%</text>
+<text x="166" y="361" font-size="13" fill="#1a1a2e" text-anchor="end">Puertollano</text>
+<rect x="176" y="348" width="433" height="18" rx="2" fill="#2a7c6f"/>
+<text x="617" y="361" font-size="12.5" font-weight="700" fill="#1a1a2e">0,646%</text>
+<text x="166" y="389" font-size="13" fill="#1a1a2e" text-anchor="end">Manzanares</text>
+<rect x="176" y="376" width="403" height="18" rx="2" fill="#2a7c6f"/>
+<text x="587" y="389" font-size="12.5" font-weight="700" fill="#1a1a2e">0,601%</text>
+<text x="166" y="417" font-size="13" fill="#1a1a2e" text-anchor="end">Cuenca</text>
+<rect x="176" y="404" width="402" height="18" rx="2" fill="#2a7c6f"/>
+<text x="586" y="417" font-size="12.5" font-weight="700" fill="#1a1a2e">0,6%</text>
+<text x="166" y="445" font-size="13" fill="#1a1a2e" text-anchor="end">Azuqueca de Henares</text>
+<rect x="176" y="432" width="392" height="18" rx="2" fill="#2a7c6f"/>
+<text x="576" y="445" font-size="12.5" font-weight="700" fill="#1a1a2e">0,585%</text>
+<text x="166" y="473" font-size="13" fill="#1a1a2e" text-anchor="end">Guadalajara</text>
+<rect x="176" y="460" width="362" height="18" rx="2" fill="#2a7c6f"/>
+<text x="546" y="473" font-size="12.5" font-weight="700" fill="#1a1a2e">0,54%</text>
+<text x="166" y="501" font-size="13" fill="#1a1a2e" text-anchor="end">Illescas</text>
+<rect x="176" y="488" width="362" height="18" rx="2" fill="#2a7c6f"/>
+<text x="546" y="501" font-size="12.5" font-weight="700" fill="#1a1a2e">0,54%</text>
+<text x="166" y="529" font-size="13" fill="#1a1a2e" text-anchor="end">Talavera de la Reina</text>
+<rect x="176" y="516" width="345" height="18" rx="2" fill="#2a7c6f"/>
+<text x="529" y="529" font-size="12.5" font-weight="700" fill="#1a1a2e">0,5144%</text>
+<text x="166" y="557" font-size="13" fill="#1a1a2e" text-anchor="end">Seseña</text>
+<rect x="176" y="544" width="315" height="18" rx="2" fill="#2a7c6f"/>
+<text x="499" y="557" font-size="12.5" font-weight="700" fill="#1a1a2e">0,47%</text>
+<text x="166" y="585" font-size="13" fill="#1a1a2e" text-anchor="end">Albacete</text>
+<rect x="176" y="572" width="299" height="18" rx="2" fill="#2a7c6f"/>
+<text x="483" y="585" font-size="12.5" font-weight="700" fill="#1a1a2e">0,446%</text>
+<text x="166" y="613" font-size="13" fill="#1a1a2e" text-anchor="end">Toledo</text>
+<rect x="176" y="600" width="298" height="18" rx="2" fill="#2a7c6f"/>
+<text x="482" y="613" font-size="12.5" font-weight="700" fill="#1a1a2e">0,444%</text>
+<text x="166" y="641" font-size="13" fill="#1a1a2e" text-anchor="end">Cabanillas del Campo</text>
+<rect x="176" y="628" width="288" height="18" rx="2" fill="#c8522a"/>
+<text x="472" y="641" font-size="12.5" font-weight="700" fill="#1a1a2e">0,43%</text>
+<text x="24" y="690" font-size="11.5" fill="#6b6b7b">Elaboración propia de TasasMunicipales.info con los tipos que publica el Ministerio de Hacienda.</text>
+</svg>

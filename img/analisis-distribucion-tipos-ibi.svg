@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 430" width="900" height="430" role="img" aria-labelledby="t-dist d-dist" font-family="Georgia, 'Source Serif 4', serif">
+<title id="t-dist">Distribución del tipo de IBI urbano en 134 municipios, ejercicio 2025</title>
+<desc id="d-dist">Histograma. El eje horizontal recorre la horquilla legal del IBI urbano, del 0,40% al 1,10%, en tramos de una décima. El tramo más poblado reúne 44 de los 134 municipios analizados.</desc>
+<rect width="900" height="430" fill="#f5f0e8"/>
+<text x="24" y="38" font-size="21" font-weight="700" fill="#1a1a2e">Dónde se sitúan los 134 municipios dentro de la horquilla legal</text>
+<text x="24" y="61" font-size="13" fill="#6b6b7b">Tipo de IBI urbano, ejercicio 2025. La ley permite del 0,40% al 1,10% (art. 72.1 TRLRHL).</text>
+<line x1="70" y1="352" x2="866" y2="352" stroke="#1a1a2e"/>
+<line x1="70" y1="228" x2="866" y2="228" stroke="#d8d0c0" stroke-dasharray="3 4"/>
+<text x="62" y="232" font-size="11.5" fill="#6b6b7b" text-anchor="end">22</text>
+<line x1="70" y1="104" x2="866" y2="104" stroke="#d8d0c0" stroke-dasharray="3 4"/>
+<text x="62" y="108" font-size="11.5" fill="#6b6b7b" text-anchor="end">44</text>
+<rect x="78" y="251" width="97" height="101" fill="#2a7c6f"/>
+<text x="126" y="243" font-size="13" font-weight="700" fill="#1a1a2e" text-anchor="middle">18</text>
+<text x="126" y="372" font-size="12" fill="#1a1a2e" text-anchor="middle">0,4%</text>
+<text x="126" y="388" font-size="11" fill="#6b6b7b" text-anchor="middle">a 0,5%</text>
+<rect x="191" y="104" width="97" height="248" fill="#c8522a"/>
+<text x="239" y="96" font-size="13" font-weight="700" fill="#1a1a2e" text-anchor="middle">44</text>
+<text x="239" y="372" font-size="12" fill="#1a1a2e" text-anchor="middle">0,5%</text>
+<text x="239" y="388" font-size="11" fill="#6b6b7b" text-anchor="middle">a 0,6%</text>
+<rect x="304" y="189" width="97" height="163" fill="#2a7c6f"/>
+<text x="352" y="181" font-size="13" font-weight="700" fill="#1a1a2e" text-anchor="middle">29</text>
+<text x="352" y="372" font-size="12" fill="#1a1a2e" text-anchor="middle">0,6%</text>
+<text x="352" y="388" font-size="11" fill="#6b6b7b" text-anchor="middle">a 0,7%</text>
+<rect x="417" y="172" width="97" height="180" fill="#2a7c6f"/>
+<text x="465" y="164" font-size="13" font-weight="700" fill="#1a1a2e" text-anchor="middle">32</text>
+<text x="465" y="372" font-size="12" fill="#1a1a2e" text-anchor="middle">0,7%</text>
+<text x="465" y="388" font-size="11" fill="#6b6b7b" text-anchor="middle">a 0,8%</text>
+<rect x="529" y="301" width="97" height="51" fill="#2a7c6f"/>
+<text x="578" y="293" font-size="13" font-weight="700" fill="#1a1a2e" text-anchor="middle">9</text>
+<text x="578" y="372" font-size="12" fill="#1a1a2e" text-anchor="middle">0,8%</text>
+<text x="578" y="388" font-size="11" fill="#6b6b7b" text-anchor="middle">a 0,9%</text>
+<rect x="642" y="341" width="97" height="11" fill="#2a7c6f"/>
+<text x="691" y="333" font-size="13" font-weight="700" fill="#1a1a2e" text-anchor="middle">2</text>
+<text x="691" y="372" font-size="12" fill="#1a1a2e" text-anchor="middle">0,9%</text>
+<text x="691" y="388" font-size="11" fill="#6b6b7b" text-anchor="middle">a 1%</text>
+<rect x="755" y="352" width="97" height="0" fill="#2a7c6f"/>
+<text x="804" y="344" font-size="13" font-weight="700" fill="#1a1a2e" text-anchor="middle">0</text>
+<text x="804" y="372" font-size="12" fill="#1a1a2e" text-anchor="middle">1%</text>
+<text x="804" y="388" font-size="11" fill="#6b6b7b" text-anchor="middle">a 1,1%</text>
+<text x="24" y="414" font-size="11.5" fill="#6b6b7b">Elaboración propia de TasasMunicipales.info con los tipos que publica el Ministerio de Hacienda. Ningún municipio de la muestra baja del mínimo legal.</text>
+</svg>

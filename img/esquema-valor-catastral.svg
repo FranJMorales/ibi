@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 360" width="900" height="360" role="img" aria-labelledby="t-vc d-vc">
+<title id="t-vc">Del valor catastral a la cuota del IBI</title>
+<desc id="d-vc">El valor catastral suma el valor del suelo y el de la construcción y es la base imponible del IBI. Cuando sube por una valoración colectiva se le resta una reducción que dura nueve años y decrece 0,1 cada ejercicio; el resultado es la base liquidable, sobre la que se aplica el tipo de gravamen municipal.</desc>
+<rect width="900" height="360" fill="#f5f0e8"/>
+<text x="30" y="44" font-family="Georgia, 'Source Serif 4', serif" font-size="21" font-weight="bold" fill="#1a1a2e">Del valor catastral al importe del recibo</text>
+<rect x="30" y="88" width="150" height="112" rx="6" fill="#fffdf8" stroke="#d8d0c0" stroke-width="1.5"/>
+<text x="105.0" y="132" font-family="Georgia, 'Source Serif 4', serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#1a1a2e">Valor del suelo</text>
+<text x="195.0" y="152" font-family="Georgia, 'Source Serif 4', serif" font-size="22" font-weight="bold" text-anchor="middle" fill="#c8522a">+</text>
+<rect x="210" y="88" width="150" height="112" rx="6" fill="#fffdf8" stroke="#d8d0c0" stroke-width="1.5"/>
+<text x="285.0" y="132" font-family="Georgia, 'Source Serif 4', serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#1a1a2e">Valor de la</text>
+<text x="285.0" y="154" font-family="Georgia, 'Source Serif 4', serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#1a1a2e">construcción</text>
+<text x="375.0" y="152" font-family="Georgia, 'Source Serif 4', serif" font-size="22" font-weight="bold" text-anchor="middle" fill="#c8522a">=</text>
+<rect x="390" y="88" width="150" height="112" rx="6" fill="#fff6ef" stroke="#c8522a" stroke-width="1.5"/>
+<text x="465.0" y="132" font-family="Georgia, 'Source Serif 4', serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#1a1a2e">Valor catastral</text>
+<text x="465.0" y="154" font-family="Georgia, 'Source Serif 4', serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#1a1a2e">= base imponible</text>
+<text x="555.0" y="152" font-family="Georgia, 'Source Serif 4', serif" font-size="22" font-weight="bold" text-anchor="middle" fill="#c8522a">−</text>
+<rect x="570" y="88" width="150" height="112" rx="6" fill="#fffdf8" stroke="#d8d0c0" stroke-width="1.5"/>
+<text x="645.0" y="132" font-family="Georgia, 'Source Serif 4', serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#1a1a2e">Reducción</text>
+<text x="645.0" y="154" font-family="Georgia, 'Source Serif 4', serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#1a1a2e">(9 años)</text>
+<text x="735.0" y="152" font-family="Georgia, 'Source Serif 4', serif" font-size="22" font-weight="bold" text-anchor="middle" fill="#c8522a">=</text>
+<rect x="750" y="88" width="150" height="112" rx="6" fill="#fffdf8" stroke="#d8d0c0" stroke-width="1.5"/>
+<text x="825.0" y="132" font-family="Georgia, 'Source Serif 4', serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#1a1a2e">Base liquidable</text>
+<text x="825.0" y="154" font-family="Georgia, 'Source Serif 4', serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#1a1a2e">× tipo</text>
+<text x="30" y="248" font-family="Georgia, 'Source Serif 4', serif" font-size="13.5" fill="#1a1a2e">La reducción arranca con un coeficiente de 0,9 y baja 0,1 cada año hasta desaparecer al noveno (arts. 67 y 68 TRLRHL).</text>
+<text x="30" y="276" font-family="Georgia, 'Source Serif 4', serif" font-size="13.5" fill="#1a1a2e">Por eso un recibo puede subir cada ejercicio sin que el pleno haya tocado el tipo de gravamen.</text>
+<text x="30" y="330" font-family="Georgia, 'Source Serif 4', serif" font-size="11.5" fill="#6b6b7b">Fuente: artículos 65 a 70 del TRLRHL y artículos 22 y 23 del texto refundido de la Ley del Catastro Inmobiliario · TasasMunicipales.info</text>
+</svg>

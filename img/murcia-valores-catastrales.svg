@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 608" width="900" height="608" role="img" aria-labelledby="t-val d-val" font-family="Georgia, 'Source Serif 4', serif">
+<title id="t-val">Año de los valores catastrales vigentes en los municipios de Murcia</title>
+<desc id="d-val">Gráfico de barras horizontales ordenado de la valoración más antigua a la más reciente. Va de 1997 a 2025. Cuanto más antigua es la valoración, más desfasada está la base sobre la que se aplica el tipo del IBI.</desc>
+<rect width="900" height="608" fill="#f5f0e8"/>
+<text x="24" y="38" font-size="21" font-weight="700" fill="#1a1a2e">Antigüedad de los valores catastrales · Murcia</text>
+<text x="24" y="62" font-size="13" fill="#6b6b7b">Año de la última valoración vigente. El tipo de IBI se aplica sobre esa base, no sobre el precio de mercado.</text>
+<text x="24" y="82" font-size="12" fill="#6b6b7b">Naranja: valoraciones anteriores a 2010. Verde: de 2010 en adelante.</text>
+<line x1="176" y1="90" x2="810" y2="90" stroke="#d8d0c0"/>
+<text x="166" y="117" font-size="13" fill="#1a1a2e" text-anchor="end">Cartagena</text>
+<rect x="176" y="104" width="41" height="18" rx="2" fill="#c8522a"/>
+<text x="225" y="117" font-size="12.5" font-weight="700" fill="#1a1a2e">1997</text>
+<text x="267" y="117" font-size="11.5" fill="#6b6b7b">29 años</text>
+<text x="166" y="145" font-size="13" fill="#1a1a2e" text-anchor="end">Totana</text>
+<rect x="176" y="132" width="123" height="18" rx="2" fill="#c8522a"/>
+<text x="307" y="145" font-size="12.5" font-weight="700" fill="#1a1a2e">2001</text>
+<text x="349" y="145" font-size="11.5" fill="#6b6b7b">25 años</text>
+<text x="166" y="173" font-size="13" fill="#1a1a2e" text-anchor="end">Torre Pacheco</text>
+<rect x="176" y="160" width="185" height="18" rx="2" fill="#c8522a"/>
+<text x="369" y="173" font-size="12.5" font-weight="700" fill="#1a1a2e">2004</text>
+<text x="411" y="173" font-size="11.5" fill="#6b6b7b">22 años</text>
+<text x="166" y="201" font-size="13" fill="#1a1a2e" text-anchor="end">Lorca</text>
+<rect x="176" y="188" width="205" height="18" rx="2" fill="#c8522a"/>
+<text x="389" y="201" font-size="12.5" font-weight="700" fill="#1a1a2e">2005</text>
+<text x="431" y="201" font-size="11.5" fill="#6b6b7b">21 años</text>
+<text x="166" y="229" font-size="13" fill="#1a1a2e" text-anchor="end">Yecla</text>
+<rect x="176" y="216" width="205" height="18" rx="2" fill="#c8522a"/>
+<text x="389" y="229" font-size="12.5" font-weight="700" fill="#1a1a2e">2005</text>
+<text x="431" y="229" font-size="11.5" fill="#6b6b7b">21 años</text>
+<text x="166" y="257" font-size="13" fill="#1a1a2e" text-anchor="end">Cieza</text>
+<rect x="176" y="244" width="226" height="18" rx="2" fill="#c8522a"/>
+<text x="410" y="257" font-size="12.5" font-weight="700" fill="#1a1a2e">2006</text>
+<text x="452" y="257" font-size="11.5" fill="#6b6b7b">20 años</text>
+<text x="166" y="285" font-size="13" fill="#1a1a2e" text-anchor="end">Jumilla</text>
+<rect x="176" y="272" width="226" height="18" rx="2" fill="#c8522a"/>
+<text x="410" y="285" font-size="12.5" font-weight="700" fill="#1a1a2e">2006</text>
+<text x="452" y="285" font-size="11.5" fill="#6b6b7b">20 años</text>
+<text x="166" y="313" font-size="13" fill="#1a1a2e" text-anchor="end">San Javier</text>
+<rect x="176" y="300" width="226" height="18" rx="2" fill="#c8522a"/>
+<text x="410" y="313" font-size="12.5" font-weight="700" fill="#1a1a2e">2006</text>
+<text x="452" y="313" font-size="11.5" fill="#6b6b7b">20 años</text>
+<text x="166" y="341" font-size="13" fill="#1a1a2e" text-anchor="end">Caravaca de la Cruz</text>
+<rect x="176" y="328" width="246" height="18" rx="2" fill="#c8522a"/>
+<text x="430" y="341" font-size="12.5" font-weight="700" fill="#1a1a2e">2007</text>
+<text x="472" y="341" font-size="11.5" fill="#6b6b7b">19 años</text>
+<text x="166" y="369" font-size="13" fill="#1a1a2e" text-anchor="end">Mazarrón</text>
+<rect x="176" y="356" width="267" height="18" rx="2" fill="#c8522a"/>
+<text x="451" y="369" font-size="12.5" font-weight="700" fill="#1a1a2e">2008</text>
+<text x="493" y="369" font-size="11.5" fill="#6b6b7b">18 años</text>
+<text x="166" y="397" font-size="13" fill="#1a1a2e" text-anchor="end">Alhama de Murcia</text>
+<rect x="176" y="384" width="287" height="18" rx="2" fill="#c8522a"/>
+<text x="471" y="397" font-size="12.5" font-weight="700" fill="#1a1a2e">2009</text>
+<text x="513" y="397" font-size="11.5" fill="#6b6b7b">17 años</text>
+<text x="166" y="425" font-size="13" fill="#1a1a2e" text-anchor="end">Alcantarilla</text>
+<rect x="176" y="412" width="308" height="18" rx="2" fill="#2a7c6f"/>
+<text x="492" y="425" font-size="12.5" font-weight="700" fill="#1a1a2e">2010</text>
+<text x="534" y="425" font-size="11.5" fill="#6b6b7b">16 años</text>
+<text x="166" y="453" font-size="13" fill="#1a1a2e" text-anchor="end">Águilas</text>
+<rect x="176" y="440" width="349" height="18" rx="2" fill="#2a7c6f"/>
+<text x="533" y="453" font-size="12.5" font-weight="700" fill="#1a1a2e">2012</text>
+<text x="575" y="453" font-size="11.5" fill="#6b6b7b">14 años</text>
+<text x="166" y="481" font-size="13" fill="#1a1a2e" text-anchor="end">San Pedro del Pinatar</text>
+<rect x="176" y="468" width="390" height="18" rx="2" fill="#2a7c6f"/>
+<text x="574" y="481" font-size="12.5" font-weight="700" fill="#1a1a2e">2014</text>
+<text x="616" y="481" font-size="11.5" fill="#6b6b7b">12 años</text>
+<text x="166" y="509" font-size="13" fill="#1a1a2e" text-anchor="end">Murcia</text>
+<rect x="176" y="496" width="492" height="18" rx="2" fill="#2a7c6f"/>
+<text x="676" y="509" font-size="12.5" font-weight="700" fill="#1a1a2e">2019</text>
+<text x="718" y="509" font-size="11.5" fill="#6b6b7b">7 años</text>
+<text x="166" y="537" font-size="13" fill="#1a1a2e" text-anchor="end">Molina de Segura</text>
+<rect x="176" y="524" width="615" height="18" rx="2" fill="#2a7c6f"/>
+<text x="799" y="537" font-size="12.5" font-weight="700" fill="#1a1a2e">2025</text>
+<text x="841" y="537" font-size="11.5" fill="#6b6b7b">1 años</text>
+<text x="24" y="586" font-size="11.5" fill="#6b6b7b">Elaboración propia de TasasMunicipales.info con el año de los valores catastrales que publica el Ministerio de Hacienda en su consulta de información impositiva municipal.</text>
+</svg>

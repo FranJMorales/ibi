@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="900" height="600" role="img" aria-labelledby="t-tipos d-tipos" font-family="Georgia, 'Source Serif 4', serif">
+<title id="t-tipos">Tipo de gravamen del IBI urbano en los municipios de Murcia para 2026</title>
+<desc id="d-tipos">Gráfico de barras horizontales. Los tipos van del 0,53% al 0,8075%. Cada barra corresponde a un municipio de Murcia recogido en la guía.</desc>
+<rect width="900" height="600" fill="#f5f0e8"/>
+<text x="24" y="38" font-size="21" font-weight="700" fill="#1a1a2e">Tipo de IBI urbano 2026 · Murcia</text>
+<text x="24" y="62" font-size="13" fill="#6b6b7b">Porcentaje aplicado sobre el valor catastral. Horquilla legal para urbana: 0,40% – 1,10%.</text>
+<line x1="176" y1="82" x2="832" y2="82" stroke="#d8d0c0"/>
+<text x="166" y="109" font-size="13" fill="#1a1a2e" text-anchor="end">Molina de Segura</text>
+<rect x="176" y="96" width="637" height="18" rx="2" fill="#c8522a"/>
+<text x="821" y="109" font-size="12.5" font-weight="700" fill="#1a1a2e">0,8075%</text>
+<text x="166" y="137" font-size="13" fill="#1a1a2e" text-anchor="end">Alcantarilla</text>
+<rect x="176" y="124" width="631" height="18" rx="2" fill="#2a7c6f"/>
+<text x="815" y="137" font-size="12.5" font-weight="700" fill="#1a1a2e">0,8%</text>
+<text x="166" y="165" font-size="13" fill="#1a1a2e" text-anchor="end">Lorca</text>
+<rect x="176" y="152" width="586" height="18" rx="2" fill="#2a7c6f"/>
+<text x="770" y="165" font-size="12.5" font-weight="700" fill="#1a1a2e">0,743%</text>
+<text x="166" y="193" font-size="13" fill="#1a1a2e" text-anchor="end">Murcia</text>
+<rect x="176" y="180" width="561" height="18" rx="2" fill="#2a7c6f"/>
+<text x="745" y="193" font-size="12.5" font-weight="700" fill="#1a1a2e">0,7115%</text>
+<text x="166" y="221" font-size="13" fill="#1a1a2e" text-anchor="end">Caravaca de la Cruz</text>
+<rect x="176" y="208" width="544" height="18" rx="2" fill="#2a7c6f"/>
+<text x="728" y="221" font-size="12.5" font-weight="700" fill="#1a1a2e">0,69%</text>
+<text x="166" y="249" font-size="13" fill="#1a1a2e" text-anchor="end">Totana</text>
+<rect x="176" y="236" width="536" height="18" rx="2" fill="#2a7c6f"/>
+<text x="720" y="249" font-size="12.5" font-weight="700" fill="#1a1a2e">0,68%</text>
+<text x="166" y="277" font-size="13" fill="#1a1a2e" text-anchor="end">Yecla</text>
+<rect x="176" y="264" width="536" height="18" rx="2" fill="#2a7c6f"/>
+<text x="720" y="277" font-size="12.5" font-weight="700" fill="#1a1a2e">0,68%</text>
+<text x="166" y="305" font-size="13" fill="#1a1a2e" text-anchor="end">Torre Pacheco</text>
+<rect x="176" y="292" width="497" height="18" rx="2" fill="#2a7c6f"/>
+<text x="681" y="305" font-size="12.5" font-weight="700" fill="#1a1a2e">0,63%</text>
+<text x="166" y="333" font-size="13" fill="#1a1a2e" text-anchor="end">Cartagena</text>
+<rect x="176" y="320" width="471" height="18" rx="2" fill="#2a7c6f"/>
+<text x="655" y="333" font-size="12.5" font-weight="700" fill="#1a1a2e">0,5976%</text>
+<text x="166" y="361" font-size="13" fill="#1a1a2e" text-anchor="end">Alhama de Murcia</text>
+<rect x="176" y="348" width="465" height="18" rx="2" fill="#2a7c6f"/>
+<text x="649" y="361" font-size="12.5" font-weight="700" fill="#1a1a2e">0,59%</text>
+<text x="166" y="389" font-size="13" fill="#1a1a2e" text-anchor="end">Jumilla</text>
+<rect x="176" y="376" width="446" height="18" rx="2" fill="#2a7c6f"/>
+<text x="630" y="389" font-size="12.5" font-weight="700" fill="#1a1a2e">0,5655%</text>
+<text x="166" y="417" font-size="13" fill="#1a1a2e" text-anchor="end">San Javier</text>
+<rect x="176" y="404" width="434" height="18" rx="2" fill="#2a7c6f"/>
+<text x="618" y="417" font-size="12.5" font-weight="700" fill="#1a1a2e">0,55%</text>
+<text x="166" y="445" font-size="13" fill="#1a1a2e" text-anchor="end">Cieza</text>
+<rect x="176" y="432" width="426" height="18" rx="2" fill="#2a7c6f"/>
+<text x="610" y="445" font-size="12.5" font-weight="700" fill="#1a1a2e">0,54%</text>
+<text x="166" y="473" font-size="13" fill="#1a1a2e" text-anchor="end">Mazarrón</text>
+<rect x="176" y="460" width="426" height="18" rx="2" fill="#2a7c6f"/>
+<text x="610" y="473" font-size="12.5" font-weight="700" fill="#1a1a2e">0,54%</text>
+<text x="166" y="501" font-size="13" fill="#1a1a2e" text-anchor="end">Águilas</text>
+<rect x="176" y="488" width="423" height="18" rx="2" fill="#2a7c6f"/>
+<text x="607" y="501" font-size="12.5" font-weight="700" fill="#1a1a2e">0,536%</text>
+<text x="166" y="529" font-size="13" fill="#1a1a2e" text-anchor="end">San Pedro del Pinatar</text>
+<rect x="176" y="516" width="418" height="18" rx="2" fill="#c8522a"/>
+<text x="602" y="529" font-size="12.5" font-weight="700" fill="#1a1a2e">0,53%</text>
+<text x="24" y="578" font-size="11.5" fill="#6b6b7b">Elaboración propia de TasasMunicipales.info con los tipos que publica el Ministerio de Hacienda.</text>
+</svg>
