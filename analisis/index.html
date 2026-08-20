@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <link rel="icon" type="image/x-icon" href="../favicon.ico">
+  <link rel="icon" type="image/svg+xml" href="../favicon.svg">
+  <link rel="icon" type="image/png" sizes="32x32" href="../favicon-32x32.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="../apple-touch-icon.png">
+  <title>Análisis: comparativas de impuestos municipales</title>
+  <meta name="description" content="Análisis propios a partir de los datos oficiales de 134 municipios: ranking del IBI, comparativa del impuesto de circulación, coeficientes reales de plusvalía y antigüedad de los valores catastrales.">
+  <link rel="canonical" href="https://tasasmunicipales.info/analisis/">
+  <meta name="google-adsense-account" content="ca-pub-4975903304841229">
+  <!-- Google Consent Mode v2: estado por defecto denegado hasta que el usuario acepte (RGPD) -->
+  <script id="tm-consent-default">
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    (function () {
+      var m = document.cookie.match('(^|;)\\s*tm_cookie_consent\\s*=\\s*([^;]+)');
+      var state = (m ? m.pop() : '') === 'accepted' ? 'granted' : 'denied';
+      gtag('consent', 'default', {
+        ad_storage: state,
+        ad_user_data: state,
+        ad_personalization: state,
+        analytics_storage: state,
+        wait_for_update: 500
+      });
+    })();
+  </script>
+  <!-- Google AdSense -->
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4975903304841229" crossorigin="anonymous"></script>
+  <meta name="robots" content="index, follow, max-image-preview:large">
+  <meta property="og:title" content="Análisis: comparativas de impuestos municipales">
+  <meta property="og:description" content="Análisis propios a partir de los datos oficiales de 134 municipios: ranking del IBI, comparativa del impuesto de circulación, coeficientes reales de plusvalía y antigüedad de los valores catastrales.">
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="https://tasasmunicipales.info/analisis/">
+  <meta property="og:site_name" content="TasasMunicipales.info">
+  <meta property="og:locale" content="es_ES">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Source+Serif+4:wght@300;400;600&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+<header>
+  <div class="hi">
+    <a href="../" class="logo">TasasMunicipales<span>Guía de Impuestos Locales · España 2026</span></a>
+    <nav class="mainnav" aria-label="Navegación principal">
+      <details class="nav-group">
+        <summary>Mi municipio</summary>
+        <div class="nav-menu">
+          <a href="../municipios/">Buscar entre los 134 municipios</a>
+          <a href="../comunidades/">Por comunidad autónoma</a>
+        </div>
+      </details>
+      <details class="nav-group">
+        <summary>Impuestos</summary>
+        <div class="nav-menu">
+          <a href="../ibi-2026/">IBI</a>
+          <a href="../tasa-basuras/">Tasa de basuras</a>
+          <a href="../plusvalia/">Plusvalía municipal</a>
+          <a href="../bonificaciones/">Bonificaciones del IBI</a>
+          <a href="../impuesto-circulacion/">Impuesto de circulación</a>
+          <a href="../valor-catastral/">Valor catastral</a>
+        </div>
+      </details>
+      <a href="../analisis/" class="on" aria-current="page">Comparativas</a>
+      <a href="../metodologia/">Metodología</a>
+      <a href="../contacto/">Contacto</a>
+      <a href="../calculadora-ibi/" class="nav-cta">Calcular mi IBI</a>
+    </nav>
+  </div>
+</header>
+<div class="bc"><a href="../">Inicio</a><span>›</span><strong>Análisis</strong></div><div class="wrap">
+  <h1>Análisis de impuestos municipales</h1>
+  <p class="lead">Comparativas hechas con los datos oficiales de 134 municipios normalizados en una misma tabla. Cada cifra con su fuente y cada artículo con sus límites.</p>
+  <p style="font-size:.85rem;color:var(--mid)">Por Aithamy Rivero · Actualizado el 25 de julio de 2026 · <a href="../metodologia/">Metodología y fuentes</a></p>
+  <section class="sec">
+    <h2 id="que-es">Qué encontrarás aquí</h2>
+    <p>Las guías explican cómo funciona cada impuesto y las fichas municipales dan el dato de un municipio concreto. Esta sección es distinta: son <strong>análisis que solo se pueden hacer teniendo los 134 municipios en la misma tabla</strong>, comparando lo que cada ayuntamiento ha aprobado.</p>
+    <p>Todas las cifras salen de fuentes oficiales citadas —la consulta de información impositiva municipal del Ministerio de Hacienda, el INE y el BOE— y cada artículo dice al final qué no cubre. Cuando un dato no está contrastado, lo decimos: <a href="../metodologia/">así trabajamos</a>.</p>
+    <p>La muestra sobre la que trabajan todos los análisis es la misma: <strong>134 municipios</strong> de nueve comunidades autónomas, 7.777.568 habitantes en total, con el ejercicio <strong>2025</strong> como último publicado por Hacienda. En ella el tipo de IBI urbano va del 0,4% al 0,984% (mediana: 0,6065%), las valoraciones catastrales vigentes van de 1986 a 2025 y la tarifa del impuesto de circulación de un turismo medio, de 34,08 € a 68,16 € al año.</p>
+    <p>No es una muestra representativa del conjunto de España: son los municipios que hemos podido documentar por completo, con sesgo hacia los más poblados de cada provincia. Lo decimos aquí y en cada artículo, porque cambia lo que se puede concluir: sirve para comparar municipios entre sí y para ver patrones, no para calcular medias nacionales.</p>
+  </section>
+
+  <section class="sec">
+    <h2 id="mapa">La muestra de un vistazo</h2>
+  <figure class="fig">
+    <img src="../img/analisis-medianas-ccaa.svg" alt="Gráfico de barras con la mediana del tipo de IBI urbano en cada una de las nueve comunidades autónomas cubiertas" width="900" height="492">
+    <figcaption>Mediana del tipo de IBI urbano por comunidad autónoma en los 134 municipios analizados, ejercicio 2025. Gráfico propio.</figcaption>
+  </figure>
+    <p>El IBI es un tributo estrictamente municipal: la comunidad autónoma no fija el tipo ni participa en su recaudación. Que las medianas por comunidad salgan distintas no indica ninguna política autonómica, sino la mezcla de municipios que hay en cada una y, sobre todo, la antigüedad de sus valores catastrales. La comunidad con la mediana más alta de la muestra es Extremadura (0,7% en 15 municipios) y la más baja Cantabria (0,528% en 10).</p>
+    <p>Para leer bien cualquiera de estas comparaciones hay una regla que conviene tener presente: <strong>el tipo de gravamen no es el precio del recibo</strong>. La cuota es valor catastral por tipo, y un municipio con valores de los años noventa puede aplicar un tipo alto y seguir cobrando menos que su vecino recién revisado. Por eso la sección tiene un artículo dedicado precisamente a la antigüedad de las valoraciones.</p>
+  </section>
+
+  <section class="sec">
+    <h2 id="como-se-hacen">Cómo se hacen estos análisis</h2>
+    <p>El punto de partida es la <a href="https://serviciostelematicosext.hacienda.gob.es/SGFAL/ConsultaTipos/html/portadaconsultasm.aspx" target="_blank" rel="nofollow noopener">consulta de información impositiva municipal</a> del Ministerio de Hacienda, la única fuente estatal que publica, municipio a municipio y ejercicio a ejercicio, lo que cada ayuntamiento tiene aprobado: tipos del IBI, tarifa del impuesto de circulación, tipo del ICIO, coeficientes de la plusvalía y año de la última valoración catastral. A eso sumamos las cifras oficiales de población del INE y el texto consolidado de la normativa en el BOE.</p>
+    <p>Descargamos esos datos, los normalizamos en una única tabla y a partir de ahí calculamos rankings, medianas y ejemplos comparados. Los cálculos derivados —una cuota para un valor catastral común, una diferencia en euros— se explican siempre en el apartado de metodología de cada artículo, para que se puedan reproducir.</p>
+    <h3>Qué no hacemos</h3>
+    <p>No rellenamos huecos. Cuando la fuente no publica un dato lo decimos y contamos a cuántos municipios afecta; cuando lo que publica no encaja con la normativa vigente, lo advertimos en lugar de reproducirlo. El caso más claro es la <a href="../tasa-basuras/">tasa de residuos</a>: no existe fuente estatal que la recoja, así que no publicamos importes por municipio y <a href="../metodologia/#no-publicamos">explicamos por qué</a>. Y ningún análisis sustituye a la ordenanza fiscal del municipio, que es la que vale ante una liquidación: en cada ficha municipal enlazamos dónde consultarla.</p>
+    <h3>Los gráficos son propios</h3>
+    <p>Cada figura de esta sección se dibuja con los datos de la propia página, lleva el texto como texto —se puede seleccionar, buscar e indexar— y cita la fuente en el pie. No hay imágenes de archivo ni gráficos tomados de terceros. Si encuentras una diferencia entre un gráfico y su tabla, es un error nuestro y queremos saberlo: <a href="../contacto/">avísanos</a>.</p>
+    <h3>Qué se actualiza y cuándo</h3>
+    <p>Estos análisis se rehacen cuando cambia el dato de origen: cuando el Ministerio publica un ejercicio nuevo, cuando el INE actualiza el padrón o cuando una reforma legal mueve los límites que usamos como referencia. Al regenerarse desde la misma tabla que las fichas, ningún artículo se queda con cifras viejas mientras el resto del sitio avanza.</p>
+  </section>
+</div>
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "headline": "Análisis: comparativas de impuestos municipales",
+ "description": "Análisis propios a partir de los datos oficiales de 134 municipios: ranking del IBI, comparativa del impuesto de circulación, coeficientes reales de plusvalía y antigüedad de los valores catastrales.",
+ "url": "https://tasasmunicipales.info/analisis/",
+ "inLanguage": "es-ES",
+ "author": {
+  "@type": "Person",
+  "name": "Aithamy Rivero"
+ },
+ "publisher": {
+  "@type": "Organization",
+  "name": "TasasMunicipales.info"
+ },
+ "datePublished": "2026-07-25",
+ "dateModified": "2026-07-25",
+ "isBasedOn": "https://serviciostelematicosext.hacienda.gob.es/SGFAL/ConsultaTipos/html/portadaconsultasm.aspx"
+}
+</script>
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "BreadcrumbList",
+ "itemListElement": [
+  {
+   "@type": "ListItem",
+   "position": 1,
+   "name": "Inicio",
+   "item": "https://tasasmunicipales.info/"
+  },
+  {
+   "@type": "ListItem",
+   "position": 2,
+   "name": "Análisis",
+   "item": "https://tasasmunicipales.info/analisis/"
+  },
+  {
+   "@type": "ListItem",
+   "position": 3,
+   "name": "Análisis",
+   "item": "https://tasasmunicipales.info/analisis/"
+  }
+ ]
+}
+</script>
+<footer>
+  <div class="ft-grid" style="max-width:1100px;margin:0 auto;display:grid;grid-template-columns:2fr 1fr 1fr 1fr;gap:32px;padding:40px 24px 24px;">
+    <div>
+      <div style="font-family:'Playfair Display',serif;font-size:1.1rem;font-weight:900;color:#fff;margin-bottom:6px;">TasasMunicipales</div>
+      <div style="font-size:.65rem;letter-spacing:.08em;text-transform:uppercase;color:rgba(255,255,255,.5);margin-bottom:10px;">Guía de Impuestos Locales · España 2026</div>
+      <p style="font-size:.78rem;line-height:1.7;color:rgba(255,255,255,.45);margin:0;">Guía de IBI, tasa de basuras, plusvalía y bonificaciones municipio a municipio, con enlace a la sede electrónica de cada ayuntamiento.</p>
+    </div>
+    <div>
+      <div style="font-size:.7rem;text-transform:uppercase;letter-spacing:.12em;color:rgba(255,255,255,.9);margin-bottom:14px;">Navegación</div>
+      <ul style="list-style:none;padding:0;margin:0;">
+        <li style="margin-bottom:8px;"><a href="../" style="color:rgba(255,255,255,.5);font-size:.8rem;text-decoration:none;">Inicio</a></li>
+        <li style="margin-bottom:8px;"><a href="../comunidades/" style="color:rgba(255,255,255,.5);font-size:.8rem;text-decoration:none;">Comunidades</a></li>
+        <li style="margin-bottom:8px;"><a href="../municipios/" style="color:rgba(255,255,255,.5);font-size:.8rem;text-decoration:none;">Municipios</a></li>
+        <li style="margin-bottom:8px;"><a href="../calculadora-ibi/" style="color:rgba(255,255,255,.5);font-size:.8rem;text-decoration:none;">Calculadora IBI</a></li>
+      </ul>
+    </div>
+    <div>
+      <div style="font-size:.7rem;text-transform:uppercase;letter-spacing:.12em;color:rgba(255,255,255,.9);margin-bottom:14px;">Impuestos</div>
+      <ul style="list-style:none;padding:0;margin:0;">
+        <li style="margin-bottom:8px;"><a href="../ibi-2026/" style="color:rgba(255,255,255,.5);font-size:.8rem;text-decoration:none;">IBI 2026</a></li>
+        <li style="margin-bottom:8px;"><a href="../tasa-basuras/" style="color:rgba(255,255,255,.5);font-size:.8rem;text-decoration:none;">Tasa de Basuras</a></li>
+        <li style="margin-bottom:8px;"><a href="../plusvalia/" style="color:rgba(255,255,255,.5);font-size:.8rem;text-decoration:none;">Plusvalía Municipal</a></li>
+        <li style="margin-bottom:8px;"><a href="../bonificaciones/" style="color:rgba(255,255,255,.5);font-size:.8rem;text-decoration:none;">Bonificaciones</a></li>
+        <li style="margin-bottom:8px;"><a href="../impuesto-circulacion/" style="color:rgba(255,255,255,.5);font-size:.8rem;text-decoration:none;">Impuesto de Circulación</a></li>
+        <li style="margin-bottom:8px;"><a href="../valor-catastral/" style="color:rgba(255,255,255,.5);font-size:.8rem;text-decoration:none;">Valor Catastral</a></li>
+      </ul>
+    </div>
+    <div>
+      <div style="font-size:.7rem;text-transform:uppercase;letter-spacing:.12em;color:rgba(255,255,255,.9);margin-bottom:14px;">Legal</div>
+      <ul style="list-style:none;padding:0;margin:0;">
+        <li style="margin-bottom:8px;"><a href="../aviso-legal/" rel="nofollow" style="color:rgba(255,255,255,.5);font-size:.8rem;text-decoration:none;">Aviso Legal</a></li>
+        <li style="margin-bottom:8px;"><a href="../privacidad/" rel="nofollow" style="color:rgba(255,255,255,.5);font-size:.8rem;text-decoration:none;">Privacidad</a></li>
+        <li style="margin-bottom:8px;"><a href="../cookies/" rel="nofollow" style="color:rgba(255,255,255,.5);font-size:.8rem;text-decoration:none;">Cookies</a></li>
+        <li style="margin-bottom:8px;"><a href="../contacto/" style="color:rgba(255,255,255,.5);font-size:.8rem;text-decoration:none;">Contacto</a></li>
+        <li style="margin-bottom:8px;"><a href="../sobre-nosotros/" style="color:rgba(255,255,255,.5);font-size:.8rem;text-decoration:none;">Sobre nosotros</a></li>
+      </ul>
+    </div>
+  </div>
+  <div style="max-width:1100px;margin:0 auto;padding:16px 24px 28px;border-top:1px solid rgba(255,255,255,.1);display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px;font-size:.72rem;color:rgba(255,255,255,.4);">
+    <span>© 2026 TasasMunicipales.info · La información no constituye asesoramiento fiscal.</span>
+    <span>Datos del Ministerio de Hacienda, el INE y el BOE. La ordenanza de tu ayuntamiento es la que manda.</span>
+  </div>
+</footer>
+<script src="../cookie-consent.js" defer></script>
+</body>
+</html>
