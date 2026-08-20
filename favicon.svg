@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Background -->
+  <rect width="32" height="32" rx="6" fill="#1a1a2e"/>
+  
+  <!-- House roof -->
+  <polygon points="16,4 28,14 4,14" fill="#d4a843"/>
+  
+  <!-- House body -->
+  <rect x="7" y="14" width="18" height="13" rx="1" fill="#c8522a"/>
+  
+  <!-- Door -->
+  <rect x="13" y="20" width="6" height="7" rx="1" fill="#1a1a2e"/>
+  
+  <!-- Euro symbol on door -->
+  <text x="16" y="26.5" 
+        font-family="Georgia,serif" 
+        font-size="6.5" 
+        font-weight="bold" 
+        fill="#d4a843" 
+        text-anchor="middle">€</text>
+</svg>

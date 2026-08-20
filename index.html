@@ -1,0 +1,718 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <link rel="icon" type="image/svg+xml" href="favicon.svg">
+  <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+  <title>Tasas Municipales España 2026: IBI, Basuras y Plusvalía</title>
+  <meta name="description" content="IBI, plusvalía, impuesto de circulación y bonificaciones de 134 municipios en España 2026, con los tipos oficiales del Ministerio de Hacienda, calculadora y comparador.">
+  <meta name="keywords" content="IBI 2026, tasa basuras municipio, plusvalía municipal, bonificaciones IBI, impuestos municipales España">
+  <meta name="google-adsense-account" content="ca-pub-4975903304841229">
+  <!-- Google Consent Mode v2: estado por defecto denegado hasta que el usuario acepte (RGPD) -->
+  <script id="tm-consent-default">
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    (function () {
+      var m = document.cookie.match('(^|;)\\s*tm_cookie_consent\\s*=\\s*([^;]+)');
+      var state = (m ? m.pop() : '') === 'accepted' ? 'granted' : 'denied';
+      gtag('consent', 'default', {
+        ad_storage: state,
+        ad_user_data: state,
+        ad_personalization: state,
+        analytics_storage: state,
+        wait_for_update: 500
+      });
+    })();
+  </script>
+  <!-- Google AdSense -->
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4975903304841229" crossorigin="anonymous"></script>
+  <link rel="canonical" href="https://tasasmunicipales.info/">
+  <meta property="og:title" content="Guía de Tasas Municipales 2026 – IBI, Basuras y Plusvalía">
+  <meta property="og:description" content="Consulta el IBI, la plusvalía, el impuesto de circulación y las bonificaciones de 134 municipios españoles, con la fuente oficial de cada dato.">
+  <meta property="og:type" content="website">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Source+Serif+4:wght@300;400;600&display=swap" rel="stylesheet">
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Tasas Municipales España 2026",
+    "url": "https://tasasmunicipales.info",
+    "description": "IBI, plusvalía municipal, impuesto de circulación, valor catastral y bonificaciones de 134 municipios españoles, con los datos oficiales del Ministerio de Hacienda",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "https://tasasmunicipales.info/municipios/?q={search_term_string}",
+      "query-input": "required name=search_term_string"
+    }
+  }
+  </script>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<!-- HEADER -->
+<header>
+  <div class="header-top">
+    <div class="logo">
+      <span class="logo-main">TasasMunicipales</span>
+      <span class="logo-sub">Guía de Impuestos Locales · España 2026</span>
+    </div>
+    <nav class="mainnav" aria-label="Navegación principal">
+      <details class="nav-group">
+        <summary>Mi municipio</summary>
+        <div class="nav-menu">
+          <a href="municipios/">Buscar entre los 134 municipios</a>
+          <a href="comunidades/">Por comunidad autónoma</a>
+        </div>
+      </details>
+      <details class="nav-group">
+        <summary>Impuestos</summary>
+        <div class="nav-menu">
+          <a href="ibi-2026/">IBI</a>
+          <a href="tasa-basuras/">Tasa de basuras</a>
+          <a href="plusvalia/">Plusvalía municipal</a>
+          <a href="bonificaciones/">Bonificaciones del IBI</a>
+          <a href="impuesto-circulacion/">Impuesto de circulación</a>
+          <a href="valor-catastral/">Valor catastral</a>
+        </div>
+      </details>
+      <a href="analisis/">Comparativas</a>
+      <a href="metodologia/">Metodología</a>
+      <a href="contacto/">Contacto</a>
+      <a href="calculadora-ibi/" class="nav-cta">Calcular mi IBI</a>
+    </nav>
+  </div>
+</header>
+
+<!-- HERO -->
+<section class="hero" aria-label="Buscador de tasas municipales">
+  <div class="hero-inner">
+    <span class="hero-badge">Actualizado 2026</span>
+    <h1>IBI, Basuras y Plusvalía<br>de <span>tu municipio</span></h1>
+    <p>Consulta el tipo de IBI, la plusvalía, el impuesto de circulación y las bonificaciones que puedes solicitar en cualquiera de los <strong>134 municipios</strong> de esta guía, con la fuente oficial de cada dato.</p>
+      <!-- buscador:inicio -->
+      <div class="search-wrap">
+        <form class="search-box" role="search" action="municipios/" method="get">
+          <input type="search" id="tm-buscador" name="q"
+                 placeholder="Busca tu municipio… ej: Ourense, Vigo, Toledo…"
+                 aria-label="Buscar municipio" autocomplete="off"
+                 role="combobox" aria-expanded="false" aria-controls="tm-sugerencias"
+                 aria-autocomplete="list" aria-describedby="tm-buscador-ayuda">
+          <button type="submit" aria-label="Buscar municipio">🔍</button>
+        </form>
+        <ul id="tm-sugerencias" class="search-sug" role="listbox"
+            aria-label="Municipios sugeridos" hidden></ul>
+        <p id="tm-buscador-ayuda" class="search-help">Escribe dos letras y te
+          sugerimos los municipios disponibles. También puedes buscar por
+          provincia.</p>
+      </div>
+      <!-- buscador:fin -->
+  </div>
+</section>
+
+<section class="section">
+  <div class="section-header">
+    <h2>¿Qué impuesto quieres consultar?</h2>
+  </div>
+  <div class="types-grid cols-3">
+    <a href="ibi-2026/" class="type-card">
+      <div class="type-icon">🏠</div><h3>IBI 2026</h3>
+      <p>Tipo impositivo de tu municipio, cómo se calcula la cuota, qué plazo marca la ley y cómo fraccionar el pago.</p>
+    </a>
+    <a href="tasa-basuras/" class="type-card">
+      <div class="type-icon">🗑️</div><h3>Tasa de Basuras</h3>
+      <p>Qué obliga la Ley 7/2022, quién la paga en un alquiler, cómo reclamar y dónde localizar la tarifa de tu municipio.</p>
+    </a>
+    <a href="plusvalia/" class="type-card">
+      <div class="type-icon">📈</div><h3>Plusvalía Municipal</h3>
+      <p>Calculadora actualizada, cuánto se paga y cómo evitar la plusvalía en herencias o donaciones.</p>
+    </a>
+    <a href="bonificaciones/" class="type-card">
+      <div class="type-icon">🎁</div><h3>Bonificaciones</h3>
+      <p>Familia numerosa, placas solares, domiciliación… descubre todas las reducciones posibles en tu IBI.</p>
+    </a>
+    <a href="impuesto-circulacion/" class="type-card">
+      <div class="type-icon">🚗</div><h3>Impuesto de Circulación</h3>
+      <p>Tarifa del IVTM por caballos fiscales, quién está exento y cómo se paga al comprar o vender un coche.</p>
+    </a>
+    <a href="valor-catastral/" class="type-card">
+      <div class="type-icon">📐</div><h3>Valor Catastral</h3>
+      <p>Qué es, cómo consultarlo gratis, en qué se diferencia del precio de mercado y cómo recurrirlo.</p>
+    </a>
+  </div>
+</section>
+
+<div class="ruled bg-alt">
+  <section class="section">
+    <div class="section-header">
+      <h2>🔥 Municipios más consultados</h2>
+      <a href="municipios/">Ver todos los municipios →</a>
+    </div>
+    <div class="popular-grid">
+      
+      <a href="extremadura/caceres/plasencia/" class="muni-card">
+        <div class="card-region">Extremadura · Cáceres</div>
+        <div class="card-name">Plasencia</div>
+        <div class="card-links">
+          <span class="tag">IBI</span><span class="tag">Basuras</span><span class="tag">Plusvalía</span>
+        </div>
+      </a>
+      <a href="murcia/murcia/cartagena/" class="muni-card">
+        <div class="card-region">Murcia · Murcia</div>
+        <div class="card-name">Cartagena</div>
+        <div class="card-links">
+          <span class="tag">IBI</span><span class="tag">Basuras</span><span class="tag">Plusvalía</span>
+        </div>
+      </a>
+      <a href="castilla-y-leon/valladolid/valladolid/" class="muni-card">
+        <div class="card-region">Castilla y León · Valladolid</div>
+        <div class="card-name">Valladolid</div>
+        <div class="card-links">
+          <span class="tag">IBI</span><span class="tag">Basuras</span><span class="tag">Plusvalía</span>
+        </div>
+      </a>
+      <a href="galicia/pontevedra/vigo/" class="muni-card">
+        <div class="card-region">Galicia · Pontevedra</div>
+        <div class="card-name">Vigo</div>
+        <div class="card-links">
+          <span class="tag">IBI</span><span class="tag">Basuras</span><span class="tag">Plusvalía</span>
+        </div>
+      </a>
+      <a href="castilla-la-mancha/toledo/toledo/" class="muni-card">
+        <div class="card-region">Castilla-La Mancha · Toledo</div>
+        <div class="card-name">Toledo</div>
+        <div class="card-links">
+          <span class="tag">IBI</span><span class="tag">Basuras</span><span class="tag">Plusvalía</span>
+        </div>
+      </a>
+      <a href="aragon/zaragoza/zaragoza/" class="muni-card">
+        <div class="card-region">Aragón · Zaragoza</div>
+        <div class="card-name">Zaragoza</div>
+        <div class="card-links">
+          <span class="tag">IBI</span><span class="tag">Basuras</span><span class="tag">Plusvalía</span>
+        </div>
+      </a>
+      <a href="asturias/asturias/gijon/" class="muni-card">
+        <div class="card-region">Asturias · Asturias</div>
+        <div class="card-name">Gijón</div>
+        <div class="card-links">
+          <span class="tag">IBI</span><span class="tag">Basuras</span><span class="tag">Plusvalía</span>
+        </div>
+      </a>
+      <a href="galicia/a-coruna/a-coruna/" class="muni-card">
+        <div class="card-region">Galicia · A Coruña</div>
+        <div class="card-name">A Coruña</div>
+        <div class="card-links">
+          <span class="tag">IBI</span><span class="tag">Basuras</span><span class="tag">Plusvalía</span>
+        </div>
+      </a>
+    </div>
+  </section>
+</div>
+
+<section class="section">
+  <div class="section-header">
+    <h2>Tasas municipales por Comunidad Autónoma</h2>
+    <a href="comunidades/">Ver todas →</a>
+  </div>
+  <div class="ccaa-tiles-grid">
+    <button class="ccaa-tile active" data-ccaa="aragon">Aragón</button><button class="ccaa-tile active" data-ccaa="asturias">Asturias</button><button class="ccaa-tile active" data-ccaa="cantabria">Cantabria</button><button class="ccaa-tile active" data-ccaa="castilla-la-mancha">Castilla-La Mancha</button><button class="ccaa-tile active" data-ccaa="castilla-y-leon">Castilla y León</button><button class="ccaa-tile active" data-ccaa="extremadura">Extremadura</button><button class="ccaa-tile active" data-ccaa="galicia">Galicia</button><button class="ccaa-tile active" data-ccaa="la-rioja">La Rioja</button><button class="ccaa-tile active" data-ccaa="murcia">Murcia</button>
+  </div>
+  
+  <div class="ccaa-detail-panel" id="panel-aragon">
+    <div class="detail-header">
+      <h3>🗺️ Aragón — Municipios disponibles</h3>
+      <button class="detail-close" onclick="closePanel('aragon')">✕ Cerrar</button>
+    </div>
+    <div class="prov-cols">
+      <div class="prov-group">
+        <div class="prov-title">Huesca</div>
+        <ul class="muni-list">
+<li><span class="muni-num">1</span><a href="aragon/huesca/huesca/">Huesca</a></li>
+<li><span class="muni-num">2</span><a href="aragon/huesca/monzon/">Monzón</a></li>
+<li><span class="muni-num">3</span><a href="aragon/huesca/jaca/">Jaca</a></li>
+<li><span class="muni-num">4</span><a href="aragon/huesca/barbastro/">Barbastro</a></li>
+<li><span class="muni-num">5</span><a href="aragon/huesca/fraga/">Fraga</a></li>
+<li><span class="muni-num">6</span><a href="aragon/huesca/sabinanigo/">Sabiñánigo</a></li>
+<li><span class="muni-num">7</span><a href="aragon/huesca/binefar/">Binéfar</a></li>
+        </ul>
+      </div>
+      <div class="prov-group">
+        <div class="prov-title">Teruel</div>
+        <ul class="muni-list">
+<li><span class="muni-num">8</span><a href="aragon/teruel/teruel/">Teruel</a></li>
+<li><span class="muni-num">9</span><a href="aragon/teruel/alcaniz/">Alcañiz</a></li>
+        </ul>
+      </div>
+      <div class="prov-group">
+        <div class="prov-title">Zaragoza</div>
+        <ul class="muni-list">
+<li><span class="muni-num">10</span><a href="aragon/zaragoza/zaragoza/">Zaragoza</a></li>
+<li><span class="muni-num">11</span><a href="aragon/zaragoza/calatayud/">Calatayud</a></li>
+<li><span class="muni-num">12</span><a href="aragon/zaragoza/utebo/">Utebo</a></li>
+<li><span class="muni-num">13</span><a href="aragon/zaragoza/ejea-de-los-caballeros/">Ejea de los Caballeros</a></li>
+<li><span class="muni-num">14</span><a href="aragon/zaragoza/tarazona/">Tarazona</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="ccaa-detail-panel" id="panel-asturias">
+    <div class="detail-header">
+      <h3>🗺️ Asturias — Municipios disponibles</h3>
+      <button class="detail-close" onclick="closePanel('asturias')">✕ Cerrar</button>
+    </div>
+    <div class="prov-cols">
+      <div class="prov-group">
+        <div class="prov-title">Asturias</div>
+        <ul class="muni-list">
+<li><span class="muni-num">15</span><a href="asturias/asturias/gijon/">Gijón</a></li>
+<li><span class="muni-num">16</span><a href="asturias/asturias/oviedo/">Oviedo</a></li>
+<li><span class="muni-num">17</span><a href="asturias/asturias/aviles/">Avilés</a></li>
+<li><span class="muni-num">18</span><a href="asturias/asturias/siero/">Siero</a></li>
+<li><span class="muni-num">19</span><a href="asturias/asturias/langreo/">Langreo</a></li>
+<li><span class="muni-num">20</span><a href="asturias/asturias/mieres/">Mieres</a></li>
+<li><span class="muni-num">21</span><a href="asturias/asturias/castrillon/">Castrillón</a></li>
+<li><span class="muni-num">22</span><a href="asturias/asturias/llanes/">Llanes</a></li>
+<li><span class="muni-num">23</span><a href="asturias/asturias/cangas-de-onis/">Cangas de Onís</a></li>
+<li><span class="muni-num">24</span><a href="asturias/asturias/navia/">Navia</a></li>
+<li><span class="muni-num">25</span><a href="asturias/asturias/villaviciosa/">Villaviciosa</a></li>
+<li><span class="muni-num">26</span><a href="asturias/asturias/lena/">Lena</a></li>
+<li><span class="muni-num">27</span><a href="asturias/asturias/grado/">Grado</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+    <div class="ccaa-detail-panel" id="panel-cantabria">
+    <div class="detail-header">
+      <h3>🗺️ Cantabria — Municipios disponibles</h3>
+      <button class="detail-close" onclick="closePanel('cantabria')">✕ Cerrar</button>
+    </div>
+    <div class="prov-cols">
+      <div class="prov-group">
+        <div class="prov-title">Cantabria</div>
+        <ul class="muni-list">
+<li><span class="muni-num">117</span><a href="cantabria/cantabria/santander/">Santander</a></li>
+<li><span class="muni-num">118</span><a href="cantabria/cantabria/torrelavega/">Torrelavega</a></li>
+<li><span class="muni-num">119</span><a href="cantabria/cantabria/castro-urdiales/">Castro-Urdiales</a></li>
+<li><span class="muni-num">120</span><a href="cantabria/cantabria/camargo/">Camargo</a></li>
+<li><span class="muni-num">121</span><a href="cantabria/cantabria/pielagos/">Piélagos</a></li>
+<li><span class="muni-num">122</span><a href="cantabria/cantabria/el-astillero/">El Astillero</a></li>
+<li><span class="muni-num">123</span><a href="cantabria/cantabria/santa-cruz-de-bezana/">Santa Cruz de Bezana</a></li>
+<li><span class="muni-num">124</span><a href="cantabria/cantabria/laredo/">Laredo</a></li>
+<li><span class="muni-num">125</span><a href="cantabria/cantabria/los-corrales-de-buelna/">Los Corrales de Buelna</a></li>
+<li><span class="muni-num">126</span><a href="cantabria/cantabria/santona/">Santoña</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="ccaa-detail-panel" id="panel-castilla-la-mancha">
+    <div class="detail-header">
+      <h3>🗺️ Castilla-La Mancha — Municipios disponibles</h3>
+      <button class="detail-close" onclick="closePanel('castilla-la-mancha')">✕ Cerrar</button>
+    </div>
+    <div class="prov-cols">
+      <div class="prov-group">
+        <div class="prov-title">Albacete</div>
+        <ul class="muni-list">
+<li><span class="muni-num">28</span><a href="castilla-la-mancha/albacete/albacete/">Albacete</a></li>
+<li><span class="muni-num">29</span><a href="castilla-la-mancha/albacete/almansa/">Almansa</a></li>
+<li><span class="muni-num">30</span><a href="castilla-la-mancha/albacete/hellin/">Hellín</a></li>
+        </ul>
+      </div>
+      <div class="prov-group">
+        <div class="prov-title">Ciudad Real</div>
+        <ul class="muni-list">
+<li><span class="muni-num">31</span><a href="castilla-la-mancha/ciudad-real/ciudad-real/">Ciudad Real</a></li>
+<li><span class="muni-num">32</span><a href="castilla-la-mancha/ciudad-real/puertollano/">Puertollano</a></li>
+<li><span class="muni-num">33</span><a href="castilla-la-mancha/ciudad-real/tomelloso/">Tomelloso</a></li>
+<li><span class="muni-num">34</span><a href="castilla-la-mancha/ciudad-real/alcazar-de-san-juan/">Alcázar de San Juan</a></li>
+<li><span class="muni-num">35</span><a href="castilla-la-mancha/ciudad-real/valdepenas/">Valdepeñas</a></li>
+<li><span class="muni-num">36</span><a href="castilla-la-mancha/ciudad-real/manzanares/">Manzanares</a></li>
+<li><span class="muni-num">37</span><a href="castilla-la-mancha/ciudad-real/daimiel/">Daimiel</a></li>
+<li><span class="muni-num">38</span><a href="castilla-la-mancha/albacete/villarrobledo/">Villarrobledo</a></li>
+        </ul>
+      </div>
+      <div class="prov-group">
+        <div class="prov-title">Cuenca</div>
+        <ul class="muni-list">
+<li><span class="muni-num">39</span><a href="castilla-la-mancha/cuenca/cuenca/">Cuenca</a></li>
+<li><span class="muni-num">40</span><a href="castilla-la-mancha/cuenca/tarancon/">Tarancón</a></li>
+        </ul>
+      </div>
+      <div class="prov-group">
+        <div class="prov-title">Guadalajara</div>
+        <ul class="muni-list">
+<li><span class="muni-num">41</span><a href="castilla-la-mancha/guadalajara/guadalajara/">Guadalajara</a></li>
+<li><span class="muni-num">42</span><a href="castilla-la-mancha/guadalajara/azuqueca-de-henares/">Azuqueca de Henares</a></li>
+<li><span class="muni-num">43</span><a href="castilla-la-mancha/guadalajara/cabanillas-del-campo/">Cabanillas del Campo</a></li>
+        </ul>
+      </div>
+      <div class="prov-group">
+        <div class="prov-title">Toledo</div>
+        <ul class="muni-list">
+<li><span class="muni-num">44</span><a href="castilla-la-mancha/toledo/toledo/">Toledo</a></li>
+<li><span class="muni-num">45</span><a href="castilla-la-mancha/toledo/talavera-de-la-reina/">Talavera de la Reina</a></li>
+<li><span class="muni-num">46</span><a href="castilla-la-mancha/toledo/illescas/">Illescas</a></li>
+<li><span class="muni-num">47</span><a href="castilla-la-mancha/toledo/sesena/">Seseña</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="ccaa-detail-panel" id="panel-castilla-y-leon">
+    <div class="detail-header">
+      <h3>🗺️ Castilla y León — Municipios disponibles</h3>
+      <button class="detail-close" onclick="closePanel('castilla-y-leon')">✕ Cerrar</button>
+    </div>
+    <div class="prov-cols">
+      <div class="prov-group">
+        <div class="prov-title">Ávila</div>
+        <ul class="muni-list">
+<li><span class="muni-num">48</span><a href="castilla-y-leon/avila/avila/">Ávila</a></li>
+        </ul>
+      </div>
+      <div class="prov-group">
+        <div class="prov-title">Burgos</div>
+        <ul class="muni-list">
+<li><span class="muni-num">49</span><a href="castilla-y-leon/burgos/burgos/">Burgos</a></li>
+<li><span class="muni-num">50</span><a href="castilla-y-leon/burgos/aranda-de-duero/">Aranda de Duero</a></li>
+<li><span class="muni-num">51</span><a href="castilla-y-leon/burgos/miranda-de-ebro/">Miranda de Ebro</a></li>
+        </ul>
+      </div>
+      <div class="prov-group">
+        <div class="prov-title">León</div>
+        <ul class="muni-list">
+<li><span class="muni-num">52</span><a href="castilla-y-leon/leon/leon/">León</a></li>
+<li><span class="muni-num">53</span><a href="castilla-y-leon/leon/ponferrada/">Ponferrada</a></li>
+        </ul>
+      </div>
+      <div class="prov-group">
+        <div class="prov-title">Palencia</div>
+        <ul class="muni-list">
+<li><span class="muni-num">54</span><a href="castilla-y-leon/palencia/palencia/">Palencia</a></li>
+        </ul>
+      </div>
+      <div class="prov-group">
+        <div class="prov-title">Salamanca</div>
+        <ul class="muni-list">
+<li><span class="muni-num">55</span><a href="castilla-y-leon/salamanca/salamanca/">Salamanca</a></li>
+<li><span class="muni-num">56</span><a href="castilla-y-leon/salamanca/bejar/">Béjar</a></li>
+        </ul>
+      </div>
+      <div class="prov-group">
+        <div class="prov-title">Segovia</div>
+        <ul class="muni-list">
+<li><span class="muni-num">57</span><a href="castilla-y-leon/segovia/segovia/">Segovia</a></li>
+        </ul>
+      </div>
+      <div class="prov-group">
+        <div class="prov-title">Soria</div>
+        <ul class="muni-list">
+<li><span class="muni-num">58</span><a href="castilla-y-leon/soria/soria/">Soria</a></li>
+        </ul>
+      </div>
+      <div class="prov-group">
+        <div class="prov-title">Valladolid</div>
+        <ul class="muni-list">
+<li><span class="muni-num">59</span><a href="castilla-y-leon/valladolid/valladolid/">Valladolid</a></li>
+<li><span class="muni-num">60</span><a href="castilla-y-leon/valladolid/medina-del-campo/">Medina del Campo</a></li>
+        </ul>
+      </div>
+      <div class="prov-group">
+        <div class="prov-title">Zamora</div>
+        <ul class="muni-list">
+<li><span class="muni-num">61</span><a href="castilla-y-leon/zamora/zamora/">Zamora</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="ccaa-detail-panel" id="panel-extremadura">
+    <div class="detail-header">
+      <h3>🗺️ Extremadura — Municipios disponibles</h3>
+      <button class="detail-close" onclick="closePanel('extremadura')">✕ Cerrar</button>
+    </div>
+    <div class="prov-cols">
+      <div class="prov-group">
+        <div class="prov-title">Badajoz</div>
+        <ul class="muni-list">
+<li><span class="muni-num">62</span><a href="extremadura/badajoz/badajoz/">Badajoz</a></li>
+<li><span class="muni-num">63</span><a href="extremadura/badajoz/merida/">Mérida</a></li>
+<li><span class="muni-num">64</span><a href="extremadura/badajoz/don-benito/">Don Benito</a></li>
+<li><span class="muni-num">65</span><a href="extremadura/badajoz/almendralejo/">Almendralejo</a></li>
+<li><span class="muni-num">66</span><a href="extremadura/badajoz/villanueva-de-la-serena/">Villanueva de la Serena</a></li>
+<li><span class="muni-num">67</span><a href="extremadura/badajoz/zafra/">Zafra</a></li>
+<li><span class="muni-num">68</span><a href="extremadura/badajoz/montijo/">Montijo</a></li>
+<li><span class="muni-num">69</span><a href="extremadura/badajoz/olivenza/">Olivenza</a></li>
+<li><span class="muni-num">70</span><a href="extremadura/badajoz/jerez-de-los-caballeros/">Jerez de los Caballeros</a></li>
+        </ul>
+      </div>
+      <div class="prov-group">
+        <div class="prov-title">Cáceres</div>
+        <ul class="muni-list">
+<li><span class="muni-num">71</span><a href="extremadura/caceres/caceres/">Cáceres</a></li>
+<li><span class="muni-num">72</span><a href="extremadura/caceres/plasencia/">Plasencia</a></li>
+<li><span class="muni-num">73</span><a href="extremadura/caceres/navalmoral-de-la-mata/">Navalmoral de la Mata</a></li>
+<li><span class="muni-num">74</span><a href="extremadura/caceres/coria/">Coria</a></li>
+<li><span class="muni-num">75</span><a href="extremadura/caceres/miajadas/">Miajadas</a></li>
+<li><span class="muni-num">76</span><a href="extremadura/caceres/trujillo/">Trujillo</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="ccaa-detail-panel" id="panel-galicia">
+    <div class="detail-header">
+      <h3>🗺️ Galicia — Municipios disponibles</h3>
+      <button class="detail-close" onclick="closePanel('galicia')">✕ Cerrar</button>
+    </div>
+    <div class="prov-cols">
+      <div class="prov-group">
+        <div class="prov-title">A Coruña</div>
+        <ul class="muni-list">
+<li><span class="muni-num">77</span><a href="galicia/a-coruna/a-coruna/">A Coruña</a></li>
+<li><span class="muni-num">78</span><a href="galicia/a-coruna/santiago-de-compostela/">Santiago de Compostela</a></li>
+<li><span class="muni-num">79</span><a href="galicia/a-coruna/ferrol/">Ferrol</a></li>
+<li><span class="muni-num">80</span><a href="galicia/a-coruna/naron/">Narón</a></li>
+<li><span class="muni-num">81</span><a href="galicia/a-coruna/carballo/">Carballo</a></li>
+<li><span class="muni-num">82</span><a href="galicia/a-coruna/ames/">Ames</a></li>
+<li><span class="muni-num">83</span><a href="galicia/a-coruna/arteixo/">Arteixo</a></li>
+<li><span class="muni-num">84</span><a href="galicia/a-coruna/ribeira/">Ribeira</a></li>
+        </ul>
+      </div>
+      <div class="prov-group">
+        <div class="prov-title">Lugo</div>
+        <ul class="muni-list">
+<li><span class="muni-num">85</span><a href="galicia/lugo/lugo/">Lugo</a></li>
+<li><span class="muni-num">86</span><a href="galicia/lugo/monforte-de-lemos/">Monforte de Lemos</a></li>
+<li><span class="muni-num">87</span><a href="galicia/lugo/viveiro/">Viveiro</a></li>
+<li><span class="muni-num">88</span><a href="galicia/lugo/sarria/">Sarria</a></li>
+        </ul>
+      </div>
+      <div class="prov-group">
+        <div class="prov-title">Ourense</div>
+        <ul class="muni-list">
+<li><span class="muni-num">89</span><a href="galicia/ourense/ourense/">Ourense</a></li>
+<li><span class="muni-num">90</span><a href="galicia/ourense/o-carballino/">O Carballiño</a></li>
+<li><span class="muni-num">91</span><a href="galicia/ourense/verin/">Verín</a></li>
+<li><span class="muni-num">92</span><a href="galicia/pontevedra/lalin/">Lalín</a></li>
+        </ul>
+      </div>
+      <div class="prov-group">
+        <div class="prov-title">Pontevedra</div>
+        <ul class="muni-list">
+<li><span class="muni-num">93</span><a href="galicia/pontevedra/vigo/">Vigo</a></li>
+<li><span class="muni-num">94</span><a href="galicia/pontevedra/pontevedra/">Pontevedra</a></li>
+<li><span class="muni-num">95</span><a href="galicia/pontevedra/vilagarcia-de-arousa/">Vilagarcía de Arousa</a></li>
+<li><span class="muni-num">96</span><a href="galicia/pontevedra/marin/">Marín</a></li>
+<li><span class="muni-num">97</span><a href="galicia/pontevedra/cangas/">Cangas</a></li>
+<li><span class="muni-num">98</span><a href="galicia/pontevedra/redondela/">Redondela</a></li>
+<li><span class="muni-num">99</span><a href="galicia/pontevedra/tui/">Tui</a></li>
+<li><span class="muni-num">100</span><a href="galicia/pontevedra/o-porrino/">O Porriño</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+    <div class="ccaa-detail-panel" id="panel-la-rioja">
+    <div class="detail-header">
+      <h3>🗺️ La Rioja — Municipios disponibles</h3>
+      <button class="detail-close" onclick="closePanel('la-rioja')">✕ Cerrar</button>
+    </div>
+    <div class="prov-cols">
+      <div class="prov-group">
+        <div class="prov-title">La Rioja</div>
+        <ul class="muni-list">
+<li><span class="muni-num">127</span><a href="la-rioja/la-rioja/logrono/">Logroño</a></li>
+<li><span class="muni-num">128</span><a href="la-rioja/la-rioja/calahorra/">Calahorra</a></li>
+<li><span class="muni-num">129</span><a href="la-rioja/la-rioja/arnedo/">Arnedo</a></li>
+<li><span class="muni-num">130</span><a href="la-rioja/la-rioja/haro/">Haro</a></li>
+<li><span class="muni-num">131</span><a href="la-rioja/la-rioja/lardero/">Lardero</a></li>
+<li><span class="muni-num">132</span><a href="la-rioja/la-rioja/alfaro/">Alfaro</a></li>
+<li><span class="muni-num">133</span><a href="la-rioja/la-rioja/najera/">Nájera</a></li>
+<li><span class="muni-num">134</span><a href="la-rioja/la-rioja/santo-domingo-de-la-calzada/">Santo Domingo de la Calzada</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="ccaa-detail-panel" id="panel-murcia">
+    <div class="detail-header">
+      <h3>🗺️ Murcia — Municipios disponibles</h3>
+      <button class="detail-close" onclick="closePanel('murcia')">✕ Cerrar</button>
+    </div>
+    <div class="prov-cols">
+      <div class="prov-group">
+        <div class="prov-title">Murcia</div>
+        <ul class="muni-list">
+<li><span class="muni-num">101</span><a href="murcia/murcia/murcia/">Murcia</a></li>
+<li><span class="muni-num">102</span><a href="murcia/murcia/cartagena/">Cartagena</a></li>
+<li><span class="muni-num">103</span><a href="murcia/murcia/lorca/">Lorca</a></li>
+<li><span class="muni-num">104</span><a href="murcia/murcia/molina-de-segura/">Molina de Segura</a></li>
+<li><span class="muni-num">105</span><a href="murcia/murcia/cieza/">Cieza</a></li>
+<li><span class="muni-num">106</span><a href="murcia/murcia/aguilas/">Águilas</a></li>
+<li><span class="muni-num">107</span><a href="murcia/murcia/yecla/">Yecla</a></li>
+<li><span class="muni-num">108</span><a href="murcia/murcia/caravaca-de-la-cruz/">Caravaca de la Cruz</a></li>
+<li><span class="muni-num">109</span><a href="murcia/murcia/mazarron/">Mazarrón</a></li>
+<li><span class="muni-num">110</span><a href="murcia/murcia/torre-pacheco/">Torre Pacheco</a></li>
+<li><span class="muni-num">111</span><a href="murcia/murcia/san-javier/">San Javier</a></li>
+<li><span class="muni-num">112</span><a href="murcia/murcia/san-pedro-del-pinatar/">San Pedro del Pinatar</a></li>
+<li><span class="muni-num">113</span><a href="murcia/murcia/alcantarilla/">Alcantarilla</a></li>
+<li><span class="muni-num">114</span><a href="murcia/murcia/jumilla/">Jumilla</a></li>
+<li><span class="muni-num">115</span><a href="murcia/murcia/totana/">Totana</a></li>
+<li><span class="muni-num">116</span><a href="murcia/murcia/alhama-de-murcia/">Alhama de Murcia</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<div class="info-strip">
+  <div class="info-strip-inner">
+    <div>
+      <h2>¿Por qué pagar de más?</h2>
+      <p>Muchos propietarios no piden bonificaciones que sí podrían pedir. La ley distingue dos tipos: las <strong>obligatorias</strong>, que todo ayuntamiento tiene que aplicar (vivienda de protección oficial durante tres años, cooperativas agrarias), y las <strong>potestativas</strong>, que cada pleno decide si aprueba y con qué porcentaje: familia numerosa hasta el 90%, instalaciones de aprovechamiento solar hasta el 50%, punto de recarga de vehículo eléctrico hasta el 50%.</p>
+      <p>En la ficha de cada municipio verás el tope legal de cada bonificación, qué hay que acreditar y por qué ninguna se aplica de oficio: todas hay que solicitarlas. Los tipos de gravamen salen de la consulta de información impositiva del Ministerio de Hacienda, la población del INE y cada afirmación legal del texto consolidado en el BOE, con la fecha de comprobación a la vista. <a href="metodologia/" style="color:var(--accent);font-weight:600">Cómo verificamos cada dato →</a></p>
+    </div>
+    <div>
+      <h2>Preguntas frecuentes</h2>
+      <ul class="faq-list">
+        <li><div class="faq-q">¿Cuándo se paga el IBI en 2026?</div><div class="faq-a">Cada ayuntamiento aprueba su calendario cada año. Si su ordenanza no fija otro plazo, se aplica el del art. 62.3 de la Ley General Tributaria: del 1 de septiembre al 20 de noviembre.</div></li>
+        <li><div class="faq-q">¿Quién paga la tasa de basura en un alquiler?</div><div class="faq-a">Legalmente corresponde al propietario, aunque muchos contratos la trasladan al inquilino si así se pacta por escrito.</div></li>
+        <li><div class="faq-q">¿Cómo se calcula la plusvalía municipal?</div><div class="faq-a">Desde 2021 puedes elegir entre el método objetivo (coeficientes) y el método real (ganancia real). Elige el menos gravoso.</div></li>
+        <li><div class="faq-q">¿Puedo fraccionar el IBI?</div><div class="faq-a">Muchos ayuntamientos lo permiten en dos plazos sin intereses si lo pides antes de que empiece el período voluntario. Depende de la ordenanza: compruébalo en tu ayuntamiento.</div></li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<section class="section">
+  <div class="section-header"><h2>Sobre esta guía de tasas municipales</h2></div>
+  <div style="max-width:860px; line-height:1.9; font-size:0.92rem; color:var(--mid);">
+    <p style="margin-bottom:14px;"><strong style="color:var(--ink);">TasasMunicipales</strong> reúne los impuestos y tasas locales de <strong>134 municipios</strong> españoles con la fuente oficial de cada cifra: el <a href="ibi-2026/" style="color:var(--accent);">IBI 2026</a>, la <a href="tasa-basuras/" style="color:var(--accent);">tasa de residuos</a>, la <a href="plusvalia/" style="color:var(--accent);">plusvalía municipal</a>, las <a href="bonificaciones/" style="color:var(--accent);">bonificaciones del IBI</a>, el <a href="impuesto-circulacion/" style="color:var(--accent);">impuesto de circulación</a> y el <a href="valor-catastral/" style="color:var(--accent);">valor catastral</a> sobre el que se calcula todo.</p>
+    <p style="margin-bottom:14px;">Puedes entrar por <a href="comunidades/" style="color:var(--accent);">comunidad autónoma</a>, comparar los 134 municipios en una <a href="municipios/" style="color:var(--accent);">misma tabla ordenable</a> o leer los <a href="analisis/" style="color:var(--accent);">análisis</a> que salen de cruzar todos esos datos. Cuando no hemos podido verificar un dato no lo publicamos: <a href="metodologia/#no-publicamos" style="color:var(--accent);">aquí explicamos qué falta y por qué</a>.</p>
+    <p>Actualmente cubrimos 134 municipios en 9 comunidades autónomas: <a href="aragon/" style="color:var(--accent);">Aragón</a>, <a href="asturias/" style="color:var(--accent);">Asturias</a>, <a href="cantabria/" style="color:var(--accent);">Cantabria</a>, <a href="castilla-la-mancha/" style="color:var(--accent);">Castilla-La Mancha</a>, <a href="castilla-y-leon/" style="color:var(--accent);">Castilla y León</a>, <a href="extremadura/" style="color:var(--accent);">Extremadura</a>, <a href="galicia/" style="color:var(--accent);">Galicia</a>, <a href="la-rioja/" style="color:var(--accent);">La Rioja</a> y <a href="murcia/" style="color:var(--accent);">Murcia</a>.</p>
+  </div>
+</section>
+
+<section class="section ruled" id="analisis-destacados">
+  <div class="section-header">
+    <h2>Análisis con datos oficiales</h2>
+    <a href="analisis/">Todos los análisis →</a>
+  </div>
+  <div style="max-width:860px;line-height:1.9;font-size:0.92rem;color:var(--mid);margin-bottom:26px;">
+    <p>Comparativas hechas con los 134 municipios normalizados en una misma tabla: lo que no se puede sacar mirando una ordenanza suelta. Cada análisis lleva sus propios gráficos y cita la fuente de cada cifra.</p>
+  </div>
+  <div class="types-grid">
+    <a href="analisis/ranking-ibi-municipios/" class="type-card">
+      <div class="type-icon">📊</div><h3>¿Dónde se paga más IBI?</h3>
+      <p>Ranking del tipo de gravamen de los 134 municipios, con la cuota comparada.</p>
+    </a>
+    <a href="analisis/impuesto-circulacion-ivtm/" class="type-card">
+      <div class="type-icon">🚗</div><h3>Lo que cuesta el impuesto de circulación</h3>
+      <p>La tarifa del IVTM municipio a municipio, del mínimo legal al doble.</p>
+    </a>
+    <a href="analisis/coeficientes-plusvalia/" class="type-card">
+      <div class="type-icon">📉</div><h3>¿Quién aplica el coeficiente máximo de plusvalía?</h3>
+      <p>Los coeficientes reales de cada ayuntamiento frente a los topes del TRLRHL.</p>
+    </a>
+    <a href="analisis/valores-catastrales-antiguos/" class="type-card">
+      <div class="type-icon">🏚️</div><h3>Valores catastrales sin revisar</h3>
+      <p>Por qué comparar tipos de IBI no dice cuánto se paga.</p>
+    </a>
+  </div>
+</section>
+
+<footer>
+  <div class="ft-grid" style="max-width:1100px;margin:0 auto;display:grid;grid-template-columns:2fr 1fr 1fr 1fr;gap:32px;padding:40px 24px 24px;">
+    <div>
+      <div style="font-family:'Playfair Display',serif;font-size:1.1rem;font-weight:900;color:#fff;margin-bottom:6px;">TasasMunicipales</div>
+      <div style="font-size:.65rem;letter-spacing:.08em;text-transform:uppercase;color:rgba(255,255,255,.5);margin-bottom:10px;">Guía de Impuestos Locales · España 2026</div>
+      <p style="font-size:.78rem;line-height:1.7;color:rgba(255,255,255,.45);margin:0;">Guía de IBI, tasa de basuras, plusvalía y bonificaciones para 134 municipios en 9 comunidades autónomas.</p>
+    </div>
+    <div>
+      <div style="font-size:.7rem;text-transform:uppercase;letter-spacing:.12em;color:rgba(255,255,255,.9);margin-bottom:14px;">Navegación</div>
+      <ul style="list-style:none;padding:0;margin:0;">
+        <li style="margin-bottom:8px;"><a href="" style="color:rgba(255,255,255,.5);font-size:.8rem;text-decoration:none;">Inicio</a></li>
+        <li style="margin-bottom:8px;"><a href="comunidades/" style="color:rgba(255,255,255,.5);font-size:.8rem;text-decoration:none;">Comunidades</a></li>
+        <li style="margin-bottom:8px;"><a href="municipios/" style="color:rgba(255,255,255,.5);font-size:.8rem;text-decoration:none;">Municipios</a></li>
+        <li style="margin-bottom:8px;"><a href="calculadora-ibi/" style="color:rgba(255,255,255,.5);font-size:.8rem;text-decoration:none;">Calculadora IBI</a></li>
+      </ul>
+    </div>
+    <div>
+      <div style="font-size:.7rem;text-transform:uppercase;letter-spacing:.12em;color:rgba(255,255,255,.9);margin-bottom:14px;">Impuestos</div>
+      <ul style="list-style:none;padding:0;margin:0;">
+        <li style="margin-bottom:8px;"><a href="ibi-2026/" style="color:rgba(255,255,255,.5);font-size:.8rem;text-decoration:none;">IBI 2026</a></li>
+        <li style="margin-bottom:8px;"><a href="tasa-basuras/" style="color:rgba(255,255,255,.5);font-size:.8rem;text-decoration:none;">Tasa de Basuras</a></li>
+        <li style="margin-bottom:8px;"><a href="plusvalia/" style="color:rgba(255,255,255,.5);font-size:.8rem;text-decoration:none;">Plusvalía Municipal</a></li>
+        <li style="margin-bottom:8px;"><a href="bonificaciones/" style="color:rgba(255,255,255,.5);font-size:.8rem;text-decoration:none;">Bonificaciones</a></li>
+      </ul>
+    </div>
+    <div>
+      <div style="font-size:.7rem;text-transform:uppercase;letter-spacing:.12em;color:rgba(255,255,255,.9);margin-bottom:14px;">Legal</div>
+      <ul style="list-style:none;padding:0;margin:0;">
+        <li style="margin-bottom:8px;"><a href="aviso-legal/" rel="nofollow" style="color:rgba(255,255,255,.5);font-size:.8rem;text-decoration:none;">Aviso Legal</a></li>
+        <li style="margin-bottom:8px;"><a href="privacidad/" rel="nofollow" style="color:rgba(255,255,255,.5);font-size:.8rem;text-decoration:none;">Privacidad</a></li>
+        <li style="margin-bottom:8px;"><a href="cookies/" rel="nofollow" style="color:rgba(255,255,255,.5);font-size:.8rem;text-decoration:none;">Cookies</a></li>
+        <li style="margin-bottom:8px;"><a href="contacto/" rel="nofollow" style="color:rgba(255,255,255,.5);font-size:.8rem;text-decoration:none;">Contacto</a></li>
+        <li style="margin-bottom:8px;"><a href="sobre-nosotros/" style="color:rgba(255,255,255,.5);font-size:.8rem;text-decoration:none;">Sobre nosotros</a></li>
+        <li style="margin-bottom:8px;"><a href="metodologia/" style="color:rgba(255,255,255,.5);font-size:.8rem;text-decoration:none;">Metodología</a></li>
+      </ul>
+    </div>
+  </div>
+  <div style="max-width:1100px;margin:0 auto;padding:16px 24px 28px;border-top:1px solid rgba(255,255,255,.1);display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px;font-size:.72rem;color:rgba(255,255,255,.4);">
+    <span>© 2026 TasasMunicipales.info · La información no constituye asesoramiento fiscal.</span>
+    <span>Datos del Ministerio de Hacienda, el INE y el BOE. La ordenanza de tu ayuntamiento es la que manda.</span>
+  </div>
+</footer>
+
+<script>
+  const activeCCAA = ['aragon','asturias','cantabria','castilla-la-mancha','castilla-y-leon','extremadura','galicia','la-rioja','murcia'];
+  document.querySelectorAll('.ccaa-tile').forEach(btn => {
+    btn.addEventListener('click', function() {
+      const ccaa = this.dataset.ccaa;
+      const panel = document.getElementById('panel-' + ccaa);
+      if (panel.classList.contains('open')) {
+        panel.classList.remove('open');
+        this.style.outline = '';
+      } else {
+        document.querySelectorAll('.ccaa-detail-panel').forEach(p => p.classList.remove('open'));
+        document.querySelectorAll('.ccaa-tile').forEach(b => b.style.outline = '');
+        panel.classList.add('open');
+        this.style.outline = '2px solid var(--accent2)';
+        setTimeout(() => panel.scrollIntoView({ behavior: 'smooth', block: 'nearest' }), 50);
+      }
+    });
+  });
+  function closePanel(ccaa) {
+    document.getElementById('panel-' + ccaa).classList.remove('open');
+    const btn = document.querySelector('[data-ccaa="' + ccaa + '"]');
+    if (btn) btn.style.outline = '';
+  }
+  document.querySelector('.search-box input').addEventListener('input', function(e) {
+    const q = e.target.value.toLowerCase().trim();
+    if (!q) {
+      document.querySelectorAll('.muni-list li, .muni-card').forEach(el => el.style.opacity = '1');
+      return;
+    }
+    const cards = document.querySelectorAll('.muni-list a, .muni-card');
+    cards.forEach(card => {
+      const name = card.textContent.toLowerCase();
+      const row = card.closest('li') || card;
+      row.style.opacity = name.includes(q) ? '1' : '0.25';
+    });
+    activeCCAA.forEach(ccaa => {
+      const panel = document.getElementById('panel-' + ccaa);
+      if (panel) panel.classList.add('open');
+    });
+  });
+  document.querySelector('.search-box input').addEventListener('keydown', function(e) {
+    if (e.key === 'Escape') {
+      this.value = '';
+      document.querySelectorAll('.muni-list li, .muni-card').forEach(el => el.style.opacity = '1');
+    }
+  });
+</script>
+<script src="cookie-consent.js" defer></script>
+<script src="buscador-municipios.js" defer></script>
+</body>
+</html>

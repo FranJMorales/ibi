@@ -1,0 +1,285 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "redirects": [
+    {
+      "source": "/castilla-la-mancha/guadalajara/azuqueca-de-henares/ibi-2026-azuqueca-de-henares",
+      "destination": "/castilla-la-mancha/guadalajara/azuqueca-de-henares/",
+      "permanent": true
+    },
+    {
+      "source": "/castilla-la-mancha/guadalajara/azuqueca-de-henares/ibi-2026-azuqueca-de-henares/",
+      "destination": "/castilla-la-mancha/guadalajara/azuqueca-de-henares/",
+      "permanent": true
+    },
+    {
+      "source": "/galicia/a-coruna/ferrol/plusvalia-municipal-ferrol",
+      "destination": "/galicia/a-coruna/ferrol/",
+      "permanent": true
+    },
+    {
+      "source": "/galicia/a-coruna/ferrol/plusvalia-municipal-ferrol/",
+      "destination": "/galicia/a-coruna/ferrol/",
+      "permanent": true
+    },
+    {
+      "source": "/extremadura/badajoz/almendralejo/ibi-2026-almendralejo",
+      "destination": "/extremadura/badajoz/almendralejo/",
+      "permanent": true
+    },
+    {
+      "source": "/extremadura/badajoz/almendralejo/ibi-2026-almendralejo/",
+      "destination": "/extremadura/badajoz/almendralejo/",
+      "permanent": true
+    },
+    {
+      "source": "/aragon/teruel/teruel/plusvalia-municipal-teruel",
+      "destination": "/aragon/teruel/teruel/",
+      "permanent": true
+    },
+    {
+      "source": "/aragon/teruel/teruel/plusvalia-municipal-teruel/",
+      "destination": "/aragon/teruel/teruel/",
+      "permanent": true
+    },
+    {
+      "source": "/galicia/ourense/o-carballino/ibi-2026-o-carballino",
+      "destination": "/galicia/ourense/o-carballino/",
+      "permanent": true
+    },
+    {
+      "source": "/galicia/ourense/o-carballino/ibi-2026-o-carballino/",
+      "destination": "/galicia/ourense/o-carballino/",
+      "permanent": true
+    },
+    {
+      "source": "/castilla-la-mancha/cuenca/tarancon/ibi-2026-tarancon",
+      "destination": "/castilla-la-mancha/cuenca/tarancon/",
+      "permanent": true
+    },
+    {
+      "source": "/castilla-la-mancha/cuenca/tarancon/ibi-2026-tarancon/",
+      "destination": "/castilla-la-mancha/cuenca/tarancon/",
+      "permanent": true
+    },
+    {
+      "source": "/galicia/pontevedra/pontevedra/como-pagar-ibi-pontevedra",
+      "destination": "/galicia/pontevedra/pontevedra/",
+      "permanent": true
+    },
+    {
+      "source": "/galicia/pontevedra/pontevedra/como-pagar-ibi-pontevedra/",
+      "destination": "/galicia/pontevedra/pontevedra/",
+      "permanent": true
+    },
+    {
+      "source": "/galicia/a-coruna/ferrol/tasa-basuras-2026-ferrol",
+      "destination": "/galicia/a-coruna/ferrol/",
+      "permanent": true
+    },
+    {
+      "source": "/galicia/a-coruna/ferrol/tasa-basuras-2026-ferrol/",
+      "destination": "/galicia/a-coruna/ferrol/",
+      "permanent": true
+    },
+    {
+      "source": "/extremadura/badajoz/don-benito/ibi-2026-don-benito",
+      "destination": "/extremadura/badajoz/don-benito/",
+      "permanent": true
+    },
+    {
+      "source": "/extremadura/badajoz/don-benito/ibi-2026-don-benito/",
+      "destination": "/extremadura/badajoz/don-benito/",
+      "permanent": true
+    },
+    {
+      "source": "/galicia/a-coruna/ferrol/reclamar-tasa-basura-ferrol",
+      "destination": "/galicia/a-coruna/ferrol/",
+      "permanent": true
+    },
+    {
+      "source": "/galicia/a-coruna/ferrol/reclamar-tasa-basura-ferrol/",
+      "destination": "/galicia/a-coruna/ferrol/",
+      "permanent": true
+    },
+    {
+      "source": "/extremadura/caceres/navalmoral-de-la-mata/ibi-2026-navalmoral-de-la-mata",
+      "destination": "/extremadura/caceres/navalmoral-de-la-mata/",
+      "permanent": true
+    },
+    {
+      "source": "/extremadura/caceres/navalmoral-de-la-mata/ibi-2026-navalmoral-de-la-mata/",
+      "destination": "/extremadura/caceres/navalmoral-de-la-mata/",
+      "permanent": true
+    },
+    {
+      "source": "/galicia/pontevedra/pontevedra/ibi-2026-pontevedra",
+      "destination": "/galicia/pontevedra/pontevedra/",
+      "permanent": true
+    },
+    {
+      "source": "/galicia/pontevedra/pontevedra/ibi-2026-pontevedra/",
+      "destination": "/galicia/pontevedra/pontevedra/",
+      "permanent": true
+    },
+    {
+      "source": "/castilla-la-mancha/ciudad-real/alcazar-de-san-juan/tasa-basuras-2026-alcazar-de-san-juan",
+      "destination": "/castilla-la-mancha/ciudad-real/alcazar-de-san-juan/",
+      "permanent": true
+    },
+    {
+      "source": "/castilla-la-mancha/ciudad-real/alcazar-de-san-juan/tasa-basuras-2026-alcazar-de-san-juan/",
+      "destination": "/castilla-la-mancha/ciudad-real/alcazar-de-san-juan/",
+      "permanent": true
+    },
+    {
+      "source": "/castilla-la-mancha/cuenca/cuenca/plusvalia-municipal-cuenca",
+      "destination": "/castilla-la-mancha/cuenca/cuenca/",
+      "permanent": true
+    },
+    {
+      "source": "/castilla-la-mancha/cuenca/cuenca/plusvalia-municipal-cuenca/",
+      "destination": "/castilla-la-mancha/cuenca/cuenca/",
+      "permanent": true
+    },
+    {
+      "source": "/extremadura/badajoz/don-benito/tasa-basuras-2026-don-benito",
+      "destination": "/extremadura/badajoz/don-benito/",
+      "permanent": true
+    },
+    {
+      "source": "/extremadura/badajoz/don-benito/tasa-basuras-2026-don-benito/",
+      "destination": "/extremadura/badajoz/don-benito/",
+      "permanent": true
+    },
+    {
+      "source": "/extremadura/caceres/navalmoral-de-la-mata/como-pagar-ibi-navalmoral-de-la-mata",
+      "destination": "/extremadura/caceres/navalmoral-de-la-mata/",
+      "permanent": true
+    },
+    {
+      "source": "/extremadura/caceres/navalmoral-de-la-mata/como-pagar-ibi-navalmoral-de-la-mata/",
+      "destination": "/extremadura/caceres/navalmoral-de-la-mata/",
+      "permanent": true
+    },
+    {
+      "source": "/extremadura/caceres/plasencia/bonificaciones-ibi-plasencia",
+      "destination": "/extremadura/caceres/plasencia/",
+      "permanent": true
+    },
+    {
+      "source": "/extremadura/caceres/plasencia/bonificaciones-ibi-plasencia/",
+      "destination": "/extremadura/caceres/plasencia/",
+      "permanent": true
+    },
+    {
+      "source": "/castilla-la-mancha/ciudad-real/tomelloso/reclamar-tasa-basura-tomelloso",
+      "destination": "/castilla-la-mancha/ciudad-real/tomelloso/",
+      "permanent": true
+    },
+    {
+      "source": "/castilla-la-mancha/ciudad-real/tomelloso/reclamar-tasa-basura-tomelloso/",
+      "destination": "/castilla-la-mancha/ciudad-real/tomelloso/",
+      "permanent": true
+    },
+    {
+      "source": "/castilla-la-mancha/albacete/hellin/plusvalia-municipal-hellin",
+      "destination": "/castilla-la-mancha/albacete/hellin/",
+      "permanent": true
+    },
+    {
+      "source": "/castilla-la-mancha/albacete/hellin/plusvalia-municipal-hellin/",
+      "destination": "/castilla-la-mancha/albacete/hellin/",
+      "permanent": true
+    },
+    {
+      "source": "/extremadura/badajoz/zafra/ibi-2026-zafra",
+      "destination": "/extremadura/badajoz/zafra/",
+      "permanent": true
+    },
+    {
+      "source": "/extremadura/badajoz/zafra/ibi-2026-zafra/",
+      "destination": "/extremadura/badajoz/zafra/",
+      "permanent": true
+    },
+    {
+      "source": "/extremadura/badajoz/villanueva-de-la-serena/plusvalia-municipal-villanueva-de-la-serena",
+      "destination": "/extremadura/badajoz/villanueva-de-la-serena/",
+      "permanent": true
+    },
+    {
+      "source": "/extremadura/badajoz/villanueva-de-la-serena/plusvalia-municipal-villanueva-de-la-serena/",
+      "destination": "/extremadura/badajoz/villanueva-de-la-serena/",
+      "permanent": true
+    },
+    {
+      "source": "/extremadura/badajoz/montijo/ibi-2026-montijo",
+      "destination": "/extremadura/badajoz/montijo/",
+      "permanent": true
+    },
+    {
+      "source": "/extremadura/badajoz/montijo/ibi-2026-montijo/",
+      "destination": "/extremadura/badajoz/montijo/",
+      "permanent": true
+    },
+    {
+      "source": "/aragon/huesca/barbastro/bonificaciones-ibi-barbastro",
+      "destination": "/aragon/huesca/barbastro/",
+      "permanent": true
+    },
+    {
+      "source": "/aragon/huesca/barbastro/bonificaciones-ibi-barbastro/",
+      "destination": "/aragon/huesca/barbastro/",
+      "permanent": true
+    },
+    {
+      "source": "/asturias/asturias/castrillon/plusvalia-municipal-castrillon",
+      "destination": "/asturias/asturias/castrillon/",
+      "permanent": true
+    },
+    {
+      "source": "/asturias/asturias/castrillon/plusvalia-municipal-castrillon/",
+      "destination": "/asturias/asturias/castrillon/",
+      "permanent": true
+    },
+    {
+      "source": "/murcia/murcia/cieza/bonificaciones-ibi-cieza",
+      "destination": "/murcia/murcia/cieza/",
+      "permanent": true
+    },
+    {
+      "source": "/murcia/murcia/cieza/bonificaciones-ibi-cieza/",
+      "destination": "/murcia/murcia/cieza/",
+      "permanent": true
+    },
+    {
+      "source": "/castilla-la-mancha/ciudad-real/villarrobledo",
+      "destination": "/castilla-la-mancha/albacete/villarrobledo/",
+      "permanent": true
+    },
+    {
+      "source": "/castilla-la-mancha/ciudad-real/villarrobledo/",
+      "destination": "/castilla-la-mancha/albacete/villarrobledo/",
+      "permanent": true
+    },
+    {
+      "source": "/galicia/ourense/lalin",
+      "destination": "/galicia/pontevedra/lalin/",
+      "permanent": true
+    },
+    {
+      "source": "/galicia/ourense/lalin/",
+      "destination": "/galicia/pontevedra/lalin/",
+      "permanent": true
+    },
+    {
+      "source": "/provincias",
+      "destination": "/comunidades/",
+      "permanent": true
+    },
+    {
+      "source": "/provincias/",
+      "destination": "/comunidades/",
+      "permanent": true
+    }
+  ]
+}
