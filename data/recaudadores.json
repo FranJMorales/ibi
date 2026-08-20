@@ -1,0 +1,193 @@
+{
+ "provincias": {
+  "a-coruna": {
+   "nombre": "Deputación da Coruña",
+   "url": "https://www.dacoruna.gal",
+   "http_status": 200,
+   "titulo_detectado": "Deputación Provincial da Coruña",
+   "comprobado_el": "2026-07-25"
+  },
+  "lugo": {
+   "nombre": "Deputación de Lugo",
+   "url": "https://www.deputacionlugo.gal",
+   "http_status": 200,
+   "titulo_detectado": "Inicio | Deputación de Lugo",
+   "comprobado_el": "2026-07-25"
+  },
+  "ourense": {
+   "nombre": "Deputación Provincial de Ourense",
+   "url": "https://www.depourense.gal",
+   "http_status": 200,
+   "titulo_detectado": "Inicio | Deputación Provincial de Ourense",
+   "comprobado_el": "2026-07-25"
+  },
+  "pontevedra": {
+   "nombre": "Deputación de Pontevedra",
+   "url": "https://www.depo.gal",
+   "http_status": 200,
+   "titulo_detectado": "Inicio - Deputación de Pontevedra",
+   "comprobado_el": "2026-07-25"
+  },
+  "huesca": {
+   "nombre": "Diputación Provincial de Huesca",
+   "url": "https://www.dphuesca.es",
+   "http_status": 200,
+   "titulo_detectado": "Inicio - Diputación Provincial de Huesca - dphuesca.es",
+   "comprobado_el": "2026-07-25"
+  },
+  "teruel": {
+   "nombre": "Diputación Provincial de Teruel",
+   "url": "https://www.dpteruel.es",
+   "http_status": 403,
+   "titulo_detectado": "",
+   "comprobado_el": "2026-07-25"
+  },
+  "zaragoza": {
+   "nombre": "Diputación Provincial de Zaragoza",
+   "url": "https://www.dpz.es",
+   "http_status": 0,
+   "titulo_detectado": "URLError",
+   "comprobado_el": "2026-07-25"
+  },
+  "albacete": {
+   "nombre": "Diputación de Albacete",
+   "url": "https://www.dipualba.es",
+   "http_status": 200,
+   "titulo_detectado": "Inicio - Dipualba",
+   "comprobado_el": "2026-07-25"
+  },
+  "ciudad-real": {
+   "nombre": "Diputación Provincial de Ciudad Real",
+   "url": "https://www.dipucr.es",
+   "http_status": 200,
+   "titulo_detectado": "Diputación Provincial de Ciudad Real",
+   "comprobado_el": "2026-07-25"
+  },
+  "cuenca": {
+   "nombre": "Diputación Provincial de Cuenca",
+   "url": "https://www.dipucuenca.es",
+   "http_status": 200,
+   "titulo_detectado": "Inicio - dipucuenca.es",
+   "comprobado_el": "2026-07-25"
+  },
+  "guadalajara": {
+   "nombre": "Diputación de Guadalajara",
+   "url": "https://www.dguadalajara.es",
+   "http_status": 200,
+   "titulo_detectado": "inicio - www.dguadalajara.es",
+   "comprobado_el": "2026-07-25"
+  },
+  "toledo": {
+   "nombre": "Organismo Autónomo Provincial de Gestión Tributaria de Toledo (OAPGT)",
+   "url": "https://www.oapgt.es",
+   "http_status": 200,
+   "titulo_detectado": "Páginas - inicio",
+   "comprobado_el": "2026-07-25"
+  },
+  "avila": {
+   "nombre": "Diputación de Ávila",
+   "url": "https://www.diputacionavila.es",
+   "http_status": 200,
+   "titulo_detectado": "Bienvenid@ al portal web de la diputaci&oacute;n de &Aacute;vila",
+   "comprobado_el": "2026-07-25"
+  },
+  "burgos": {
+   "nombre": "Diputación Provincial de Burgos",
+   "url": "https://www.burgos.es",
+   "http_status": 200,
+   "titulo_detectado": "Excma. Diputacion Provincial de Burgos",
+   "comprobado_el": "2026-07-25"
+  },
+  "leon": {
+   "nombre": "Diputación de León",
+   "url": "https://www.dipuleon.es",
+   "http_status": 200,
+   "titulo_detectado": "Diputación de León - Diputación de León",
+   "comprobado_el": "2026-07-25"
+  },
+  "palencia": {
+   "nombre": "Diputación de Palencia",
+   "url": "https://www.diputaciondepalencia.es",
+   "http_status": 200,
+   "titulo_detectado": "Portal Diputación de Palencia |",
+   "comprobado_el": "2026-07-25"
+  },
+  "salamanca": {
+   "nombre": "REGTSA, Organismo Autónomo de Recaudación de la Diputación de Salamanca",
+   "url": "https://www.regtsa.es",
+   "http_status": 200,
+   "titulo_detectado": "REGTSA - Organismo Autónomo de Recaudación y Gestión Tributaria de Salamanca",
+   "comprobado_el": "2026-07-25"
+  },
+  "segovia": {
+   "nombre": "Diputación de Segovia",
+   "url": "https://www.dipsegovia.es",
+   "http_status": 200,
+   "titulo_detectado": "Inicio - Diputación de Segovia - dipsegovia.es",
+   "comprobado_el": "2026-07-25"
+  },
+  "soria": {
+   "nombre": "Diputación Provincial de Soria",
+   "url": "https://www.dipsoria.es",
+   "http_status": 200,
+   "titulo_detectado": "Diputación Provincial de Soria",
+   "comprobado_el": "2026-07-25"
+  },
+  "valladolid": {
+   "nombre": "Diputación de Valladolid",
+   "url": "https://www.diputaciondevalladolid.es",
+   "http_status": 0,
+   "titulo_detectado": "URLError",
+   "comprobado_el": "2026-07-25"
+  },
+  "zamora": {
+   "nombre": "Diputación de Zamora",
+   "url": "https://www.diputaciondezamora.es",
+   "http_status": 200,
+   "titulo_detectado": "Diputación de Zamora · Inicio",
+   "comprobado_el": "2026-07-25"
+  },
+  "badajoz": {
+   "nombre": "OAR, Organismo Autónomo de Recaudación de la Diputación de Badajoz",
+   "url": "https://oar.dip-badajoz.es",
+   "http_status": 200,
+   "titulo_detectado": "OAR: Organismo Autónomo de Recaudación",
+   "comprobado_el": "2026-07-25"
+  },
+  "caceres": {
+   "nombre": "Diputación de Cáceres",
+   "url": "https://www.dip-caceres.es",
+   "http_status": 200,
+   "titulo_detectado": "Diputación de Cáceres",
+   "comprobado_el": "2026-07-25"
+  },
+  "asturias": {
+   "nombre": "Servicios Tributarios del Principado de Asturias",
+   "url": "https://www.tributasenasturias.es",
+   "http_status": 200,
+   "titulo_detectado": "Servicios Tributarios del Principado de Asturias | Home Channel Page",
+   "comprobado_el": "2026-07-25"
+  },
+  "murcia": {
+   "nombre": "Agencia Tributaria de la Región de Murcia (ATRM)",
+   "url": "https://agenciatributaria.carm.es/calendario-del-contribuyente",
+   "http_status": 200,
+   "titulo_detectado": "Radware Captcha Page",
+   "comprobado_el": "2026-07-25"
+  },
+  "la-rioja": {
+   "nombre": "Gobierno de La Rioja",
+   "url": "https://www.larioja.org",
+   "http_status": 522,
+   "titulo_detectado": "",
+   "comprobado_el": "2026-07-25"
+  },
+  "cantabria": {
+   "nombre": "",
+   "url": "",
+   "http_status": null,
+   "comprobado_el": "2026-07-25"
+  }
+ },
+ "comprobados_el": "2026-07-25"
+}

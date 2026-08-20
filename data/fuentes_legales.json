@@ -1,0 +1,54 @@
+{
+ "fuentes": [
+  {
+   "clave": "trlrhl",
+   "titulo": "Real Decreto Legislativo 2/2004 (texto refundido de la Ley Reguladora de las Haciendas Locales)",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2004-4214",
+   "http_status": 200,
+   "comprobada_el": "2026-07-25"
+  },
+  {
+   "clave": "trlci",
+   "titulo": "Real Decreto Legislativo 1/2004 (texto refundido de la Ley del Catastro Inmobiliario)",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2004-4163",
+   "http_status": 200,
+   "comprobada_el": "2026-07-25"
+  },
+  {
+   "clave": "ley_residuos",
+   "titulo": "Ley 7/2022, de 8 de abril, de residuos y suelos contaminados para una economía circular",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-5809",
+   "http_status": 200,
+   "comprobada_el": "2026-07-25"
+  },
+  {
+   "clave": "rdl_plusvalia",
+   "titulo": "Real Decreto-ley 26/2021, de 8 de noviembre (adaptación del IIVTNU a la jurisprudencia constitucional)",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-18276",
+   "http_status": 200,
+   "comprobada_el": "2026-07-25"
+  },
+  {
+   "clave": "stc_182_2021",
+   "titulo": "Sentencia del Tribunal Constitucional 182/2021, de 26 de octubre",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-19511",
+   "http_status": 200,
+   "comprobada_el": "2026-07-25"
+  },
+  {
+   "clave": "lgt",
+   "titulo": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23186",
+   "http_status": 200,
+   "comprobada_el": "2026-07-25"
+  },
+  {
+   "clave": "catastro",
+   "titulo": "Sede Electrónica del Catastro",
+   "url": "https://www.sedecatastro.gob.es",
+   "http_status": 200,
+   "comprobada_el": "2026-07-25"
+  }
+ ],
+ "comprobadas_el": "2026-07-25"
+}

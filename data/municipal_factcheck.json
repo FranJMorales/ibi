@@ -1,0 +1,1844 @@
+{
+  "aragon/huesca/barbastro": {
+    "verified": false,
+    "source_title": "",
+    "source_url": "",
+    "source_date": "",
+    "notes": "",
+    "candidate": {
+      "source_title": "BOP Huesca nº 245, 22/12/2025",
+      "source_url": "https://barbastro.sedelectronica.es",
+      "extracted_at": "2026-03-27",
+      "values": {
+        "ibiUrban": "0,59%",
+        "ibiRustic": "0,54%",
+        "paymentPeriod": "1 oct – 30 nov 2026",
+        "boniFamily": "Hasta 25%",
+        "solarBoni": "30%",
+        "basuraAmount": "92 €/año",
+        "electronicOffice": "https://barbastro.sedelectronica.es"
+      }
+    },
+    "values": {
+      "ibiUrban": "",
+      "ibiRustic": "",
+      "paymentPeriod": "",
+      "boniFamily": "",
+      "solarBoni": "",
+      "basuraAmount": "",
+      "basuraPeriod": "",
+      "electronicOffice": ""
+    }
+  },
+  "aragon/huesca/jaca": {
+    "verified": false,
+    "source_title": "",
+    "source_url": "",
+    "source_date": "",
+    "notes": "",
+    "candidate": {
+      "source_title": "BOP Huesca nº 240, 18/12/2025",
+      "source_url": "https://jaca.sedelectronica.es",
+      "extracted_at": "2026-03-27",
+      "values": {
+        "ibiUrban": "0,52%",
+        "ibiRustic": "0,48%",
+        "paymentPeriod": "15 sep – 15 nov 2026",
+        "boniFamily": "Hasta 30%",
+        "solarBoni": "25%",
+        "basuraAmount": "105 €/año",
+        "electronicOffice": "https://jaca.sedelectronica.es"
+      }
+    },
+    "values": {
+      "ibiUrban": "",
+      "ibiRustic": "",
+      "paymentPeriod": "",
+      "boniFamily": "",
+      "solarBoni": "",
+      "basuraAmount": "",
+      "basuraPeriod": "",
+      "electronicOffice": ""
+    }
+  },
+  "aragon/huesca/monzon": {
+    "verified": false,
+    "source_title": "",
+    "source_url": "",
+    "source_date": "",
+    "notes": "",
+    "candidate": {
+      "source_title": "BOP Huesca nº 242, 20/12/2025",
+      "source_url": "https://monzon.sedelectronica.es",
+      "extracted_at": "2026-03-27",
+      "values": {
+        "ibiUrban": "0,58%",
+        "ibiRustic": "0,52%",
+        "paymentPeriod": "1 oct – 30 nov 2026",
+        "boniFamily": "Hasta 20%",
+        "solarBoni": "25%",
+        "basuraAmount": "88 €/año",
+        "electronicOffice": "https://monzon.sedelectronica.es"
+      }
+    },
+    "values": {
+      "ibiUrban": "",
+      "ibiRustic": "",
+      "paymentPeriod": "",
+      "boniFamily": "",
+      "solarBoni": "",
+      "basuraAmount": "",
+      "basuraPeriod": "",
+      "electronicOffice": ""
+    }
+  },
+  "aragon/teruel/teruel": {
+    "verified": false,
+    "source_title": "",
+    "source_url": "",
+    "source_date": "",
+    "notes": "",
+    "candidate": {
+      "source_title": "BOP Teruel nº 248, 28/12/2025",
+      "source_url": "https://teruel.sedelectronica.es",
+      "extracted_at": "2026-03-27",
+      "values": {
+        "ibiUrban": "0,6%",
+        "ibiRustic": "0,55%",
+        "paymentPeriod": "1 sep – 31 oct 2026",
+        "boniFamily": "Hasta 30%",
+        "solarBoni": "35%",
+        "basuraAmount": "78 €/año",
+        "electronicOffice": "https://teruel.sedelectronica.es"
+      }
+    },
+    "values": {
+      "ibiUrban": "",
+      "ibiRustic": "",
+      "paymentPeriod": "",
+      "boniFamily": "",
+      "solarBoni": "",
+      "basuraAmount": "",
+      "basuraPeriod": "",
+      "electronicOffice": ""
+    }
+  },
+  "aragon/zaragoza/calatayud": {
+    "verified": false,
+    "source_title": "",
+    "source_url": "",
+    "source_date": "",
+    "notes": "",
+    "candidate": {
+      "source_title": "BOP Zaragoza nº 290, 19/12/2025",
+      "source_url": "https://calatayud.sedelectronica.es",
+      "extracted_at": "2026-03-27",
+      "values": {
+        "ibiUrban": "0,6%",
+        "ibiRustic": "0,5%",
+        "paymentPeriod": "15 sep – 15 nov 2026",
+        "boniFamily": "Hasta 25%",
+        "solarBoni": "20%",
+        "basuraAmount": "85 €/año",
+        "electronicOffice": "https://calatayud.sedelectronica.es"
+      }
+    },
+    "values": {
+      "ibiUrban": "",
+      "ibiRustic": "",
+      "paymentPeriod": "",
+      "boniFamily": "",
+      "solarBoni": "",
+      "basuraAmount": "",
+      "basuraPeriod": "",
+      "electronicOffice": ""
+    }
+  },
+  "aragon/zaragoza/ejea-de-los-caballeros": {
+    "verified": false,
+    "source_title": "",
+    "source_url": "",
+    "source_date": "",
+    "notes": "",
+    "candidate": {
+      "source_title": "BOP Zaragoza nº 288, 17/12/2025",
+      "source_url": "https://ejea.sedelectronica.es",
+      "extracted_at": "2026-03-27",
+      "values": {
+        "ibiUrban": "0,59%",
+        "ibiRustic": "0,53%",
+        "paymentPeriod": "1 oct – 30 nov 2026",
+        "boniFamily": "Hasta 20%",
+        "solarBoni": "30%",
+        "basuraAmount": "95 €/año",
+        "electronicOffice": "https://ejea.sedelectronica.es"
+      }
+    },
+    "values": {
+      "ibiUrban": "",
+      "ibiRustic": "",
+      "paymentPeriod": "",
+      "boniFamily": "",
+      "solarBoni": "",
+      "basuraAmount": "",
+      "basuraPeriod": "",
+      "electronicOffice": ""
+    }
+  },
+  "aragon/zaragoza/tarazona": {
+    "verified": false,
+    "source_title": "",
+    "source_url": "",
+    "source_date": "",
+    "notes": "",
+    "candidate": {
+      "source_title": "BOP Zaragoza nº 291, 20/12/2025",
+      "source_url": "https://tarazona.sedelectronica.es",
+      "extracted_at": "2026-03-27",
+      "values": {
+        "ibiUrban": "0,62%",
+        "ibiRustic": "0,55%",
+        "paymentPeriod": "1 oct – 30 nov 2026",
+        "boniFamily": "Hasta 25%",
+        "solarBoni": "25%",
+        "basuraAmount": "82 €/año",
+        "electronicOffice": "https://tarazona.sedelectronica.es"
+      }
+    },
+    "values": {
+      "ibiUrban": "",
+      "ibiRustic": "",
+      "paymentPeriod": "",
+      "boniFamily": "",
+      "solarBoni": "",
+      "basuraAmount": "",
+      "basuraPeriod": "",
+      "electronicOffice": ""
+    }
+  },
+  "aragon/zaragoza/utebo": {
+    "verified": false,
+    "source_title": "",
+    "source_url": "",
+    "source_date": "",
+    "notes": "",
+    "candidate": {
+      "source_title": "BOP Zaragoza nº 287, 16/12/2025",
+      "source_url": "https://utebo.sedelectronica.es",
+      "extracted_at": "2026-03-27",
+      "values": {
+        "ibiUrban": "0,58%",
+        "ibiRustic": "0,5%",
+        "paymentPeriod": "15 sep – 15 nov 2026",
+        "boniFamily": "Hasta 30%",
+        "solarBoni": "35%",
+        "basuraAmount": "98 €/año",
+        "electronicOffice": "https://utebo.sedelectronica.es"
+      }
+    },
+    "values": {
+      "ibiUrban": "",
+      "ibiRustic": "",
+      "paymentPeriod": "",
+      "boniFamily": "",
+      "solarBoni": "",
+      "basuraAmount": "",
+      "basuraPeriod": "",
+      "electronicOffice": ""
+    }
+  },
+  "asturias/asturias/aviles": {
+    "verified": false,
+    "source_title": "Tributos del Principado de Asturias · Guía del IBI",
+    "source_url": "https://sede.tributasenasturias.es/sites/sede/default/es_ES/Que-quieres-hacer/IBI/Guia-del-impuesto",
+    "source_date": "2026-03-27",
+    "notes": "Contraste parcial con fuente oficial general del organismo recaudador. Los tipos, bonificaciones e importes concretos siguen pendientes de ordenanza municipal.",
+    "candidate": {
+      "source_title": "BOPA nº 280, 27/12/2025",
+      "source_url": "https://aviles.sedelectronica.es",
+      "extracted_at": "2026-03-27",
+      "values": {
+        "ibiUrban": "0,62%",
+        "ibiRustic": "0,48%",
+        "paymentPeriod": "1 may – 30 jun 2026",
+        "boniFamily": "Hasta 40%",
+        "solarBoni": "50%",
+        "basuraAmount": "135 €/año",
+        "electronicOffice": "https://aviles.sedelectronica.es"
+      }
+    },
+    "values": {
+      "ibiUrban": "",
+      "ibiRustic": "",
+      "paymentPeriod": "",
+      "boniFamily": "",
+      "solarBoni": "",
+      "basuraAmount": "",
+      "basuraPeriod": "",
+      "electronicOffice": ""
+    },
+    "status": "partial"
+  },
+  "asturias/asturias/castrillon": {
+    "verified": false,
+    "source_title": "Tributos del Principado de Asturias · Guía del IBI",
+    "source_url": "https://sede.tributasenasturias.es/sites/sede/default/es_ES/Que-quieres-hacer/IBI/Guia-del-impuesto",
+    "source_date": "2026-03-27",
+    "notes": "Contraste parcial con fuente oficial general del organismo recaudador. Los tipos, bonificaciones e importes concretos siguen pendientes de ordenanza municipal.",
+    "candidate": {
+      "source_title": "BOPA nº 278, 23/12/2025",
+      "source_url": "https://castrillon.sedelectronica.es",
+      "extracted_at": "2026-03-27",
+      "values": {
+        "ibiUrban": "0,55%",
+        "ibiRustic": "0,45%",
+        "paymentPeriod": "1 may – 30 jun 2026",
+        "boniFamily": "Hasta 35%",
+        "solarBoni": "40%",
+        "basuraAmount": "110 €/año",
+        "electronicOffice": "https://castrillon.sedelectronica.es"
+      }
+    },
+    "values": {
+      "ibiUrban": "",
+      "ibiRustic": "",
+      "paymentPeriod": "",
+      "boniFamily": "",
+      "solarBoni": "",
+      "basuraAmount": "",
+      "basuraPeriod": "",
+      "electronicOffice": ""
+    },
+    "status": "partial"
+  },
+  "asturias/asturias/gijon": {
+    "verified": false,
+    "source_title": "Tributos del Principado de Asturias · Guía del IBI",
+    "source_url": "https://sede.tributasenasturias.es/sites/sede/default/es_ES/Que-quieres-hacer/IBI/Guia-del-impuesto",
+    "source_date": "2026-03-27",
+    "notes": "Contraste parcial con fuente oficial general del organismo recaudador. Los tipos, bonificaciones e importes concretos siguen pendientes de ordenanza municipal.",
+    "candidate": {
+      "source_title": "BOPA nº 276, 20/12/2025",
+      "source_url": "https://sede.gijon.es",
+      "extracted_at": "2026-03-27",
+      "values": {
+        "ibiUrban": "0,66%",
+        "ibiRustic": "0,52%",
+        "paymentPeriod": "1 abr – 31 may 2026",
+        "boniFamily": "Hasta 50%",
+        "solarBoni": "50%",
+        "basuraAmount": "148 €/año",
+        "electronicOffice": "https://sede.gijon.es"
+      }
+    },
+    "values": {
+      "ibiUrban": "",
+      "ibiRustic": "",
+      "paymentPeriod": "",
+      "boniFamily": "",
+      "solarBoni": "",
+      "basuraAmount": "",
+      "basuraPeriod": "",
+      "electronicOffice": ""
+    },
+    "status": "partial"
+  },
+  "asturias/asturias/langreo": {
+    "verified": false,
+    "source_title": "Tributos del Principado de Asturias · Guía del IBI",
+    "source_url": "https://sede.tributasenasturias.es/sites/sede/default/es_ES/Que-quieres-hacer/IBI/Guia-del-impuesto",
+    "source_date": "2026-03-27",
+    "notes": "Contraste parcial con fuente oficial general del organismo recaudador. Los tipos, bonificaciones e importes concretos siguen pendientes de ordenanza municipal.",
+    "candidate": {
+      "source_title": "BOPA nº 279, 24/12/2025",
+      "source_url": "https://langreo.sedelectronica.es",
+      "extracted_at": "2026-03-27",
+      "values": {
+        "ibiUrban": "0,58%",
+        "ibiRustic": "0,46%",
+        "paymentPeriod": "1 may – 30 jun 2026",
+        "boniFamily": "Hasta 35%",
+        "solarBoni": "30%",
+        "basuraAmount": "105 €/año",
+        "electronicOffice": "https://langreo.sedelectronica.es"
+      }
+    },
+    "values": {
+      "ibiUrban": "",
+      "ibiRustic": "",
+      "paymentPeriod": "",
+      "boniFamily": "",
+      "solarBoni": "",
+      "basuraAmount": "",
+      "basuraPeriod": "",
+      "electronicOffice": ""
+    },
+    "status": "partial"
+  },
+  "asturias/asturias/mieres": {
+    "verified": false,
+    "source_title": "Tributos del Principado de Asturias · Guía del IBI",
+    "source_url": "https://sede.tributasenasturias.es/sites/sede/default/es_ES/Que-quieres-hacer/IBI/Guia-del-impuesto",
+    "source_date": "2026-03-27",
+    "notes": "Contraste parcial con fuente oficial general del organismo recaudador. Los tipos, bonificaciones e importes concretos siguen pendientes de ordenanza municipal.",
+    "candidate": {
+      "source_title": "BOPA nº 277, 22/12/2025",
+      "source_url": "https://mieres.sedelectronica.es",
+      "extracted_at": "2026-03-27",
+      "values": {
+        "ibiUrban": "0,57%",
+        "ibiRustic": "0,45%",
+        "paymentPeriod": "1 may – 30 jun 2026",
+        "boniFamily": "Hasta 30%",
+        "solarBoni": "35%",
+        "basuraAmount": "100 €/año",
+        "electronicOffice": "https://mieres.sedelectronica.es"
+      }
+    },
+    "values": {
+      "ibiUrban": "",
+      "ibiRustic": "",
+      "paymentPeriod": "",
+      "boniFamily": "",
+      "solarBoni": "",
+      "basuraAmount": "",
+      "basuraPeriod": "",
+      "electronicOffice": ""
+    },
+    "status": "partial"
+  },
+  "asturias/asturias/oviedo": {
+    "verified": false,
+    "source_title": "Tributos del Principado de Asturias · Guía del IBI",
+    "source_url": "https://sede.tributasenasturias.es/sites/sede/default/es_ES/Que-quieres-hacer/IBI/Guia-del-impuesto",
+    "source_date": "2026-03-27",
+    "notes": "Contraste parcial con fuente oficial general del organismo recaudador. Los tipos, bonificaciones e importes concretos siguen pendientes de ordenanza municipal.",
+    "candidate": {
+      "source_title": "BOPA nº 275, 19/12/2025",
+      "source_url": "https://sede.oviedo.es",
+      "extracted_at": "2026-03-27",
+      "values": {
+        "ibiUrban": "0,63%",
+        "ibiRustic": "0,5%",
+        "paymentPeriod": "15 abr – 15 jun 2026",
+        "boniFamily": "Hasta 50%",
+        "solarBoni": "50%",
+        "basuraAmount": "142 €/año",
+        "electronicOffice": "https://sede.oviedo.es"
+      }
+    },
+    "values": {
+      "ibiUrban": "",
+      "ibiRustic": "",
+      "paymentPeriod": "",
+      "boniFamily": "",
+      "solarBoni": "",
+      "basuraAmount": "",
+      "basuraPeriod": "",
+      "electronicOffice": ""
+    },
+    "status": "partial"
+  },
+  "asturias/asturias/siero": {
+    "verified": false,
+    "source_title": "Tributos del Principado de Asturias · Guía del IBI",
+    "source_url": "https://sede.tributasenasturias.es/sites/sede/default/es_ES/Que-quieres-hacer/IBI/Guia-del-impuesto",
+    "source_date": "2026-03-27",
+    "notes": "Contraste parcial con fuente oficial general del organismo recaudador. Los tipos, bonificaciones e importes concretos siguen pendientes de ordenanza municipal.",
+    "candidate": {
+      "source_title": "BOPA nº 281, 28/12/2025",
+      "source_url": "https://siero.sedelectronica.es",
+      "extracted_at": "2026-03-27",
+      "values": {
+        "ibiUrban": "0,56%",
+        "ibiRustic": "0,44%",
+        "paymentPeriod": "1 may – 30 jun 2026",
+        "boniFamily": "Hasta 35%",
+        "solarBoni": "40%",
+        "basuraAmount": "115 €/año",
+        "electronicOffice": "https://siero.sedelectronica.es"
+      }
+    },
+    "values": {
+      "ibiUrban": "",
+      "ibiRustic": "",
+      "paymentPeriod": "",
+      "boniFamily": "",
+      "solarBoni": "",
+      "basuraAmount": "",
+      "basuraPeriod": "",
+      "electronicOffice": ""
+    },
+    "status": "partial"
+  },
+  "castilla-la-mancha/albacete/almansa": {
+    "verified": false,
+    "source_title": "",
+    "source_url": "",
+    "source_date": "",
+    "notes": "",
+    "candidate": {
+      "source_title": "BOP Albacete nº 150, 20/12/2025",
+      "source_url": "https://almansa.sedelectronica.es",
+      "extracted_at": "2026-03-27",
+      "values": {
+        "ibiUrban": "0,65%",
+        "ibiRustic": "0,52%",
+        "paymentPeriod": "1 sep – 31 oct 2026",
+        "boniFamily": "Hasta 25%",
+        "solarBoni": "30%",
+        "basuraAmount": "75 €/año",
+        "electronicOffice": "https://almansa.sedelectronica.es"
+      }
+    },
+    "values": {
+      "ibiUrban": "",
+      "ibiRustic": "",
+      "paymentPeriod": "",
+      "boniFamily": "",
+      "solarBoni": "",
+      "basuraAmount": "",
+      "basuraPeriod": "",
+      "electronicOffice": ""
+    }
+  },
+  "castilla-la-mancha/albacete/hellin": {
+    "verified": false,
+    "source_title": "",
+    "source_url": "",
+    "source_date": "",
+    "notes": "",
+    "candidate": {
+      "source_title": "BOP Albacete nº 148, 18/12/2025",
+      "source_url": "https://hellin.sedelectronica.es",
+      "extracted_at": "2026-03-27",
+      "values": {
+        "ibiUrban": "0,63%",
+        "ibiRustic": "0,5%",
+        "paymentPeriod": "1 sep – 31 oct 2026",
+        "boniFamily": "Hasta 30%",
+        "solarBoni": "25%",
+        "basuraAmount": "80 €/año",
+        "electronicOffice": "https://hellin.sedelectronica.es"
+      }
+    },
+    "values": {
+      "ibiUrban": "",
+      "ibiRustic": "",
+      "paymentPeriod": "",
+      "boniFamily": "",
+      "solarBoni": "",
+      "basuraAmount": "",
+      "basuraPeriod": "",
+      "electronicOffice": ""
+    }
+  },
+  "castilla-la-mancha/ciudad-real/alcazar-de-san-juan": {
+    "verified": false,
+    "source_title": "",
+    "source_url": "",
+    "source_date": "",
+    "notes": "",
+    "candidate": {
+      "source_title": "BOP Ciudad Real nº 242, 19/12/2025",
+      "source_url": "https://alcazardesanjuan.sedelectronica.es",
+      "extracted_at": "2026-03-27",
+      "values": {
+        "ibiUrban": "0,64%",
+        "ibiRustic": "0,48%",
+        "paymentPeriod": "15 sep – 15 nov 2026",
+        "boniFamily": "Hasta 25%",
+        "solarBoni": "25%",
+        "basuraAmount": "90 €/año",
+        "electronicOffice": "https://alcazardesanjuan.sedelectronica.es"
+      }
+    },
+    "values": {
+      "ibiUrban": "",
+      "ibiRustic": "",
+      "paymentPeriod": "",
+      "boniFamily": "",
+      "solarBoni": "",
+      "basuraAmount": "",
+      "basuraPeriod": "",
+      "electronicOffice": ""
+    }
+  },
+  "castilla-la-mancha/ciudad-real/puertollano": {
+    "verified": false,
+    "source_title": "",
+    "source_url": "",
+    "source_date": "",
+    "notes": "",
+    "candidate": {
+      "source_title": "BOP Ciudad Real nº 244, 21/12/2025",
+      "source_url": "https://puertollano.sedelectronica.es",
+      "extracted_at": "2026-03-27",
+      "values": {
+        "ibiUrban": "0,67%",
+        "ibiRustic": "0,55%",
+        "paymentPeriod": "1 sep – 31 oct 2026",
+        "boniFamily": "Hasta 30%",
+        "solarBoni": "35%",
+        "basuraAmount": "95 €/año",
+        "electronicOffice": "https://puertollano.sedelectronica.es"
+      }
+    },
+    "values": {
+      "ibiUrban": "",
+      "ibiRustic": "",
+      "paymentPeriod": "",
+      "boniFamily": "",
+      "solarBoni": "",
+      "basuraAmount": "",
+      "basuraPeriod": "",
+      "electronicOffice": ""
+    }
+  },
+  "castilla-la-mancha/ciudad-real/tomelloso": {
+    "verified": false,
+    "source_title": "",
+    "source_url": "",
+    "source_date": "",
+    "notes": "",
+    "candidate": {
+      "source_title": "BOP Ciudad Real nº 243, 20/12/2025",
+      "source_url": "https://tomelloso.sedelectronica.es",
+      "extracted_at": "2026-03-27",
+      "values": {
+        "ibiUrban": "0,65%",
+        "ibiRustic": "0,5%",
+        "paymentPeriod": "15 sep – 15 nov 2026",
+        "boniFamily": "Hasta 25%",
+        "solarBoni": "20%",
+        "basuraAmount": "85 €/año",
+        "electronicOffice": "https://tomelloso.sedelectronica.es"
+      }
+    },
+    "values": {
+      "ibiUrban": "",
+      "ibiRustic": "",
+      "paymentPeriod": "",
+      "boniFamily": "",
+      "solarBoni": "",
+      "basuraAmount": "",
+      "basuraPeriod": "",
+      "electronicOffice": ""
+    }
+  },
+  "castilla-la-mancha/cuenca/cuenca": {
+    "verified": false,
+    "source_title": "",
+    "source_url": "",
+    "source_date": "",
+    "notes": "",
+    "candidate": {
+      "source_title": "BOP Cuenca nº 147, 22/12/2025",
+      "source_url": "https://cuenca.sedelectronica.es",
+      "extracted_at": "2026-03-27",
+      "values": {
+        "ibiUrban": "0,61%",
+        "ibiRustic": "0,48%",
+        "paymentPeriod": "1 oct – 30 nov 2026",
+        "boniFamily": "Hasta 35%",
+        "solarBoni": "30%",
+        "basuraAmount": "110 €/año",
+        "electronicOffice": "https://cuenca.sedelectronica.es"
+      }
+    },
+    "values": {
+      "ibiUrban": "",
+      "ibiRustic": "",
+      "paymentPeriod": "",
+      "boniFamily": "",
+      "solarBoni": "",
+      "basuraAmount": "",
+      "basuraPeriod": "",
+      "electronicOffice": ""
+    }
+  },
+  "castilla-la-mancha/cuenca/tarancon": {
+    "verified": false,
+    "source_title": "",
+    "source_url": "",
+    "source_date": "",
+    "notes": "",
+    "candidate": {
+      "source_title": "BOP Cuenca nº 146, 21/12/2025",
+      "source_url": "https://tarancon.sedelectronica.es",
+      "extracted_at": "2026-03-27",
+      "values": {
+        "ibiUrban": "0,62%",
+        "ibiRustic": "0,5%",
+        "paymentPeriod": "1 oct – 30 nov 2026",
+        "boniFamily": "Hasta 20%",
+        "solarBoni": "25%",
+        "basuraAmount": "78 €/año",
+        "electronicOffice": "https://tarancon.sedelectronica.es"
+      }
+    },
+    "values": {
+      "ibiUrban": "",
+      "ibiRustic": "",
+      "paymentPeriod": "",
+      "boniFamily": "",
+      "solarBoni": "",
+      "basuraAmount": "",
+      "basuraPeriod": "",
+      "electronicOffice": ""
+    }
+  },
+  "castilla-la-mancha/guadalajara/azuqueca-de-henares": {
+    "verified": false,
+    "source_title": "",
+    "source_url": "",
+    "source_date": "",
+    "notes": "",
+    "candidate": {
+      "source_title": "BOP Guadalajara nº 155, 23/12/2025",
+      "source_url": "https://azuquecadehenares.sedelectronica.es",
+      "extracted_at": "2026-03-27",
+      "values": {
+        "ibiUrban": "0,61%",
+        "ibiRustic": "0,48%",
+        "paymentPeriod": "15 sep – 15 nov 2026",
+        "boniFamily": "Hasta 30%",
+        "solarBoni": "35%",
+        "basuraAmount": "120 €/año",
+        "electronicOffice": "https://azuquecadehenares.sedelectronica.es"
+      }
+    },
+    "values": {
+      "ibiUrban": "",
+      "ibiRustic": "",
+      "paymentPeriod": "",
+      "boniFamily": "",
+      "solarBoni": "",
+      "basuraAmount": "",
+      "basuraPeriod": "",
+      "electronicOffice": ""
+    }
+  },
+  "castilla-la-mancha/toledo/illescas": {
+    "verified": false,
+    "source_title": "",
+    "source_url": "",
+    "source_date": "",
+    "notes": "",
+    "candidate": {
+      "source_title": "BOP Toledo nº 244, 21/12/2025",
+      "source_url": "https://illescas.sedelectronica.es",
+      "extracted_at": "2026-03-27",
+      "values": {
+        "ibiUrban": "0,6%",
+        "ibiRustic": "0,46%",
+        "paymentPeriod": "1 oct – 30 nov 2026",
+        "boniFamily": "Hasta 30%",
+        "solarBoni": "30%",
+        "basuraAmount": "115 €/año",
+        "electronicOffice": "https://illescas.sedelectronica.es"
+      }
+    },
+    "values": {
+      "ibiUrban": "",
+      "ibiRustic": "",
+      "paymentPeriod": "",
+      "boniFamily": "",
+      "solarBoni": "",
+      "basuraAmount": "",
+      "basuraPeriod": "",
+      "electronicOffice": ""
+    }
+  },
+  "castilla-la-mancha/toledo/sesena": {
+    "verified": false,
+    "source_title": "",
+    "source_url": "",
+    "source_date": "",
+    "notes": "",
+    "candidate": {
+      "source_title": "BOP Toledo nº 245, 22/12/2025",
+      "source_url": "https://sesena.sedelectronica.es",
+      "extracted_at": "2026-03-27",
+      "values": {
+        "ibiUrban": "0,58%",
+        "ibiRustic": "0,45%",
+        "paymentPeriod": "1 oct – 30 nov 2026",
+        "boniFamily": "Hasta 25%",
+        "solarBoni": "30%",
+        "basuraAmount": "108 €/año",
+        "electronicOffice": "https://sesena.sedelectronica.es"
+      }
+    },
+    "values": {
+      "ibiUrban": "",
+      "ibiRustic": "",
+      "paymentPeriod": "",
+      "boniFamily": "",
+      "solarBoni": "",
+      "basuraAmount": "",
+      "basuraPeriod": "",
+      "electronicOffice": ""
+    }
+  },
+  "castilla-la-mancha/toledo/talavera-de-la-reina": {
+    "verified": false,
+    "source_title": "",
+    "source_url": "",
+    "source_date": "",
+    "notes": "",
+    "candidate": {
+      "source_title": "BOP Toledo nº 243, 20/12/2025",
+      "source_url": "https://talavera.sedelectronica.es",
+      "extracted_at": "2026-03-27",
+      "values": {
+        "ibiUrban": "0,68%",
+        "ibiRustic": "0,55%",
+        "paymentPeriod": "1 oct – 30 nov 2026",
+        "boniFamily": "Hasta 35%",
+        "solarBoni": "30%",
+        "basuraAmount": "130 €/año",
+        "electronicOffice": "https://talavera.sedelectronica.es"
+      }
+    },
+    "values": {
+      "ibiUrban": "",
+      "ibiRustic": "",
+      "paymentPeriod": "",
+      "boniFamily": "",
+      "solarBoni": "",
+      "basuraAmount": "",
+      "basuraPeriod": "",
+      "electronicOffice": ""
+    }
+  },
+  "castilla-y-leon/avila/avila": {
+    "verified": false,
+    "source_title": "",
+    "source_url": "",
+    "source_date": "",
+    "notes": "",
+    "candidate": {
+      "source_title": "BOP Ávila nº 245, 22/12/2025",
+      "source_url": "https://avila.sedelectronica.es",
+      "extracted_at": "2026-03-27",
+      "values": {
+        "ibiUrban": "0,6%",
+        "ibiRustic": "0,5%",
+        "paymentPeriod": "1 oct – 30 nov 2026",
+        "boniFamily": "Hasta 40%",
+        "solarBoni": "35%",
+        "basuraAmount": "105 €/año",
+        "electronicOffice": "https://avila.sedelectronica.es"
+      }
+    },
+    "values": {
+      "ibiUrban": "",
+      "ibiRustic": "",
+      "paymentPeriod": "",
+      "boniFamily": "",
+      "solarBoni": "",
+      "basuraAmount": "",
+      "basuraPeriod": "",
+      "electronicOffice": ""
+    }
+  },
+  "castilla-y-leon/burgos/aranda-de-duero": {
+    "verified": false,
+    "source_title": "",
+    "source_url": "",
+    "source_date": "",
+    "notes": "",
+    "candidate": {
+      "source_title": "BOP Burgos nº 240, 18/12/2025",
+      "source_url": "https://arandadeduero.sedelectronica.es",
+      "extracted_at": "2026-03-27",
+      "values": {
+        "ibiUrban": "0,63%",
+        "ibiRustic": "0,5%",
+        "paymentPeriod": "15 sep – 15 nov 2026",
+        "boniFamily": "Hasta 30%",
+        "solarBoni": "30%",
+        "basuraAmount": "95 €/año",
+        "electronicOffice": "https://arandadeduero.sedelectronica.es"
+      }
+    },
+    "values": {
+      "ibiUrban": "",
+      "ibiRustic": "",
+      "paymentPeriod": "",
+      "boniFamily": "",
+      "solarBoni": "",
+      "basuraAmount": "",
+      "basuraPeriod": "",
+      "electronicOffice": ""
+    }
+  },
+  "castilla-y-leon/burgos/miranda-de-ebro": {
+    "verified": false,
+    "source_title": "",
+    "source_url": "",
+    "source_date": "",
+    "notes": "",
+    "candidate": {
+      "source_title": "BOP Burgos nº 241, 19/12/2025",
+      "source_url": "https://mirandadeebro.sedelectronica.es",
+      "extracted_at": "2026-03-27",
+      "values": {
+        "ibiUrban": "0,65%",
+        "ibiRustic": "0,53%",
+        "paymentPeriod": "15 sep – 15 nov 2026",
+        "boniFamily": "Hasta 25%",
+        "solarBoni": "25%",
+        "basuraAmount": "100 €/año",
+        "electronicOffice": "https://mirandadeebro.sedelectronica.es"
+      }
+    },
+    "values": {
+      "ibiUrban": "",
+      "ibiRustic": "",
+      "paymentPeriod": "",
+      "boniFamily": "",
+      "solarBoni": "",
+      "basuraAmount": "",
+      "basuraPeriod": "",
+      "electronicOffice": ""
+    }
+  },
+  "castilla-y-leon/leon/ponferrada": {
+    "verified": false,
+    "source_title": "",
+    "source_url": "",
+    "source_date": "",
+    "notes": "",
+    "candidate": {
+      "source_title": "BOP León nº 240, 18/12/2025",
+      "source_url": "https://ponferrada.sedelectronica.es",
+      "extracted_at": "2026-03-27",
+      "values": {
+        "ibiUrban": "0,67%",
+        "ibiRustic": "0,55%",
+        "paymentPeriod": "1 oct – 30 nov 2026",
+        "boniFamily": "Hasta 35%",
+        "solarBoni": "30%",
+        "basuraAmount": "115 €/año",
+        "electronicOffice": "https://ponferrada.sedelectronica.es"
+      }
+    },
+    "values": {
+      "ibiUrban": "",
+      "ibiRustic": "",
+      "paymentPeriod": "",
+      "boniFamily": "",
+      "solarBoni": "",
+      "basuraAmount": "",
+      "basuraPeriod": "",
+      "electronicOffice": ""
+    }
+  },
+  "castilla-y-leon/palencia/palencia": {
+    "verified": false,
+    "source_title": "",
+    "source_url": "",
+    "source_date": "",
+    "notes": "",
+    "candidate": {
+      "source_title": "BOP Palencia nº 150, 22/12/2025",
+      "source_url": "https://palencia.sedelectronica.es",
+      "extracted_at": "2026-03-27",
+      "values": {
+        "ibiUrban": "0,59%",
+        "ibiRustic": "0,48%",
+        "paymentPeriod": "1 oct – 30 nov 2026",
+        "boniFamily": "Hasta 35%",
+        "solarBoni": "30%",
+        "basuraAmount": "100 €/año",
+        "electronicOffice": "https://palencia.sedelectronica.es"
+      }
+    },
+    "values": {
+      "ibiUrban": "",
+      "ibiRustic": "",
+      "paymentPeriod": "",
+      "boniFamily": "",
+      "solarBoni": "",
+      "basuraAmount": "",
+      "basuraPeriod": "",
+      "electronicOffice": ""
+    }
+  },
+  "castilla-y-leon/salamanca/bejar": {
+    "verified": false,
+    "source_title": "",
+    "source_url": "",
+    "source_date": "",
+    "notes": "",
+    "candidate": {
+      "source_title": "BOP Salamanca nº 240, 18/12/2025",
+      "source_url": "https://bejar.sedelectronica.es",
+      "extracted_at": "2026-03-27",
+      "values": {
+        "ibiUrban": "0,64%",
+        "ibiRustic": "0,52%",
+        "paymentPeriod": "1 oct – 30 nov 2026",
+        "boniFamily": "Hasta 25%",
+        "solarBoni": "20%",
+        "basuraAmount": "80 €/año",
+        "electronicOffice": "https://bejar.sedelectronica.es"
+      }
+    },
+    "values": {
+      "ibiUrban": "",
+      "ibiRustic": "",
+      "paymentPeriod": "",
+      "boniFamily": "",
+      "solarBoni": "",
+      "basuraAmount": "",
+      "basuraPeriod": "",
+      "electronicOffice": ""
+    }
+  },
+  "castilla-y-leon/segovia/segovia": {
+    "verified": false,
+    "source_title": "",
+    "source_url": "",
+    "source_date": "",
+    "notes": "",
+    "candidate": {
+      "source_title": "BOP Segovia nº 155, 24/12/2025",
+      "source_url": "https://segovia.sedelectronica.es",
+      "extracted_at": "2026-03-27",
+      "values": {
+        "ibiUrban": "0,62%",
+        "ibiRustic": "0,5%",
+        "paymentPeriod": "1 oct – 30 nov 2026",
+        "boniFamily": "Hasta 35%",
+        "solarBoni": "30%",
+        "basuraAmount": "118 €/año",
+        "electronicOffice": "https://segovia.sedelectronica.es"
+      }
+    },
+    "values": {
+      "ibiUrban": "",
+      "ibiRustic": "",
+      "paymentPeriod": "",
+      "boniFamily": "",
+      "solarBoni": "",
+      "basuraAmount": "",
+      "basuraPeriod": "",
+      "electronicOffice": ""
+    }
+  },
+  "castilla-y-leon/zamora/zamora": {
+    "verified": false,
+    "source_title": "",
+    "source_url": "",
+    "source_date": "",
+    "notes": "",
+    "candidate": {
+      "source_title": "BOP Zamora nº 152, 23/12/2025",
+      "source_url": "https://zamora.sedelectronica.es",
+      "extracted_at": "2026-03-27",
+      "values": {
+        "ibiUrban": "0,58%",
+        "ibiRustic": "0,46%",
+        "paymentPeriod": "1 oct – 30 nov 2026",
+        "boniFamily": "Hasta 30%",
+        "solarBoni": "25%",
+        "basuraAmount": "90 €/año",
+        "electronicOffice": "https://zamora.sedelectronica.es"
+      }
+    },
+    "values": {
+      "ibiUrban": "",
+      "ibiRustic": "",
+      "paymentPeriod": "",
+      "boniFamily": "",
+      "solarBoni": "",
+      "basuraAmount": "",
+      "basuraPeriod": "",
+      "electronicOffice": ""
+    }
+  },
+  "extremadura/badajoz/almendralejo": {
+    "verified": false,
+    "source_title": "OAR Diputación de Badajoz · Impuestos, tasas y otros ingresos",
+    "source_url": "https://oar.dip-badajoz.es/paginas/impuestos-tasas-y-otros",
+    "source_date": "2026-03-27",
+    "notes": "Contraste parcial con fuente oficial general del organismo recaudador. Los tipos, bonificaciones e importes concretos siguen pendientes de ordenanza municipal.",
+    "candidate": {
+      "source_title": "DOE nº 245, 22/12/2025",
+      "source_url": "https://almendralejo.sedelectronica.es",
+      "extracted_at": "2026-03-27",
+      "values": {
+        "ibiUrban": "0,64%",
+        "ibiRustic": "0,5%",
+        "paymentPeriod": "15 sep – 15 nov 2026",
+        "boniFamily": "Hasta 25%",
+        "solarBoni": "25%",
+        "basuraAmount": "72 €/año",
+        "electronicOffice": "https://almendralejo.sedelectronica.es"
+      }
+    },
+    "values": {
+      "ibiUrban": "",
+      "ibiRustic": "",
+      "paymentPeriod": "",
+      "boniFamily": "",
+      "solarBoni": "",
+      "basuraAmount": "",
+      "basuraPeriod": "",
+      "electronicOffice": ""
+    },
+    "status": "partial"
+  },
+  "extremadura/badajoz/don-benito": {
+    "verified": false,
+    "source_title": "OAR Diputación de Badajoz · Impuestos, tasas y otros ingresos",
+    "source_url": "https://oar.dip-badajoz.es/paginas/impuestos-tasas-y-otros",
+    "source_date": "2026-03-27",
+    "notes": "Contraste parcial con fuente oficial general del organismo recaudador. Los tipos, bonificaciones e importes concretos siguen pendientes de ordenanza municipal.",
+    "candidate": {
+      "source_title": "DOE nº 244, 21/12/2025",
+      "source_url": "https://donbenito.sedelectronica.es",
+      "extracted_at": "2026-03-27",
+      "values": {
+        "ibiUrban": "0,63%",
+        "ibiRustic": "0,5%",
+        "paymentPeriod": "1 oct – 30 nov 2026",
+        "boniFamily": "Hasta 25%",
+        "solarBoni": "25%",
+        "basuraAmount": "78 €/año",
+        "electronicOffice": "https://donbenito.sedelectronica.es"
+      }
+    },
+    "values": {
+      "ibiUrban": "",
+      "ibiRustic": "",
+      "paymentPeriod": "",
+      "boniFamily": "",
+      "solarBoni": "",
+      "basuraAmount": "",
+      "basuraPeriod": "",
+      "electronicOffice": ""
+    },
+    "status": "partial"
+  },
+  "extremadura/badajoz/merida": {
+    "verified": false,
+    "source_title": "OAR Diputación de Badajoz · Impuestos, tasas y otros ingresos",
+    "source_url": "https://oar.dip-badajoz.es/paginas/impuestos-tasas-y-otros",
+    "source_date": "2026-03-27",
+    "notes": "Contraste parcial con fuente oficial general del organismo recaudador. Los tipos, bonificaciones e importes concretos siguen pendientes de ordenanza municipal.",
+    "candidate": {
+      "source_title": "DOE nº 246, 23/12/2025",
+      "source_url": "https://merida.sedelectronica.es",
+      "extracted_at": "2026-03-27",
+      "values": {
+        "ibiUrban": "0,66%",
+        "ibiRustic": "0,53%",
+        "paymentPeriod": "1 oct – 30 nov 2026",
+        "boniFamily": "Hasta 30%",
+        "solarBoni": "35%",
+        "basuraAmount": "105 €/año",
+        "electronicOffice": "https://merida.sedelectronica.es"
+      }
+    },
+    "values": {
+      "ibiUrban": "",
+      "ibiRustic": "",
+      "paymentPeriod": "",
+      "boniFamily": "",
+      "solarBoni": "",
+      "basuraAmount": "",
+      "basuraPeriod": "",
+      "electronicOffice": ""
+    },
+    "status": "partial"
+  },
+  "extremadura/badajoz/montijo": {
+    "verified": false,
+    "source_title": "OAR Diputación de Badajoz · Impuestos, tasas y otros ingresos",
+    "source_url": "https://oar.dip-badajoz.es/paginas/impuestos-tasas-y-otros",
+    "source_date": "2026-03-27",
+    "notes": "Contraste parcial con fuente oficial general del organismo recaudador. Los tipos, bonificaciones e importes concretos siguen pendientes de ordenanza municipal.",
+    "candidate": {
+      "source_title": "DOE nº 243, 20/12/2025",
+      "source_url": "https://montijo.sedelectronica.es",
+      "extracted_at": "2026-03-27",
+      "values": {
+        "ibiUrban": "0,62%",
+        "ibiRustic": "0,49%",
+        "paymentPeriod": "1 oct – 30 nov 2026",
+        "boniFamily": "Hasta 20%",
+        "solarBoni": "20%",
+        "basuraAmount": "68 €/año",
+        "electronicOffice": "https://montijo.sedelectronica.es"
+      }
+    },
+    "values": {
+      "ibiUrban": "",
+      "ibiRustic": "",
+      "paymentPeriod": "",
+      "boniFamily": "",
+      "solarBoni": "",
+      "basuraAmount": "",
+      "basuraPeriod": "",
+      "electronicOffice": ""
+    },
+    "status": "partial"
+  },
+  "extremadura/badajoz/villanueva-de-la-serena": {
+    "verified": false,
+    "source_title": "OAR Diputación de Badajoz · Impuestos, tasas y otros ingresos",
+    "source_url": "https://oar.dip-badajoz.es/paginas/impuestos-tasas-y-otros",
+    "source_date": "2026-03-27",
+    "notes": "Contraste parcial con fuente oficial general del organismo recaudador. Los tipos, bonificaciones e importes concretos siguen pendientes de ordenanza municipal.",
+    "candidate": {
+      "source_title": "DOE nº 244, 21/12/2025",
+      "source_url": "https://villanuevadelaserena.sedelectronica.es",
+      "extracted_at": "2026-03-27",
+      "values": {
+        "ibiUrban": "0,63%",
+        "ibiRustic": "0,5%",
+        "paymentPeriod": "1 oct – 30 nov 2026",
+        "boniFamily": "Hasta 25%",
+        "solarBoni": "25%",
+        "basuraAmount": "76 €/año",
+        "electronicOffice": "https://villanuevadelaserena.sedelectronica.es"
+      }
+    },
+    "values": {
+      "ibiUrban": "",
+      "ibiRustic": "",
+      "paymentPeriod": "",
+      "boniFamily": "",
+      "solarBoni": "",
+      "basuraAmount": "",
+      "basuraPeriod": "",
+      "electronicOffice": ""
+    },
+    "status": "partial"
+  },
+  "extremadura/badajoz/zafra": {
+    "verified": false,
+    "source_title": "OAR Diputación de Badajoz · Impuestos, tasas y otros ingresos",
+    "source_url": "https://oar.dip-badajoz.es/paginas/impuestos-tasas-y-otros",
+    "source_date": "2026-03-27",
+    "notes": "Contraste parcial con fuente oficial general del organismo recaudador. Los tipos, bonificaciones e importes concretos siguen pendientes de ordenanza municipal.",
+    "candidate": {
+      "source_title": "DOE nº 242, 19/12/2025",
+      "source_url": "https://zafra.sedelectronica.es",
+      "extracted_at": "2026-03-27",
+      "values": {
+        "ibiUrban": "0,61%",
+        "ibiRustic": "0,48%",
+        "paymentPeriod": "15 sep – 15 nov 2026",
+        "boniFamily": "Hasta 20%",
+        "solarBoni": "20%",
+        "basuraAmount": "70 €/año",
+        "electronicOffice": "https://zafra.sedelectronica.es"
+      }
+    },
+    "values": {
+      "ibiUrban": "",
+      "ibiRustic": "",
+      "paymentPeriod": "",
+      "boniFamily": "",
+      "solarBoni": "",
+      "basuraAmount": "",
+      "basuraPeriod": "",
+      "electronicOffice": ""
+    },
+    "status": "partial"
+  },
+  "extremadura/caceres/coria": {
+    "verified": false,
+    "source_title": "",
+    "source_url": "",
+    "source_date": "",
+    "notes": "",
+    "candidate": {
+      "source_title": "DOE nº 241, 18/12/2025",
+      "source_url": "https://coria.sedelectronica.es",
+      "extracted_at": "2026-03-27",
+      "values": {
+        "ibiUrban": "0,62%",
+        "ibiRustic": "0,49%",
+        "paymentPeriod": "1 oct – 30 nov 2026",
+        "boniFamily": "Hasta 20%",
+        "solarBoni": "25%",
+        "basuraAmount": "73 €/año",
+        "electronicOffice": "https://coria.sedelectronica.es"
+      }
+    },
+    "values": {
+      "ibiUrban": "",
+      "ibiRustic": "",
+      "paymentPeriod": "",
+      "boniFamily": "",
+      "solarBoni": "",
+      "basuraAmount": "",
+      "basuraPeriod": "",
+      "electronicOffice": ""
+    }
+  },
+  "extremadura/caceres/miajadas": {
+    "verified": false,
+    "source_title": "",
+    "source_url": "",
+    "source_date": "",
+    "notes": "",
+    "candidate": {
+      "source_title": "DOE nº 240, 17/12/2025",
+      "source_url": "https://miajadas.sedelectronica.es",
+      "extracted_at": "2026-03-27",
+      "values": {
+        "ibiUrban": "0,6%",
+        "ibiRustic": "0,47%",
+        "paymentPeriod": "1 oct – 30 nov 2026",
+        "boniFamily": "Hasta 20%",
+        "solarBoni": "20%",
+        "basuraAmount": "65 €/año",
+        "electronicOffice": "https://miajadas.sedelectronica.es"
+      }
+    },
+    "values": {
+      "ibiUrban": "",
+      "ibiRustic": "",
+      "paymentPeriod": "",
+      "boniFamily": "",
+      "solarBoni": "",
+      "basuraAmount": "",
+      "basuraPeriod": "",
+      "electronicOffice": ""
+    }
+  },
+  "extremadura/caceres/navalmoral-de-la-mata": {
+    "verified": false,
+    "source_title": "",
+    "source_url": "",
+    "source_date": "",
+    "notes": "",
+    "candidate": {
+      "source_title": "DOE nº 241, 18/12/2025",
+      "source_url": "https://navalmoraldelamata.sedelectronica.es",
+      "extracted_at": "2026-03-27",
+      "values": {
+        "ibiUrban": "0,62%",
+        "ibiRustic": "0,5%",
+        "paymentPeriod": "1 oct – 30 nov 2026",
+        "boniFamily": "Hasta 25%",
+        "solarBoni": "25%",
+        "basuraAmount": "80 €/año",
+        "electronicOffice": "https://navalmoraldelamata.sedelectronica.es"
+      }
+    },
+    "values": {
+      "ibiUrban": "",
+      "ibiRustic": "",
+      "paymentPeriod": "",
+      "boniFamily": "",
+      "solarBoni": "",
+      "basuraAmount": "",
+      "basuraPeriod": "",
+      "electronicOffice": ""
+    }
+  },
+  "extremadura/caceres/plasencia": {
+    "verified": false,
+    "source_title": "",
+    "source_url": "",
+    "source_date": "",
+    "notes": "",
+    "candidate": {
+      "source_title": "DOE nº 243, 20/12/2025",
+      "source_url": "https://plasencia.sedelectronica.es",
+      "extracted_at": "2026-03-27",
+      "values": {
+        "ibiUrban": "0,65%",
+        "ibiRustic": "0,52%",
+        "paymentPeriod": "1 oct – 30 nov 2026",
+        "boniFamily": "Hasta 30%",
+        "solarBoni": "30%",
+        "basuraAmount": "95 €/año",
+        "electronicOffice": "https://plasencia.sedelectronica.es"
+      }
+    },
+    "values": {
+      "ibiUrban": "",
+      "ibiRustic": "",
+      "paymentPeriod": "",
+      "boniFamily": "",
+      "solarBoni": "",
+      "basuraAmount": "",
+      "basuraPeriod": "",
+      "electronicOffice": ""
+    }
+  },
+  "extremadura/caceres/trujillo": {
+    "verified": false,
+    "source_title": "",
+    "source_url": "",
+    "source_date": "",
+    "notes": "",
+    "candidate": {
+      "source_title": "DOE nº 240, 17/12/2025",
+      "source_url": "https://trujillo.sedelectronica.es",
+      "extracted_at": "2026-03-27",
+      "values": {
+        "ibiUrban": "0,61%",
+        "ibiRustic": "0,48%",
+        "paymentPeriod": "1 oct – 30 nov 2026",
+        "boniFamily": "Hasta 20%",
+        "solarBoni": "20%",
+        "basuraAmount": "70 €/año",
+        "electronicOffice": "https://trujillo.sedelectronica.es"
+      }
+    },
+    "values": {
+      "ibiUrban": "",
+      "ibiRustic": "",
+      "paymentPeriod": "",
+      "boniFamily": "",
+      "solarBoni": "",
+      "basuraAmount": "",
+      "basuraPeriod": "",
+      "electronicOffice": ""
+    }
+  },
+  "galicia/a-coruna/ferrol": {
+    "verified": false,
+    "source_title": "",
+    "source_url": "",
+    "source_date": "",
+    "notes": "",
+    "candidate": {
+      "source_title": "BOP A Coruña nº 242, 20/12/2025",
+      "source_url": "https://ferrol.sedelectronica.es",
+      "extracted_at": "2026-03-27",
+      "values": {
+        "ibiUrban": "0,64%",
+        "ibiRustic": "0,5%",
+        "paymentPeriod": "1 may – 30 jun 2026",
+        "boniFamily": "Hasta 35%",
+        "solarBoni": "35%",
+        "basuraAmount": "120 €/año",
+        "electronicOffice": "https://ferrol.sedelectronica.es"
+      }
+    },
+    "values": {
+      "ibiUrban": "",
+      "ibiRustic": "",
+      "paymentPeriod": "",
+      "boniFamily": "",
+      "solarBoni": "",
+      "basuraAmount": "",
+      "basuraPeriod": "",
+      "electronicOffice": ""
+    }
+  },
+  "galicia/lugo/lugo": {
+    "verified": false,
+    "source_title": "",
+    "source_url": "",
+    "source_date": "",
+    "notes": "",
+    "candidate": {
+      "source_title": "BOP Lugo nº 290, 19/12/2025",
+      "source_url": "https://lugo.sedelectronica.es",
+      "extracted_at": "2026-03-27",
+      "values": {
+        "ibiUrban": "0,58%",
+        "ibiRustic": "0,45%",
+        "paymentPeriod": "15 abr – 15 jun 2026",
+        "boniFamily": "Hasta 40%",
+        "solarBoni": "40%",
+        "basuraAmount": "110 €/año",
+        "electronicOffice": "https://lugo.sedelectronica.es"
+      }
+    },
+    "values": {
+      "ibiUrban": "",
+      "ibiRustic": "",
+      "paymentPeriod": "",
+      "boniFamily": "",
+      "solarBoni": "",
+      "basuraAmount": "",
+      "basuraPeriod": "",
+      "electronicOffice": ""
+    }
+  },
+  "galicia/lugo/monforte-de-lemos": {
+    "verified": false,
+    "source_title": "",
+    "source_url": "",
+    "source_date": "",
+    "notes": "",
+    "candidate": {
+      "source_title": "BOP Lugo nº 289, 18/12/2025",
+      "source_url": "https://monfortedelemos.sedelectronica.es",
+      "extracted_at": "2026-03-27",
+      "values": {
+        "ibiUrban": "0,55%",
+        "ibiRustic": "0,42%",
+        "paymentPeriod": "15 abr – 15 jun 2026",
+        "boniFamily": "Hasta 30%",
+        "solarBoni": "25%",
+        "basuraAmount": "85 €/año",
+        "electronicOffice": "https://monfortedelemos.sedelectronica.es"
+      }
+    },
+    "values": {
+      "ibiUrban": "",
+      "ibiRustic": "",
+      "paymentPeriod": "",
+      "boniFamily": "",
+      "solarBoni": "",
+      "basuraAmount": "",
+      "basuraPeriod": "",
+      "electronicOffice": ""
+    }
+  },
+  "galicia/ourense/o-carballino": {
+    "verified": false,
+    "source_title": "",
+    "source_url": "",
+    "source_date": "",
+    "notes": "",
+    "candidate": {
+      "source_title": "BOP Ourense nº 288, 17/12/2025",
+      "source_url": "https://ocarballino.sedelectronica.es",
+      "extracted_at": "2026-03-27",
+      "values": {
+        "ibiUrban": "0,54%",
+        "ibiRustic": "0,42%",
+        "paymentPeriod": "1 may – 30 jun 2026",
+        "boniFamily": "Hasta 25%",
+        "solarBoni": "25%",
+        "basuraAmount": "78 €/año",
+        "electronicOffice": "https://ocarballino.sedelectronica.es"
+      }
+    },
+    "values": {
+      "ibiUrban": "",
+      "ibiRustic": "",
+      "paymentPeriod": "",
+      "boniFamily": "",
+      "solarBoni": "",
+      "basuraAmount": "",
+      "basuraPeriod": "",
+      "electronicOffice": ""
+    }
+  },
+  "galicia/ourense/ourense": {
+    "verified": false,
+    "source_title": "",
+    "source_url": "",
+    "source_date": "",
+    "notes": "",
+    "candidate": {
+      "source_title": "BOP Ourense nº 290, 19/12/2025",
+      "source_url": "https://ourense.sedelectronica.es",
+      "extracted_at": "2026-03-27",
+      "values": {
+        "ibiUrban": "0,6%",
+        "ibiRustic": "0,48%",
+        "paymentPeriod": "15 abr – 15 jun 2026",
+        "boniFamily": "Hasta 35%",
+        "solarBoni": "35%",
+        "basuraAmount": "108 €/año",
+        "electronicOffice": "https://ourense.sedelectronica.es"
+      }
+    },
+    "values": {
+      "ibiUrban": "",
+      "ibiRustic": "",
+      "paymentPeriod": "",
+      "boniFamily": "",
+      "solarBoni": "",
+      "basuraAmount": "",
+      "basuraPeriod": "",
+      "electronicOffice": ""
+    }
+  },
+  "galicia/pontevedra/pontevedra": {
+    "verified": false,
+    "source_title": "",
+    "source_url": "",
+    "source_date": "",
+    "notes": "",
+    "candidate": {
+      "source_title": "BOP Pontevedra nº 242, 20/12/2025",
+      "source_url": "https://pontevedra.sedelectronica.es",
+      "extracted_at": "2026-03-27",
+      "values": {
+        "ibiUrban": "0,62%",
+        "ibiRustic": "0,5%",
+        "paymentPeriod": "1 may – 30 jun 2026",
+        "boniFamily": "Hasta 40%",
+        "solarBoni": "40%",
+        "basuraAmount": "125 €/año",
+        "electronicOffice": "https://pontevedra.sedelectronica.es"
+      }
+    },
+    "values": {
+      "ibiUrban": "",
+      "ibiRustic": "",
+      "paymentPeriod": "",
+      "boniFamily": "",
+      "solarBoni": "",
+      "basuraAmount": "",
+      "basuraPeriod": "",
+      "electronicOffice": ""
+    }
+  },
+  "galicia/pontevedra/vilagarcia-de-arousa": {
+    "verified": false,
+    "source_title": "",
+    "source_url": "",
+    "source_date": "",
+    "notes": "",
+    "candidate": {
+      "source_title": "BOP Pontevedra nº 241, 19/12/2025",
+      "source_url": "https://vilagarcia.sedelectronica.es",
+      "extracted_at": "2026-03-27",
+      "values": {
+        "ibiUrban": "0,57%",
+        "ibiRustic": "0,45%",
+        "paymentPeriod": "1 may – 30 jun 2026",
+        "boniFamily": "Hasta 30%",
+        "solarBoni": "30%",
+        "basuraAmount": "100 €/año",
+        "electronicOffice": "https://vilagarcia.sedelectronica.es"
+      }
+    },
+    "values": {
+      "ibiUrban": "",
+      "ibiRustic": "",
+      "paymentPeriod": "",
+      "boniFamily": "",
+      "solarBoni": "",
+      "basuraAmount": "",
+      "basuraPeriod": "",
+      "electronicOffice": ""
+    }
+  },
+  "murcia/murcia/aguilas": {
+    "verified": false,
+    "source_title": "",
+    "source_url": "",
+    "source_date": "",
+    "notes": "",
+    "candidate": {
+      "source_title": "BORM nº 295, 23/12/2025",
+      "source_url": "https://aguilas.sedelectronica.es",
+      "extracted_at": "2026-03-27",
+      "values": {
+        "ibiUrban": "0,63%",
+        "ibiRustic": "0,5%",
+        "paymentPeriod": "1 sep – 31 oct 2026",
+        "boniFamily": "Hasta 25%",
+        "solarBoni": "30%",
+        "basuraAmount": "105 €/año",
+        "electronicOffice": "https://aguilas.sedelectronica.es"
+      }
+    },
+    "values": {
+      "ibiUrban": "",
+      "ibiRustic": "",
+      "paymentPeriod": "",
+      "boniFamily": "",
+      "solarBoni": "",
+      "basuraAmount": "",
+      "basuraPeriod": "",
+      "electronicOffice": ""
+    }
+  },
+  "murcia/murcia/caravaca-de-la-cruz": {
+    "verified": false,
+    "source_title": "",
+    "source_url": "",
+    "source_date": "",
+    "notes": "",
+    "candidate": {
+      "source_title": "BORM nº 294, 22/12/2025",
+      "source_url": "https://caravacadelacruz.sedelectronica.es",
+      "extracted_at": "2026-03-27",
+      "values": {
+        "ibiUrban": "0,61%",
+        "ibiRustic": "0,48%",
+        "paymentPeriod": "1 sep – 31 oct 2026",
+        "boniFamily": "Hasta 25%",
+        "solarBoni": "25%",
+        "basuraAmount": "82 €/año",
+        "electronicOffice": "https://caravacadelacruz.sedelectronica.es"
+      }
+    },
+    "values": {
+      "ibiUrban": "",
+      "ibiRustic": "",
+      "paymentPeriod": "",
+      "boniFamily": "",
+      "solarBoni": "",
+      "basuraAmount": "",
+      "basuraPeriod": "",
+      "electronicOffice": ""
+    }
+  },
+  "murcia/murcia/cieza": {
+    "verified": false,
+    "source_title": "",
+    "source_url": "",
+    "source_date": "",
+    "notes": "",
+    "candidate": {
+      "source_title": "BORM nº 293, 21/12/2025",
+      "source_url": "https://cieza.sedelectronica.es",
+      "extracted_at": "2026-03-27",
+      "values": {
+        "ibiUrban": "0,64%",
+        "ibiRustic": "0,5%",
+        "paymentPeriod": "1 sep – 31 oct 2026",
+        "boniFamily": "Hasta 25%",
+        "solarBoni": "30%",
+        "basuraAmount": "88 €/año",
+        "electronicOffice": "https://cieza.sedelectronica.es"
+      }
+    },
+    "values": {
+      "ibiUrban": "",
+      "ibiRustic": "",
+      "paymentPeriod": "",
+      "boniFamily": "",
+      "solarBoni": "",
+      "basuraAmount": "",
+      "basuraPeriod": "",
+      "electronicOffice": ""
+    }
+  },
+  "murcia/murcia/lorca": {
+    "verified": false,
+    "source_title": "",
+    "source_url": "",
+    "source_date": "",
+    "notes": "",
+    "candidate": {
+      "source_title": "BORM nº 296, 24/12/2025",
+      "source_url": "https://lorca.sedelectronica.es",
+      "extracted_at": "2026-03-27",
+      "values": {
+        "ibiUrban": "0,68%",
+        "ibiRustic": "0,55%",
+        "paymentPeriod": "1 sep – 31 oct 2026",
+        "boniFamily": "Hasta 35%",
+        "solarBoni": "35%",
+        "basuraAmount": "115 €/año",
+        "electronicOffice": "https://lorca.sedelectronica.es"
+      }
+    },
+    "values": {
+      "ibiUrban": "",
+      "ibiRustic": "",
+      "paymentPeriod": "",
+      "boniFamily": "",
+      "solarBoni": "",
+      "basuraAmount": "",
+      "basuraPeriod": "",
+      "electronicOffice": ""
+    }
+  },
+  "murcia/murcia/mazarron": {
+    "verified": false,
+    "source_title": "",
+    "source_url": "",
+    "source_date": "",
+    "notes": "",
+    "candidate": {
+      "source_title": "BORM nº 292, 20/12/2025",
+      "source_url": "https://mazarron.sedelectronica.es",
+      "extracted_at": "2026-03-27",
+      "values": {
+        "ibiUrban": "0,62%",
+        "ibiRustic": "0,49%",
+        "paymentPeriod": "1 sep – 31 oct 2026",
+        "boniFamily": "Hasta 25%",
+        "solarBoni": "25%",
+        "basuraAmount": "100 €/año",
+        "electronicOffice": "https://mazarron.sedelectronica.es"
+      }
+    },
+    "values": {
+      "ibiUrban": "",
+      "ibiRustic": "",
+      "paymentPeriod": "",
+      "boniFamily": "",
+      "solarBoni": "",
+      "basuraAmount": "",
+      "basuraPeriod": "",
+      "electronicOffice": ""
+    }
+  },
+  "murcia/murcia/molina-de-segura": {
+    "verified": false,
+    "source_title": "",
+    "source_url": "",
+    "source_date": "",
+    "notes": "",
+    "candidate": {
+      "source_title": "BORM nº 291, 19/12/2025",
+      "source_url": "https://molinadesegura.sedelectronica.es",
+      "extracted_at": "2026-03-27",
+      "values": {
+        "ibiUrban": "0,66%",
+        "ibiRustic": "0,53%",
+        "paymentPeriod": "15 ago – 15 oct 2026",
+        "boniFamily": "Hasta 30%",
+        "solarBoni": "35%",
+        "basuraAmount": "110 €/año",
+        "electronicOffice": "https://molinadesegura.sedelectronica.es"
+      }
+    },
+    "values": {
+      "ibiUrban": "",
+      "ibiRustic": "",
+      "paymentPeriod": "",
+      "boniFamily": "",
+      "solarBoni": "",
+      "basuraAmount": "",
+      "basuraPeriod": "",
+      "electronicOffice": ""
+    }
+  },
+  "murcia/murcia/yecla": {
+    "verified": false,
+    "source_title": "",
+    "source_url": "",
+    "source_date": "",
+    "notes": "",
+    "candidate": {
+      "source_title": "BORM nº 290, 18/12/2025",
+      "source_url": "https://yecla.sedelectronica.es",
+      "extracted_at": "2026-03-27",
+      "values": {
+        "ibiUrban": "0,6%",
+        "ibiRustic": "0,48%",
+        "paymentPeriod": "1 sep – 31 oct 2026",
+        "boniFamily": "Hasta 25%",
+        "solarBoni": "25%",
+        "basuraAmount": "82 €/año",
+        "electronicOffice": "https://yecla.sedelectronica.es"
+      }
+    },
+    "values": {
+      "ibiUrban": "",
+      "ibiRustic": "",
+      "paymentPeriod": "",
+      "boniFamily": "",
+      "solarBoni": "",
+      "basuraAmount": "",
+      "basuraPeriod": "",
+      "electronicOffice": ""
+    }
+  }
+}

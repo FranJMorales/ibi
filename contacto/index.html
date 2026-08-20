@@ -1,0 +1,425 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" type="image/x-icon" href="../favicon.ico">
+  <link rel="icon" type="image/svg+xml" href="../favicon.svg">
+  <link rel="icon" type="image/png" sizes="32x32" href="../favicon-32x32.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="../apple-touch-icon.png">
+  <title>Contacto – TasasMunicipales</title>
+  <meta name="description" content="Contacta con TasasMunicipales: avisar de un error en los datos, pedir que añadamos tu municipio o aportar la ordenanza fiscal de tu ayuntamiento. Respuesta en 48 horas laborables.">
+  <meta name="google-adsense-account" content="ca-pub-4975903304841229">
+  <!-- Google Consent Mode v2: estado por defecto denegado hasta que el usuario acepte (RGPD) -->
+  <script id="tm-consent-default">
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    (function () {
+      var m = document.cookie.match('(^|;)\\s*tm_cookie_consent\\s*=\\s*([^;]+)');
+      var state = (m ? m.pop() : '') === 'accepted' ? 'granted' : 'denied';
+      gtag('consent', 'default', {
+        ad_storage: state,
+        ad_user_data: state,
+        ad_personalization: state,
+        analytics_storage: state,
+        wait_for_update: 500
+      });
+    })();
+  </script>
+  <!-- Google AdSense -->
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4975903304841229" crossorigin="anonymous"></script>
+  <link rel="canonical" href="https://tasasmunicipales.info/contacto/">
+  <meta name="robots" content="index, follow">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Source+Serif+4:wght@300;400;600&display=swap" rel="stylesheet">
+  
+  <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+<header>
+  <div class="header-inner">
+    <a href="../" class="logo-main">TasasMunicipales</a>
+    <nav class="mainnav" aria-label="Navegación principal">
+      <details class="nav-group">
+        <summary>Mi municipio</summary>
+        <div class="nav-menu">
+          <a href="../municipios/">Buscar entre los 134 municipios</a>
+          <a href="../comunidades/">Por comunidad autónoma</a>
+        </div>
+      </details>
+      <details class="nav-group">
+        <summary>Impuestos</summary>
+        <div class="nav-menu">
+          <a href="../ibi-2026/">IBI</a>
+          <a href="../tasa-basuras/">Tasa de basuras</a>
+          <a href="../plusvalia/">Plusvalía municipal</a>
+          <a href="../bonificaciones/">Bonificaciones del IBI</a>
+          <a href="../impuesto-circulacion/">Impuesto de circulación</a>
+          <a href="../valor-catastral/">Valor catastral</a>
+        </div>
+      </details>
+      <a href="../analisis/">Comparativas</a>
+      <a href="../metodologia/">Metodología</a>
+      <a href="../contacto/" class="on" aria-current="page">Contacto</a>
+      <a href="../calculadora-ibi/" class="nav-cta">Calcular mi IBI</a>
+    </nav>
+  </div>
+</header>
+
+<div class="breadcrumb">
+  <a href="../" rel="nofollow">Inicio</a><span>›</span>
+  <strong>Contacto</strong>
+</div>
+
+<div class="page-wrap">
+
+  <!-- FORM -->
+  <main>
+    <span class="legal-tag">Contacto</span>
+    <h1>¿En qué podemos ayudarte?</h1>
+    <p class="subtitle">Escríbeme si detectas un error en los datos, si tu municipio no está en la guía o si puedes aportar la ordenanza fiscal de tu ayuntamiento. Respondo en un máximo de 48 horas laborables. Lo que no puedo hacer es asesorarte: <a href="../sobre-nosotros/">no soy asesor fiscal</a>.</p>
+
+    <div class="contact-form" id="contact-form-wrap">
+
+      <div id="form-success" class="form-success">
+        <div class="icon">✅</div>
+        <h3>¡Mensaje enviado!</h3>
+        <p>Hemos recibido tu consulta correctamente. Nos pondremos en contacto contigo en un plazo máximo de 48 horas.</p>
+      </div>
+
+      <div id="form-error" class="form-error">
+        <strong>No hemos podido enviar el formulario.</strong>
+        Escríbenos directamente a <a href="mailto:soporte@tasasmunicipales.info">soporte@tasasmunicipales.info</a>
+        y te respondemos en menos de 48 horas.
+      </div>
+
+      <form id="contact-form" novalidate>
+
+        <div class="form-group">
+          <label for="nombre">Nombre *</label>
+          <input type="text" id="nombre" name="nombre" placeholder="Tu nombre" autocomplete="name">
+          <span class="field-error" id="err-nombre">Por favor, introduce tu nombre.</span>
+        </div>
+
+        <div class="form-group">
+          <label for="email">Correo electrónico *</label>
+          <input type="email" id="email" name="email" placeholder="tu@correo.es" autocomplete="email">
+          <span class="field-error" id="err-email">Introduce un correo electrónico válido.</span>
+        </div>
+
+        <div class="form-group">
+          <label for="asunto">Motivo de contacto *</label>
+          <select id="asunto" name="asunto">
+            <option value="">— Selecciona una opción —</option>
+            <option value="solicitud-municipio">Solicitar un municipio que no está</option>
+            <option value="error-datos">Reportar un error en los datos</option>
+            <option value="consulta-ibi">Consulta sobre IBI</option>
+            <option value="consulta-basuras">Consulta sobre tasa de basuras</option>
+            <option value="consulta-plusvalia">Consulta sobre plusvalía</option>
+            <option value="colaboracion">Colaboración o publicidad</option>
+            <option value="otro">Otro</option>
+          </select>
+          <span class="field-error" id="err-asunto">Por favor, selecciona el motivo.</span>
+        </div>
+
+        <div class="form-group">
+          <label for="municipio">Municipio (si aplica)</label>
+          <input type="text" id="municipio" name="municipio" placeholder="Ej: Plasencia, Calatayud…">
+        </div>
+
+        <div class="form-group">
+          <label for="mensaje">Mensaje *</label>
+          <textarea id="mensaje" name="mensaje" placeholder="Describe tu consulta con el mayor detalle posible…"></textarea>
+          <span class="field-error" id="err-mensaje">Por favor, escribe tu mensaje (mínimo 20 caracteres).</span>
+        </div>
+
+        <!-- Honeypot antispam: invisible para personas, atractivo para bots -->
+        <div style="position:absolute;left:-9999px;" aria-hidden="true">
+          <label for="tm-website">No rellenar</label>
+          <input type="text" id="tm-website" name="tm_website" tabindex="-1" autocomplete="off">
+        </div>
+
+        <div class="checkbox-row">
+          <input type="checkbox" id="privacy" name="privacy">
+          <label for="privacy">He leído y acepto la <a href="../privacidad/" rel="nofollow" target="_blank">Política de Privacidad</a>. Consiento el tratamiento de mis datos para atender mi consulta. *</label>
+        </div>
+        <span class="field-error" id="err-privacy" style="display:none; margin-top:-12px; margin-bottom:14px; display:block;">Debes aceptar la política de privacidad para enviar el formulario.</span>
+
+        <button type="submit" class="btn-submit" id="btn-submit">Enviar mensaje →</button>
+
+      </form>
+    </div>
+
+    <h2>Qué consultas puedo atender</h2>
+    <p>Escribe una persona y responde una persona: este sitio lo edita <a href="../sobre-nosotros/">Aithamy Rivero</a>, sin equipo detrás. Eso marca lo que tiene sentido preguntar aquí:</p>
+    <ul>
+      <li><strong>Errores en los datos.</strong> Es la consulta más útil de todas. Si el tipo de IBI, la población o cualquier cifra de una ficha no cuadra con lo que dice tu ayuntamiento, quiero saberlo.</li>
+      <li><strong>Municipios que faltan.</strong> Si tu municipio no está en la guía, dímelo y entra en la lista de los siguientes.</li>
+      <li><strong>Dudas sobre cómo leer una página.</strong> Qué significa el año de los valores catastrales, por qué publicamos el límite legal de una bonificación y no el porcentaje de tu ordenanza, de dónde sale una cifra concreta.</li>
+      <li><strong>Datos que puedas aportar.</strong> Si tienes delante la ordenanza fiscal de tu municipio —la tasa de residuos es el hueco más grande que tenemos— y me la mandas, la publico citando la fuente.</li>
+      <li><strong>Colaboración, prensa o publicidad.</strong> Escribe indicando el motivo y te contesto igual.</li>
+    </ul>
+    <p><strong>Lo que no puedo hacer</strong> es asesorarte. No soy asesor fiscal ni abogado, así que no puedo decirte si te conviene recurrir un recibo, cómo rellenar una autoliquidación de plusvalía ni qué te sale mejor en tu caso concreto. Para eso hace falta un profesional habilitado o el propio organismo que gestiona el tributo, que es quien tiene tu expediente delante. Tampoco puedo consultar tu recibo, tu valor catastral ni tramitar nada ante ninguna administración: no tengo acceso a ningún dato tributario de nadie.</p>
+
+    <h2>Cómo avisar de un dato incorrecto</h2>
+    <p>Cuanto más concreto sea el aviso, más rápido se corrige. Lo ideal es que el mensaje traiga tres cosas:</p>
+    <ol>
+      <li><strong>El municipio y la página</strong> donde está el error (basta con pegar la dirección).</li>
+      <li><strong>El dato que falla y el que debería figurar</strong>: «el tipo urbano aparece como 0,58% y la ordenanza de 2026 dice 0,62%».</li>
+      <li><strong>La fuente, si la tienes:</strong> el enlace a la ordenanza fiscal, al anuncio del boletín provincial o a la página del ayuntamiento. No es imprescindible, pero con ella la corrección es inmediata.</li>
+    </ol>
+    <p>Qué pasa después: contesto en un máximo de <strong>48 horas laborables</strong>; si el dato está mal, se corrige en el fichero de datos del que se generan todas las páginas, de modo que queda arreglado a la vez en la ficha, en el comparador y en la página de la comunidad autónoma; y se actualiza la fecha de revisión. Cuando el error es de los que merecen quedar por escrito, se anota en el registro público de correcciones de la <a href="../metodologia/#errores-corregidos">página de metodología</a>, donde también está <a href="../metodologia/#no-publicamos">lo que no publicamos y por qué</a>.</p>
+
+    <h2>Pedir que añada tu municipio</h2>
+    <p>Ahora mismo la guía cubre 134 municipios de nueve comunidades autónomas. Para añadir uno nuevo necesito poder documentarlo entero con fuentes oficiales: los tipos de gravamen que publica el Ministerio de Hacienda, la población del INE y una web municipal que responda. Cuando un municipio no cumple eso, prefiero no publicarlo antes que rellenar la ficha con cifras sin respaldo. Si me pides el tuyo, indícame el nombre y la provincia; si no está entre los siguientes, te digo por qué.</p>
+
+    <h2>Qué hago con tus datos</h2>
+    <p>Los datos del formulario se usan <strong>solo para responderte</strong>. No se ceden a terceros, no se usan para enviarte publicidad ni boletines, y no hay lista de correo a la que quedes suscrito. Si escribes por un error en los datos, conservo el mensaje mientras dure la corrección para poder documentarla; en el resto de casos, lo borro cuando la consulta queda cerrada.</p>
+    <p>Puedes ejercer tus derechos de acceso, rectificación, supresión, oposición, limitación y portabilidad escribiendo a <a href="mailto:soporte@tasasmunicipales.info">soporte@tasasmunicipales.info</a>. El detalle del tratamiento, la base jurídica y la identidad del responsable están en la <a href="../privacidad/" rel="nofollow">política de privacidad</a> y en el <a href="../aviso-legal/" rel="nofollow">aviso legal</a>. Si el formulario te da un error al enviarlo, no lo intentes varias veces: escribe directamente al correo y llega igual.</p>
+
+    <div class="legal-nav">
+      <a href="../aviso-legal/" rel="nofollow">→ Aviso Legal</a>
+      <a href="../privacidad/" rel="nofollow">→ Privacidad</a>
+      <a href="../cookies/" rel="nofollow">→ Cookies</a>
+      <a href="../">← Volver al inicio</a>
+    </div>
+  </main>
+
+  <!-- SIDEBAR -->
+  <aside>
+    <div class="sidebar-block">
+      <div class="s-head">📬 Información de contacto</div>
+      <div class="s-body">
+        <div class="info-item">
+          <span class="info-icon">✉️</span>
+          <div>
+            <strong>Correo electrónico</strong>
+            <a href="mailto:soporte@tasasmunicipales.info" rel="nofollow">soporte@tasasmunicipales.info</a>
+          </div>
+        </div>
+        <div class="info-item">
+          <span class="info-icon">⏱️</span>
+          <div>
+            <strong>Tiempo de respuesta</strong>
+            Máximo 48 horas laborables
+          </div>
+        </div>
+        <div class="info-item">
+          <span class="info-icon">🗺️</span>
+          <div>
+            <strong>Solicitar tu municipio</strong>
+            Si no está en nuestra guía, escríbenos y lo añadimos próximamente.
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="sidebar-block">
+      <div class="s-head">❓ Preguntas frecuentes</div>
+      <div class="s-body">
+        <p>Antes de escribirnos, comprueba si tu pregunta ya está respondida:</p>
+        <ul style="list-style:none; padding:0;">
+          <li style="padding:7px 0; border-bottom:1px solid var(--rule); font-size:0.82rem;"><a href="../ibi-2026/#cuando" style="color:var(--accent); text-decoration:none;">¿Cuándo se paga el IBI?</a></li>
+          <li style="padding:7px 0; border-bottom:1px solid var(--rule); font-size:0.82rem;"><a href="../tasa-basuras/#quien-paga" style="color:var(--accent); text-decoration:none;">¿Quién paga la basura en alquiler?</a></li>
+          <li style="padding:7px 0; font-size:0.82rem;"><a href="../ibi-2026/#fraccionar" style="color:var(--accent); text-decoration:none;">¿Cómo fraccionar el IBI?</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="sidebar-block">
+      <div class="s-head">⚖️ Páginas legales</div>
+      <div class="s-body">
+        <ul style="list-style:none; padding:0;">
+          <li style="padding:6px 0; border-bottom:1px solid var(--rule); font-size:0.82rem;"><a href="../aviso-legal/" rel="nofollow" style="color:var(--ink); text-decoration:none;">Aviso Legal</a></li>
+          <li style="padding:6px 0; border-bottom:1px solid var(--rule); font-size:0.82rem;"><a href="../privacidad/" rel="nofollow" style="color:var(--ink); text-decoration:none;">Política de Privacidad</a></li>
+          <li style="padding:6px 0; font-size:0.82rem;"><a href="../cookies/" rel="nofollow" style="color:var(--ink); text-decoration:none;">Política de Cookies</a></li>
+        </ul>
+      </div>
+    </div>
+  </aside>
+
+</div>
+
+<footer>
+  <div class="ft-grid" style="max-width:1100px;margin:0 auto;display:grid;grid-template-columns:2fr 1fr 1fr 1fr;gap:32px;padding:40px 24px 24px;">
+    <div>
+      <div style="font-family:'Playfair Display',serif;font-size:1.1rem;font-weight:900;color:#fff;margin-bottom:6px;">TasasMunicipales</div>
+      <div style="font-size:.65rem;letter-spacing:.08em;text-transform:uppercase;color:rgba(255,255,255,.5);margin-bottom:10px;">Guía de Impuestos Locales · España 2026</div>
+      <p style="font-size:.78rem;line-height:1.7;color:rgba(255,255,255,.45);margin:0;">Guía de IBI, tasa de basuras, plusvalía y bonificaciones para 134 municipios en 9 comunidades autónomas.</p>
+    </div>
+    <div>
+      <div style="font-size:.7rem;text-transform:uppercase;letter-spacing:.12em;color:rgba(255,255,255,.9);margin-bottom:14px;">Navegación</div>
+      <ul style="list-style:none;padding:0;margin:0;">
+        <li style="margin-bottom:8px;"><a href="../" style="color:rgba(255,255,255,.5);font-size:.8rem;text-decoration:none;">Inicio</a></li>
+        <li style="margin-bottom:8px;"><a href="../comunidades/" style="color:rgba(255,255,255,.5);font-size:.8rem;text-decoration:none;">Comunidades</a></li>
+        <li style="margin-bottom:8px;"><a href="../municipios/" style="color:rgba(255,255,255,.5);font-size:.8rem;text-decoration:none;">Municipios</a></li>
+        <li style="margin-bottom:8px;"><a href="../calculadora-ibi/" style="color:rgba(255,255,255,.5);font-size:.8rem;text-decoration:none;">Calculadora IBI</a></li>
+      </ul>
+    </div>
+    <div>
+      <div style="font-size:.7rem;text-transform:uppercase;letter-spacing:.12em;color:rgba(255,255,255,.9);margin-bottom:14px;">Impuestos</div>
+      <ul style="list-style:none;padding:0;margin:0;">
+        <li style="margin-bottom:8px;"><a href="../ibi-2026/" style="color:rgba(255,255,255,.5);font-size:.8rem;text-decoration:none;">IBI 2026</a></li>
+        <li style="margin-bottom:8px;"><a href="../tasa-basuras/" style="color:rgba(255,255,255,.5);font-size:.8rem;text-decoration:none;">Tasa de Basuras</a></li>
+        <li style="margin-bottom:8px;"><a href="../plusvalia/" style="color:rgba(255,255,255,.5);font-size:.8rem;text-decoration:none;">Plusvalía Municipal</a></li>
+        <li style="margin-bottom:8px;"><a href="../bonificaciones/" style="color:rgba(255,255,255,.5);font-size:.8rem;text-decoration:none;">Bonificaciones</a></li>
+      </ul>
+    </div>
+    <div>
+      <div style="font-size:.7rem;text-transform:uppercase;letter-spacing:.12em;color:rgba(255,255,255,.9);margin-bottom:14px;">Legal</div>
+      <ul style="list-style:none;padding:0;margin:0;">
+        <li style="margin-bottom:8px;"><a href="../aviso-legal/" rel="nofollow" style="color:rgba(255,255,255,.5);font-size:.8rem;text-decoration:none;">Aviso Legal</a></li>
+        <li style="margin-bottom:8px;"><a href="../privacidad/" rel="nofollow" style="color:rgba(255,255,255,.5);font-size:.8rem;text-decoration:none;">Privacidad</a></li>
+        <li style="margin-bottom:8px;"><a href="../cookies/" rel="nofollow" style="color:rgba(255,255,255,.5);font-size:.8rem;text-decoration:none;">Cookies</a></li>
+        <li style="margin-bottom:8px;"><a href="../contacto/" rel="nofollow" style="color:rgba(255,255,255,.5);font-size:.8rem;text-decoration:none;">Contacto</a></li>
+      </ul>
+    </div>
+  </div>
+  <div style="max-width:1100px;margin:0 auto;padding:16px 24px 28px;border-top:1px solid rgba(255,255,255,.1);display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px;font-size:.72rem;color:rgba(255,255,255,.4);">
+    <span>© 2026 TasasMunicipales.info · La información no constituye asesoramiento fiscal.</span>
+    <span>Datos del Ministerio de Hacienda, el INE y el BOE. La ordenanza de tu ayuntamiento es la que manda.</span>
+  </div>
+</footer>
+
+<script>
+/* ─────────────────────────────────────────────────────────────────────────────
+   Formulario de contacto REAL.
+
+   1) Si FORM_ENDPOINT está configurado (Web3Forms, Formspree, Basin, Netlify
+      Forms o un endpoint propio), el mensaje se envía por POST y solo se muestra
+      el mensaje de éxito cuando el servidor confirma la recepción.
+   2) Si no hay endpoint configurado, NO se simula ningún envío: se abre el
+      cliente de correo del usuario con el mensaje ya redactado hacia
+      soporte@tasasmunicipales.info, y se le indica que debe pulsar "enviar".
+
+   Para activar el envío automático basta con rellenar FORM_ENDPOINT (y
+   ACCESS_KEY si el proveedor lo requiere, p. ej. Web3Forms).
+   ───────────────────────────────────────────────────────────────────────────── */
+(function () {
+  'use strict';
+
+  // FormSubmit envía el formulario al correo indicado sin necesidad de cuenta ni
+  // clave. IMPORTANTE: el primer envío genera un correo de activación a
+  // soporte@tasasmunicipales.info; hay que abrirlo y confirmar el enlace una única
+  // vez. Si prefieres Web3Forms o Formspree, sustituye FORM_ENDPOINT por su URL y
+  // pon la clave en ACCESS_KEY: el resto del código no cambia.
+  var FORM_ENDPOINT = 'https://formsubmit.co/ajax/soporte@tasasmunicipales.info';
+  var ACCESS_KEY    = '';
+  var CONTACT_EMAIL = 'soporte@tasasmunicipales.info';
+
+  var form = document.getElementById('contact-form');
+  var successMsg = document.getElementById('form-success');
+  var errorMsg = document.getElementById('form-error');
+  var submitBtn = document.getElementById('btn-submit');
+  if (!form) return;
+
+  function showError(id, show) {
+    var el = document.getElementById(id);
+    if (el) el.style.display = show ? 'block' : 'none';
+  }
+
+  function validateEmail(email) {
+    return /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email);
+  }
+
+  function fields() {
+    return {
+      nombre: document.getElementById('nombre').value.trim(),
+      email: document.getElementById('email').value.trim(),
+      asunto: document.getElementById('asunto').value,
+      municipio: document.getElementById('municipio').value.trim(),
+      mensaje: document.getElementById('mensaje').value.trim(),
+      privacy: document.getElementById('privacy').checked,
+      honeypot: (document.getElementById('tm-website') || {}).value || ''
+    };
+  }
+
+  function validate(f) {
+    var valid = true;
+    showError('err-nombre', !f.nombre);
+    if (!f.nombre) valid = false;
+    showError('err-email', !validateEmail(f.email));
+    if (!validateEmail(f.email)) valid = false;
+    showError('err-asunto', !f.asunto);
+    if (!f.asunto) valid = false;
+    showError('err-mensaje', f.mensaje.length < 20);
+    if (f.mensaje.length < 20) valid = false;
+    showError('err-privacy', !f.privacy);
+    if (!f.privacy) valid = false;
+    return valid;
+  }
+
+  function done() {
+    form.style.display = 'none';
+    errorMsg.style.display = 'none';
+    successMsg.style.display = 'block';
+  }
+
+  function fail() {
+    submitBtn.disabled = false;
+    submitBtn.textContent = 'Enviar mensaje →';
+    errorMsg.style.display = 'block';
+    errorMsg.scrollIntoView({ behavior: 'smooth', block: 'center' });
+  }
+
+  function mailtoFallback(f) {
+    var subject = '[TasasMunicipales] ' + f.asunto + (f.municipio ? ' – ' + f.municipio : '');
+    var body = 'Nombre: ' + f.nombre + '\n' +
+               'Email: ' + f.email + '\n' +
+               'Motivo: ' + f.asunto + '\n' +
+               'Municipio: ' + (f.municipio || '—') + '\n\n' +
+               f.mensaje + '\n';
+    window.location.href = 'mailto:' + CONTACT_EMAIL +
+      '?subject=' + encodeURIComponent(subject) +
+      '&body=' + encodeURIComponent(body);
+
+    successMsg.innerHTML =
+      '<div class="icon">✉️</div><h3>Se ha abierto tu correo</h3>' +
+      '<p>Hemos preparado el mensaje en tu gestor de correo con todos los datos. ' +
+      'Solo tienes que pulsar <strong>Enviar</strong> para que nos llegue. ' +
+      'Si no se ha abierto, escríbenos a <a href="mailto:' + CONTACT_EMAIL + '">' + CONTACT_EMAIL + '</a>.</p>';
+    done();
+  }
+
+  form.addEventListener('submit', function (e) {
+    e.preventDefault();
+    var f = fields();
+    if (!validate(f)) return;
+    if (f.honeypot) return;   // bot detectado: se descarta en silencio
+
+    if (!FORM_ENDPOINT) {
+      mailtoFallback(f);
+      return;
+    }
+
+    submitBtn.disabled = true;
+    submitBtn.textContent = 'Enviando…';
+    errorMsg.style.display = 'none';
+
+    var payload = {
+      nombre: f.nombre,
+      email: f.email,
+      asunto: f.asunto,
+      municipio: f.municipio,
+      mensaje: f.mensaje,
+      subject: '[TasasMunicipales] ' + f.asunto + (f.municipio ? ' – ' + f.municipio : '')
+    };
+    if (ACCESS_KEY) payload.access_key = ACCESS_KEY;
+    payload._subject = payload.subject;      // asunto del correo en FormSubmit
+    payload._captcha = 'false';
+    payload._template = 'table';
+
+    fetch(FORM_ENDPOINT, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
+      body: JSON.stringify(payload)
+    })
+      .then(function (res) { if (!res.ok) throw new Error('HTTP ' + res.status); return res; })
+      .then(done)
+      .catch(fail);
+  });
+})();
+</script>
+<script src="../cookie-consent.js" defer></script>
+</body>
+</html>

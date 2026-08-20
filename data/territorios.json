@@ -1,0 +1,13 @@
+{
+ "_nota": "Contenido editorial propio de cada territorio. Se inserta en el pilar correspondiente. {P} se sustituye por la ruta relativa a la raiz del sitio. Toda afirmacion normativa debe llevar enlace a la fuente. Solo se publican los bloques cuyo id esta en BLOQUES_EDITORIALES_PERMITIDOS (scripts/build_territory_pillars.py): los que explicaban la mecanica general del impuesto se retiraron porque duplicaban las guias nacionales en las nueve comunidades.",
+ "murcia": {
+  "nombre_largo": "la Región de Murcia",
+  "bloques": [
+   {
+    "id": "contexto-territorial",
+    "h2": "Las excepciones del calendario de cobro en la Región de Murcia",
+    "html": "<p>Murcia es el caso con el reparto de la recaudación más fragmentado de la guía, y conviene conocerlo antes de buscar un recibo: la <a href=\"https://agenciatributaria.carm.es/\" target=\"_blank\" rel=\"nofollow noopener\">Agencia Tributaria de la Región de Murcia (ATRM)</a> publica un <strong>calendario del contribuyente único</strong> para la recaudación voluntaria de IBI, IAE, impuesto de vehículos y plusvalía de buena parte de los ayuntamientos, pero con dos excepciones que explican por qué las fechas no coinciden entre municipios:</p><ul><li><strong>El municipio de Murcia</strong> tiene su propio organismo, la <a href=\"https://amt.murcia.es\" target=\"_blank\" rel=\"nofollow noopener\">Agencia Municipal Tributaria</a>, con calendario, oficina virtual y padrones propios.</li><li><strong>Águilas, Mazarrón, Molina de Segura, Los Alcázares y San Pedro del Pinatar</strong> quedan fuera del calendario general de la ATRM y publican el suyo. Es la propia ATRM la que lo advierte en su calendario del contribuyente, remitiendo al de cada uno de esos municipios.</li></ul><p>Consecuencia práctica: <strong>no busques «cuándo se paga el IBI en Murcia» como si hubiera una fecha regional</strong>. Comprueba primero quién recauda en tu municipio y consulta ese calendario concreto.</p>"
+   }
+  ]
+ }
+}

@@ -1,0 +1,91 @@
+{
+ "fuente": "https://www.boe.es/buscar/act.php?id=BOE-A-2004-4214",
+ "articulo": "artículo 107.4 del texto refundido de la Ley Reguladora de las Haciendas Locales",
+ "nota": "Coeficientes máximos. Cada ayuntamiento fija los suyos sin superar estos límites.",
+ "coeficientes": [
+  [
+   "Inferior a 1 año",
+   "0,15"
+  ],
+  [
+   "1 año",
+   "0,15"
+  ],
+  [
+   "2 años",
+   "0,14"
+  ],
+  [
+   "3 años",
+   "0,14"
+  ],
+  [
+   "4 años",
+   "0,16"
+  ],
+  [
+   "5 años",
+   "0,18"
+  ],
+  [
+   "6 años",
+   "0,19"
+  ],
+  [
+   "7 años",
+   "0,20"
+  ],
+  [
+   "8 años",
+   "0,19"
+  ],
+  [
+   "9 años",
+   "0,15"
+  ],
+  [
+   "10 años",
+   "0,12"
+  ],
+  [
+   "11 años",
+   "0,10"
+  ],
+  [
+   "12 años",
+   "0,09"
+  ],
+  [
+   "13 años",
+   "0,09"
+  ],
+  [
+   "14 años",
+   "0,09"
+  ],
+  [
+   "15 años",
+   "0,09"
+  ],
+  [
+   "16 años",
+   "0,10"
+  ],
+  [
+   "17 años",
+   "0,13"
+  ],
+  [
+   "18 años",
+   "0,17"
+  ],
+  [
+   "19 años",
+   "0,23"
+  ],
+  [
+   "Igual o superior a 20 años",
+   "0,40"
+  ]
+ ]
+}
