@@ -329,7 +329,7 @@ function municipalityHtml(data) {
   <title>Impuestos municipales en ${esc(data.town)} 2026: IBI, basura, plusvalía y bonificaciones</title>
   <meta name="description" content="Guía municipal de ${esc(data.town)} 2026: IBI urbano ${esc(data.ibiUrban)}, calendario de pago, tasa de basura, plusvalía y bonificaciones. Información concentrada en una sola página útil.">
   <link rel="canonical" href="${canonical}">
-  <meta name="google-adsense-account" content="ca-pub-4975903304841229">
+  <meta name="google-adsense-account" content="ca-pub-1490037781635177">
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",

@@ -20,7 +20,7 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-PUB_ID = "ca-pub-4975903304841229"
+PUB_ID = "ca-pub-1490037781635177"
 LOADER_MARK = "pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
 CONSENT_MARK = "tm-consent-default"
 

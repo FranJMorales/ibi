@@ -290,7 +290,7 @@ def head_block(title: str, description: str, canonical: str, prefix: str) -> str
   <title>{title}</title>
   <meta name="description" content="{description}">
   <link rel="canonical" href="{canonical}">
-  <meta name="google-adsense-account" content="ca-pub-4975903304841229">
+  <meta name="google-adsense-account" content="ca-pub-1490037781635177">
   <!-- Google Consent Mode v2: estado por defecto denegado hasta que el usuario acepte (RGPD) -->
   <script id="tm-consent-default">
     window.dataLayer = window.dataLayer || [];
@@ -308,7 +308,7 @@ def head_block(title: str, description: str, canonical: str, prefix: str) -> str
     }})();
   </script>
   <!-- Google AdSense -->
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4975903304841229" crossorigin="anonymous"></script>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1490037781635177" crossorigin="anonymous"></script>
   <meta name="robots" content="index, follow, max-image-preview:large">
   <meta property="og:title" content="{title}">
   <meta property="og:description" content="{description}">

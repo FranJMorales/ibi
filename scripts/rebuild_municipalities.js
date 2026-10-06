@@ -78,7 +78,7 @@ function generateMuniPage(m) {
   <title>IBI, basuras y plusvalía en ${m.nombre} 2026 — Guía fiscal completa</title>
   <meta name="description" content="Guía fiscal de ${m.nombre} (${m.prov}) 2026: IBI urbano ${m.ibiU.toFixed(2)}%, tasa de basuras ${m.basura} €/año, plusvalía municipal, bonificaciones familia numerosa ${m.bonFN} y energía solar ${m.bonSolar}. Datos de la ordenanza actualizada.">
   <link rel="canonical" href="https://tasasmunicipales.info/${m.slug}/">
-  <meta name="google-adsense-account" content="ca-pub-4975903304841229">
+  <meta name="google-adsense-account" content="ca-pub-1490037781635177">
   <meta name="robots" content="index, follow, max-image-preview:large">
   <script type="application/ld+json">
   {

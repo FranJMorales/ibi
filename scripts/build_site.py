@@ -862,7 +862,7 @@ def muni_html(m):
   <meta name="description" content="Guía fiscal de {m['nombre']} ({m['prov_nombre']}) 2026: IBI urbano {m['ibi']:.2f}%, tasa de basuras {m['basuras']} €/año, plusvalía municipal, bonificaciones familia numerosa hasta {m['fn']}% y energía solar {m['solar']}%. Datos de la ordenanza actualizada.">
   <meta name="keywords" content="IBI {m['nombre']} 2026, tasa basuras {m['nombre']}, plusvalía {m['nombre']}, bonificaciones IBI {m['nombre']}">
   <link rel="canonical" href="{SITE_URL}{m['url_path']}">
-  <meta name="google-adsense-account" content="ca-pub-4975903304841229">
+  <meta name="google-adsense-account" content="ca-pub-1490037781635177">
   <meta name="robots" content="index, follow, max-image-preview:large">
   <meta property="og:title" content="IBI, basuras y plusvalía en {m['nombre']} 2026 — Guía fiscal">
   <meta property="og:description" content="IBI {m['ibi']:.2f}%, basuras {m['basuras']} €/año y plusvalía en {m['nombre']} ({m['prov_nombre']}) 2026.">
@@ -1116,7 +1116,7 @@ def ccaa_hub_html(ccaa_slug):
   <title>IBI y Tasas Municipales {ccaa['nombre']} 2026 — Por Municipio</title>
   <meta name="description" content="IBI, tasa de basuras y plusvalía en {len(munis)} municipios de {ccaa['nombre']} 2026. Ordenanzas fiscales actualizadas, bonificaciones y plazos de pago.">
   <link rel="canonical" href="{SITE_URL}/{ccaa_slug}/">
-  <meta name="google-adsense-account" content="ca-pub-4975903304841229">
+  <meta name="google-adsense-account" content="ca-pub-1490037781635177">
   <meta name="robots" content="index, follow">
   <meta property="og:title" content="IBI y Tasas Municipales {ccaa['nombre']} 2026">
   <meta property="og:description" content="IBI, basuras y plusvalía en {len(munis)} municipios de {ccaa['nombre']} 2026.">
@@ -1255,7 +1255,7 @@ def home_html():
   <title>Tasas Municipales España 2026: IBI, Basuras y Plusvalía</title>
   <meta name="description" content="IBI, tasa de basuras y plusvalía de {total} municipios en España 2026. {total_cc} comunidades autónomas, ordenanzas actualizadas, calculadora y bonificaciones.">
   <meta name="keywords" content="IBI 2026, tasa basuras municipio, plusvalía municipal, bonificaciones IBI, impuestos municipales España">
-  <meta name="google-adsense-account" content="ca-pub-4975903304841229">
+  <meta name="google-adsense-account" content="ca-pub-1490037781635177">
   <link rel="canonical" href="{SITE_URL}/">
   <meta property="og:title" content="Guía de Tasas Municipales 2026 – IBI, Basuras y Plusvalía">
   <meta property="og:description" content="Consulta el IBI, tasa de basuras, plusvalía y bonificaciones de cualquier municipio de España.">
@@ -1471,7 +1471,7 @@ def municipios_index_html():
   <meta name="description" content="IBI 2026, tasa de basuras y plusvalía de {total} municipios en España. Ordenanzas fiscales actualizadas, bonificaciones y plazos de pago por municipio.">
   <link rel="canonical" href="{SITE_URL}/municipios/">
   <meta name="robots" content="index, follow">
-  <meta name="google-adsense-account" content="ca-pub-4975903304841229">
+  <meta name="google-adsense-account" content="ca-pub-1490037781635177">
   <meta property="og:title" content="Guía IBI y Tasas por Municipio 2026 — {total} municipios">
   <meta property="og:description" content="IBI 2026, tasa de basuras y plusvalía de {total} municipios en España.">
   <meta property="og:type" content="website">
@@ -1559,7 +1559,7 @@ def comunidades_index_html():
   <meta name="description" content="IBI, basuras y plusvalía por CCAA 2026. Aragón, Asturias, Castilla-La Mancha, Castilla y León, Extremadura, Galicia y Murcia: {total} municipios en {total_cc} CCAA.">
   <link rel="canonical" href="{SITE_URL}/comunidades/">
   <meta name="robots" content="index, follow">
-  <meta name="google-adsense-account" content="ca-pub-4975903304841229">
+  <meta name="google-adsense-account" content="ca-pub-1490037781635177">
   <meta property="og:title" content="Tasas Municipales por Comunidad Autónoma 2026">
   <meta property="og:description" content="IBI, basuras y plusvalía por CCAA 2026. Guía de {total} municipios en {total_cc} comunidades autónomas.">
   <meta property="og:type" content="website">
@@ -1656,7 +1656,7 @@ def provincias_index_html():
   <meta name="description" content="IBI, basuras y plusvalía por provincia 2026. Cáceres, Badajoz, Toledo, Ciudad Real, Zaragoza, León, Salamanca, Burgos, Murcia, Lugo, A Coruña, Pontevedra, Ourense y más.">
   <link rel="canonical" href="{SITE_URL}/provincias/">
   <meta name="robots" content="index, follow">
-  <meta name="google-adsense-account" content="ca-pub-4975903304841229">
+  <meta name="google-adsense-account" content="ca-pub-1490037781635177">
   <meta property="og:title" content="Tasas Municipales por Provincia 2026 – España">
   <meta property="og:description" content="IBI, basuras y plusvalía por provincia 2026. {total} municipios indexados.">
   <meta property="og:type" content="website">

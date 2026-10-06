@@ -651,7 +651,7 @@ function generateMunicipalityPage(key) {
   <title>IBI, basuras y plusvalía en ${muniName} 2026 — Guía fiscal completa</title>
   <meta name="description" content="${metaDesc}">
   <link rel="canonical" href="https://tasasmunicipales.info/${key}/">
-  <meta name="google-adsense-account" content="ca-pub-4975903304841229">
+  <meta name="google-adsense-account" content="ca-pub-1490037781635177">
   <meta name="robots" content="index, follow, max-image-preview:large">
   <script type="application/ld+json">
   {
@@ -875,7 +875,7 @@ function generateSobreNosotros() {
   <title>Sobre nosotros — TasasMunicipales.info</title>
   <meta name="description" content="Quiénes somos y cómo elaboramos la guía de tasas municipales más completa de España. Metodología, fuentes y compromiso editorial.">
   <link rel="canonical" href="https://tasasmunicipales.info/sobre-nosotros/">
-  <meta name="google-adsense-account" content="ca-pub-4975903304841229">
+  <meta name="google-adsense-account" content="ca-pub-1490037781635177">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Source+Serif+4:wght@300;400;600&display=swap" rel="stylesheet">
   <style>
